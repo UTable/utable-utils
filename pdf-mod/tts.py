@@ -59,8 +59,9 @@ class TTS:
         for x in self.exec_res.stdout.split("\n"):
             section_match = re.search(REGEX_STRS["section"], x)
             if section_match:
-                if section_match not in res:
-                    res[section_match] = {}
+                section_str = section_match.group(0)
+                if section_str not in res:
+                    res[section_str] = {}
 
                 # NOTE: this might cause issues in the future
                 # dates are optional, so there must be a way to split data on a required value
@@ -71,7 +72,7 @@ class TTS:
                 # also subsections with one with a date and one without a date is not allowed
                 # but this most likely also doesn't exist, as a section without a date would not be in a separate subsection
                 days_strlist = re.findall(REGEX_STRS["days"], x)
-                subsec_strlist = re.split(REGEX_STRS["subsec"], x)
+                subsec_strlist = re.split(REGEX_STRS["type"], x)
                 type_match = re.search(REGEX_STRS["type"], x)
                 if not days_strlist:
                     span = type_match.span()
