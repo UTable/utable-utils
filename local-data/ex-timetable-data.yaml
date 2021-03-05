@@ -1,0 +1,22 @@
+AERO-1970:
+  name: ' Prac: Prof Devt Pilot Training '
+  sections:
+  - credits: '3.00'
+    days: W
+    full?: false
+    number: '1'
+    prof: Bacon,Tamsin A.
+    room: ' Face to Face-Talk to Dept '
+    time:
+      end: 05:50 PM
+      start: 03:00 PM
+  - credits: '3.00'
+    days: TH
+    full?: false
+    number: '2'
+    prof: Bacon,Tamsin A.
+    room: ' Face to Face-Talk to Dept '
+    time:
+      end: 05:50 PM
+      start: 03:00 PM
+  type: LEC
