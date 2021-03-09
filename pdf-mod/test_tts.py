@@ -6,7 +6,7 @@ class TestTTS(unittest.TestCase):
         tts = TTS()
     def test_get_res(self):
         tts = TTS()
-        len_exec = 195821
+        len_exec = 197283 
         if len_exec != len(tts.exec_res.stdout):
             raise Exception(f"lengths do not match! {len_exec} != {len(tts.exec_res.stdout)}")
 

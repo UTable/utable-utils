@@ -23,7 +23,8 @@ ANZO-4980
   Section 1 3.00 LEC TTH 01:00 PM 02:20 PM Online Daly,Beth 
 ARGU-9010 
   name: " Advanced St: Argumentation"
-  Section 1 6.00 LEC F 11:00 AM 01:50 PM Online Hundleby,Catherine T 04:00 PM 06:50 PM Chrysler Hall  North 2173 Hundleby,Catherine 
+  Section 1 6.00 LEC F 11:00 AM 01:50 PM Online Hundleby,Catherine 
+  T 04:00 PM 06:50 PM Chrysler Hall  North 2173 Hundleby,Catherine 
 ARGU-9980 
   name: " Dissertation Research"
   Section 1 12.00 LEC Online Hundleby,Catherine 
@@ -206,6 +207,7 @@ CMAF-4200
   Section 1 3.00 LEC T 01:30 PM 04:20 PM Online Nelson,Kim 
 CMAF-4270 
   name: " Adv Editing & Post Production"
+  WF 08:30 AM 09:50 AM Online Hector,Nick 
 CMAF-4900 
   name: " Theorizing Film & Reception"
   Section 1 Full 3.00 LEC T 04:00 PM 06:50 PM Online Virdi,Jyotika 
@@ -261,6 +263,7 @@ CNMA-4200
   Section 1 3.00 LEC T 01:30 PM 04:20 PM Online Nelson,Kim 
 CNMA-4270 
   name: " Adv Editing & Post Production"
+  WF 08:30 AM 09:50 AM Online Hector,Nick 
 MACS-2150 
   name: " Survey-Art Hist:Renaiss-Modern"
   Section 1 3.00 LEC MW 08:30 AM 09:50 AM Online Meloche,Jaclyn 
@@ -492,10 +495,13 @@ VABE-1160
   Section 1 3.00 LEC MW 06:30 PM 07:50 PM Grossi,Jason M 
 VABE-1200 
   name: " Architectural Design II"
-  Section 1 6.00 LEC MT 07:00 PM 09:50 PM Online Grossi,Jason M W 10:00 AM 12:50 PM Online Grossi,Jason M TH 08:30 AM 11:20 AM Online Grossi,Jason M 
+  Section 1 6.00 LEC MT 07:00 PM 09:50 PM Online Grossi,Jason M 
+  W 10:00 AM 12:50 PM Online Grossi,Jason M 
+  TH 08:30 AM 11:20 AM Online Grossi,Jason M 
 VABE-1200 
   name: " Laboratory"
-  Section 51 LAB W 03:00 PM 05:50 PM VABE Studio 1 - AM205 Grossi,Jason M W 07:00 PM 09:50 PM VABE Studio 1 - AM205 Grossi,Jason M 
+  Section 51 LAB W 03:00 PM 05:50 PM VABE Studio 1 - AM205 Grossi,Jason M 
+  W 07:00 PM 09:50 PM VABE Studio 1 - AM205 Grossi,Jason M 
 VABE-1290 
   name: " Intro to Architecture II"
   Section 1 1.50 LEC MW 01:00 PM 01:50 PM Grossi,Jason M 
@@ -513,7 +519,8 @@ VABE-2430
   Section 1 3.00 LEC TTH 06:40 PM 09:10 PM Grossi,Jason M 
 VABE-3200 
   name: " Architectural Design VI"
-  Section 1 3.00 LEC F 02:00 PM 06:00 PM Grossi,Jason M MW 01:00 PM 06:00 PM Grossi,Jason M 
+  Section 1 3.00 LEC F 02:00 PM 06:00 PM Grossi,Jason M 
+  MW 01:00 PM 06:00 PM Grossi,Jason M 
 VSAR-1050 
   name: " Studio Practice & Ideas /Space"
   Section 1 3.00 LEC MW 11:30 AM 02:20 PM Freedom Way  102 Strickland,Rod R 
@@ -531,7 +538,9 @@ VSAR-1080
   Section 1 3.00 LEC MW 04:00 PM 06:50 PM Online Hector,Nick 
 VSAR-2030 
   name: " Introductory Drawing"
-  Section 1 Full 3.00 LEC MT 07:00 PM 09:50 PM Online Seoane Hernandez,Jose W 10:00 AM 12:50 PM Online Seoane Hernandez,Jose TH 08:30 AM 11:20 AM Online Seoane Hernandez,Jose 
+  Section 1 Full 3.00 LEC MT 07:00 PM 09:50 PM Online Seoane Hernandez,Jose 
+  W 10:00 AM 12:50 PM Online Seoane Hernandez,Jose 
+  TH 08:30 AM 11:20 AM Online Seoane Hernandez,Jose 
 VSAR-2130 
   name: " Introductory Painting"
   Section 1 3.00 LEC M 10:00 AM 03:50 PM Online Baggio,Lisa C 
@@ -543,7 +552,9 @@ VSAR-2900
   Section 1 3.00 LEC T 11:30 AM 02:20 PM Online Mac Dowall,Cyndra J. 
 VSAR-3030 
   name: " Drawing"
-  Section 1 3.00 LEC MT 07:00 PM 09:50 PM Online Seoane Hernandez,Jose W 10:00 AM 12:50 PM Online Seoane Hernandez,Jose TH 08:30 AM 11:20 AM Online Seoane Hernandez,Jose 
+  Section 1 3.00 LEC MT 07:00 PM 09:50 PM Online Seoane Hernandez,Jose 
+  W 10:00 AM 12:50 PM Online Seoane Hernandez,Jose 
+  TH 08:30 AM 11:20 AM Online Seoane Hernandez,Jose 
 VSAR-3330 
   name: " Sculpture"
   Section 1 3.00 LEC WF 04:00 PM 06:50 PM Freedom Way  102 Strickland,Rod R 
@@ -599,7 +610,8 @@ DRAM-1270
   Section 1 3.00 LEC MW 08:30 AM 11:50 AM Jackman  Dramatic Art  Cntre 102 Quinn,Meaghen J 
 DRAM-1290 
   name: " Improv & Intro: Acting II"
-  Section 1 3.00 LEC MW 12:00 PM 12:50 PM Jackman  Dramatic Art  Cntre 100 Walsh,Lionel R MW 01:00 PM 02:20 PM Jackman  Dramatic Art  Cntre 102 Walsh,Lionel R 
+  Section 1 3.00 LEC MW 12:00 PM 12:50 PM Jackman  Dramatic Art  Cntre 100 Walsh,Lionel R 
+  MW 01:00 PM 02:20 PM Jackman  Dramatic Art  Cntre 102 Walsh,Lionel R 
 DRAM-1610 
   name: " Intro: Drama in Educ & Comm II"
   Section 1 3.00 LEC MW 10:00 AM 11:20 AM Online Nelson,Alice 
@@ -614,8 +626,10 @@ DRAM-2100
   Section 1 Full 3.00 LEC TH 04:00 PM 06:50 PM Online Brunet,Tim A 
 DRAM-2130 
   name: " Scene Painting for Theatre"
-  Section 1 3.00 LEC F 10:00 AM 12:50 PM Essex Hall B- 24 Court,David J F 10:00 AM 12:50 PM Essex Hall B18 Court,David J 
-  Section 2 Full 3.00 LEC F 01:30 PM 04:20 PM Essex Hall B18 Court,David J F 01:30 PM 04:20 PM Essex Hall B- 24 Court,David J 
+  Section 1 3.00 LEC F 10:00 AM 12:50 PM Essex Hall B- 24 Court,David J 
+  F 10:00 AM 12:50 PM Essex Hall B18 Court,David J 
+  Section 2 Full 3.00 LEC F 01:30 PM 04:20 PM Essex Hall B18 Court,David J 
+  F 01:30 PM 04:20 PM Essex Hall B- 24 Court,David J 
 DRAM-2210 
   name: " Voice for the Actor IV"
   Section 1 3.00 LEC TTH 08:30 AM 10:50 AM Jackman  Dramatic Art  Cntre 100 Keating,Michael L 
@@ -1321,6 +1335,7 @@ PSYC-8505
   Section 1 3.00 LEC T 08:30 AM 11:20 AM Online Buchanan,Lori L. 
 PSYC-8512 
   name: " Stats for Grad St in Psyc II"
+  W 08:30 AM 11:20 AM Online Jackson,Dennis 
 PSYC-8512 
   name: " Laboratory"
   Section 51 LAB M 08:30 AM 09:50 AM Online Jackson,Dennis 
@@ -1828,6 +1843,7 @@ CIVL-4710
   Section 1 3.00 LEC MW 11:30 AM 12:50 PM Online Carriveau,Rupp E 
 CIVL-4710 
   name: " Laboratory"
+  T 08:30 AM 10:20 AM Online Carriveau,Rupp E 
 CIVL-4720 
   name: " Hydraulics"
   Section 1 3.00 LEC MW 01:00 PM 02:20 PM Online Balachandar,Ram 
@@ -1896,6 +1912,7 @@ ENVE-3630
   Section 1 3.00 LEC MW 10:00 AM 11:20 AM Online Biswas,Niharendu 
 ENVE-3630 
   name: " Laboratory"
+  TH 10:00 AM 12:50 PM Online Biswas,Niharendu 
 ENVE-3640 
   name: " Materials Recovery &Waste Mgmt"
   Section 1 3.00 LEC TH 03:00 PM 05:50 PM Online Seth,Rajesh 
@@ -1916,7 +1933,8 @@ ENVE-4720
   Section 51 LAB M 02:30 PM 04:20 PM Online Asfour,Abdul-Fattah A 
 ENVE-4730 
   name: " Environ Engg Microbiology"
-  Section 1 3.00 LEC TTH 10:00 AM 11:20 AM Online Lalman,Jerald T 11:30 AM 12:20 PM Online Lalman,Jerald 
+  Section 1 3.00 LEC TTH 10:00 AM 11:20 AM Online Lalman,Jerald 
+  T 11:30 AM 12:20 PM Online Lalman,Jerald 
 ENVE-8006 
   name: " Life Cycle Thinking for Eng"
   Section 1 3.00 LEC W 11:30 AM 02:20 PM Online Ruparathna,Rajeev 
@@ -1952,11 +1970,14 @@ ELEC-2170
   Section 1 3.00 LEC TTH 10:00 AM 11:20 AM Online Muscedere,Roberto 
 ELEC-2170 
   name: " Laboratory"
+  W 12:30 PM 02:20 PM Online Muscedere,Roberto 
+  F 12:30 PM 02:20 PM Online Muscedere,Roberto 
 ELEC-2200 
   name: " Circuit Analysis"
   Section 1 3.00 LEC TTH 04:30 PM 05:50 PM Online Chen,Chunhong 
 ELEC-2200 
   name: " Laboratory"
+  M 01:00 PM 03:50 PM Online Chen,Chunhong 
 ELEC-2240 
   name: " Signals and Systems"
   Section 1 3.00 LEC MW 10:00 AM 11:20 AM Online Balasingam,Bala 
@@ -1965,7 +1986,8 @@ ELEC-2240
   Section 51 LAB T 01:00 PM 03:50 PM Online Balasingam,Bala 
 ELEC-2260 
   name: " Electronics I"
-  Section 1 3.00 LEC F 02:30 PM 03:50 PM Online Mirhassani,Mitra TTH 11:30 AM 12:50 PM Online Mirhassani,Mitra 
+  Section 1 3.00 LEC F 02:30 PM 03:50 PM Online Mirhassani,Mitra 
+  TTH 11:30 AM 12:50 PM Online Mirhassani,Mitra 
 ELEC-2260 
   name: " Laboratory"
   Section 51 LAB TH 01:00 PM 02:20 PM Online Mirhassani,Mitra 
@@ -1990,6 +2012,7 @@ ELEC-4190
   Section 1 3.00 LEC TTH 10:00 AM 11:20 AM Online Shahrrava,Behnam 
 ELEC-4190 
   name: " Laboratory"
+  TH 05:30 PM 07:20 PM Online Shahrrava,Behnam 
 ELEC-4310 
   name: " Control Systems II"
   Section 1 3.00 LEC MW 11:30 AM 12:50 PM Online Chen,Xiang 
@@ -2022,7 +2045,8 @@ ELEC-4430
   Section 51 LAB M 04:00 PM 06:50 PM Online Khalid,Mohammed 
 ELEC-4440 
   name: " Analog Integrated Circuit Desn"
-  Section 1 3.00 LEC W 04:30 PM 05:50 PM Online Chen,Chunhong F 01:00 PM 02:20 PM Online Chen,Chunhong 
+  Section 1 3.00 LEC W 04:30 PM 05:50 PM Online Chen,Chunhong 
+  F 01:00 PM 02:20 PM Online Chen,Chunhong 
 ELEC-4440 
   name: " Laboratory"
   Section 51 LAB MW 08:30 AM 09:50 AM Online Chen,Chunhong 
@@ -2049,6 +2073,7 @@ ELEC-4570
   Section 1 3.00 LEC TTH 11:30 AM 12:50 PM Online Shahrrava,Behnam 
 ELEC-4570 
   name: " Laboratory"
+  W 06:00 PM 07:50 PM Online Shahrrava,Behnam 
 ELEC-8250 
   name: " 2-Diml Digital Signal Processg"
   Section 1 3.00 LEC W 01:00 PM 03:50 PM Online Ahmadi,Majid 
@@ -2087,9 +2112,12 @@ ELEC-8900
   Section 115 3.00 LEC W 04:00 PM 06:50 PM Online Toulabi,Mohammad Sedigh 
 ELEC-8900 
   name: " Analog Integrated Circuit Desi"
-  Section 2 3.00 LEC W 04:30 PM 05:50 PM Online Chen,Chunhong F 01:00 PM 02:20 PM Online Chen,Chunhong 
+  Section 2 3.00 LEC W 04:30 PM 05:50 PM Online Chen,Chunhong 
+  F 01:00 PM 02:20 PM Online Chen,Chunhong 
 ELEC-8900 
   name: " Sensor Design Intr, BioMed APP"
+  TH 08:30 AM 11:20 AM Online Emadi,Arezoo 
+  T 08:30 AM 11:20 AM Online Emadi,Arezoo 
 ELEC-8900 
   name: " Adv. Energy Storage Systems"
   Section 30 3.00 LEC F 08:30 AM 11:20 AM Online Balasingam,Bala 
@@ -2144,9 +2172,11 @@ GENG-2180
   Section 2 3.00 LEC MW 02:30 PM 03:50 PM Online Lee,Chris 
 GENG-2180 
   name: " Laboratory"
+  M 08:30 AM 11:20 AM Online Cherniaev,Aleksandr 
   Section 52 LAB T 10:00 AM 12:50 PM Online Lee,Chris 
   Section 53 LAB W 08:30 AM 11:20 AM Online Cherniaev,Aleksandr 
-  Section 54 LAB TH 10:00 AM 12:50 PM Online Lee,Chris F 01:00 PM 03:50 PM Online Cherniaev,Aleksandr 
+  Section 54 LAB TH 10:00 AM 12:50 PM Online Lee,Chris 
+  F 01:00 PM 03:50 PM Online Cherniaev,Aleksandr 
 GENG-2190 
   name: " Engg Materials Fundamentals"
   Section 1 3.00 LEC TTH 08:30 AM 09:50 AM Online Alpas,Ahmet T 
@@ -2167,8 +2197,10 @@ GENG-2200
   Section 54 LAB W 09:30 AM 11:20 AM Online Ting,David S 
 GENG-2220 
   name: " Treatment of Experimental Data"
-  Section 1 Full 3.00 LEC MWF 11:30 AM 12:20 PM Online Miller-Branovacki,Lindsay F 09:30 AM 10:20 AM Online Miller-Branovacki,Lindsay 
-  Section 2 Full 3.00 LEC F 08:30 AM 09:20 AM Online Naderi,Bahman MW 04:00 PM 05:20 PM Online Naderi,Bahman 
+  Section 1 Full 3.00 LEC MWF 11:30 AM 12:20 PM Online Miller-Branovacki,Lindsay 
+  F 09:30 AM 10:20 AM Online Miller-Branovacki,Lindsay 
+  Section 2 Full 3.00 LEC F 08:30 AM 09:20 AM Online Naderi,Bahman 
+  MW 04:00 PM 05:20 PM Online Naderi,Bahman 
 GENG-2980 
   name: " Work Term I"
   Section 1 3.00 LEC Online TBA 
@@ -2223,6 +2255,7 @@ INDE-3020
   Section 1 3.00 LEC MW 02:30 PM 03:50 PM Online Kim,Eunsik 
 INDE-3020 
   name: " Laboratory"
+  M 04:00 PM 05:50 PM Online Kim,Eunsik 
   Section 52 LAB T 09:30 AM 11:20 AM Online Kim,Eunsik 
 INDE-3110 
   name: " Comp-Aided Des/Comp Aided Mfg"
@@ -2250,10 +2283,12 @@ INDE-4000B
   Section 51 LAB F 11:00 AM 05:50 PM Online Urbanic,Jill 
 INDE-4120 
   name: " Operations Research II"
-  Section 1 3.00 LEC MW 11:30 AM 12:50 PM Online Abdul-Kader,Walid W 02:30 PM 04:20 PM Online Abdul-Kader,Walid 
+  Section 1 3.00 LEC MW 11:30 AM 12:50 PM Online Abdul-Kader,Walid 
+  W 02:30 PM 04:20 PM Online Abdul-Kader,Walid 
 INDE-4310 
   name: " Flexible Manufacturing Systems"
-  Section 1 3.00 LEC TH 04:30 PM 06:20 PM Online Elmaraghy,Hoda A T 02:30 PM 05:20 PM Online Elmaraghy,Hoda A 
+  Section 1 3.00 LEC TH 04:30 PM 06:20 PM Online Elmaraghy,Hoda A 
+  T 02:30 PM 05:20 PM Online Elmaraghy,Hoda A 
 INDE-4350 
   name: " DOE Techniques for Mfg"
   Section 1 3.00 LEC T 08:30 AM 11:20 AM Online Oriet,Leo 
@@ -2287,7 +2322,8 @@ INDE-8900
   Section 1 3.00 LEC F 04:30 PM 07:20 PM Online Al-Zaher,Abdo 
 INDE-8900 
   name: " Operation Research II"
-  Section 31 3.00 LEC MW 11:30 AM 12:50 PM Online Abdul-Kader,Walid W 02:30 PM 04:20 PM Online Abdul-Kader,Walid 
+  Section 31 3.00 LEC MW 11:30 AM 12:50 PM Online Abdul-Kader,Walid 
+  W 02:30 PM 04:20 PM Online Abdul-Kader,Walid 
 INDE-8900 
   name: "  Lean Manufacturing &Process I"
   Section 34 Full 3.00 LEC TH 05:30 PM 08:20 PM Online Khan,Sardar Asif A 
@@ -2311,7 +2347,9 @@ INDE-9980
   Section 1 12.00 LEC Online Urbanic,Jill 
 MATL-8813 
   name: " Tribology: Matls & Mfg Aspects"
-  Section 1 Full 3.00 LEC M 10:00 AM 11:20 AM Online Alpas,Ahmet T W 10:00 AM 11:20 AM Online Alpas,Ahmet T TH 04:30 PM 06:50 PM Online Alpas,Ahmet T 
+  Section 1 Full 3.00 LEC M 10:00 AM 11:20 AM Online Alpas,Ahmet T 
+  W 10:00 AM 11:20 AM Online Alpas,Ahmet T 
+  TH 04:30 PM 06:50 PM Online Alpas,Ahmet T 
 MATL-8890 
   name: " Thin Films and Coatings"
   Section 20 3.00 LEC M 03:00 PM 05:50 PM Online Nie,Xueyuan 
@@ -2327,7 +2365,8 @@ MATL-9980
 MECH-2230 
   name: " Advanced Engineering & Design"
   Section 1 Full 3.00 LEC T 02:30 PM 06:20 PM Online Pusca,Daniela 
-  Section 2 Full 3.00 LEC TH 04:00 PM 07:50 PM Online Pusca,Daniela F 04:30 PM 08:30 PM Online Pusca,Daniela 
+  Section 2 Full 3.00 LEC TH 04:00 PM 07:50 PM Online Pusca,Daniela 
+  F 04:30 PM 08:30 PM Online Pusca,Daniela 
 MECH-3215 
   name: " Mechanical Vibrations"
   Section 1 3.00 LEC MW 06:00 PM 07:20 PM Online Novak,Colin J 
@@ -2342,7 +2381,8 @@ MECH-3224
   Section 60 3.00 LEC TH 05:30 PM 08:20 PM Online Ahmadi,Arash 
 MECH-3430 
   name: " Automotive Engg Fundamentals"
-  Section 1 3.00 LEC MW 08:00 PM 09:20 PM Online Eaves,Nick MW 08:30 AM 09:50 AM Online Eaves,Nick 
+  Section 1 3.00 LEC MW 08:00 PM 09:20 PM Online Eaves,Nick 
+  MW 08:30 AM 09:50 AM Online Eaves,Nick 
 MECH-3671 
   name: " Aerospace Materials & Mfg"
   Section 1 3.00 LEC TTH 08:30 AM 09:50 AM Online Riahi,Reza R 
@@ -2409,10 +2449,12 @@ MECH-4255
   Section 55 Full 3.00 LAB TH 07:00 PM 07:50 PM Online Novak,Colin J 
 MECH-4440 
   name: " New Materials/Auto Elective"
-  Section 10 3.00 LEC MW 08:30 AM 09:50 AM Online Hu,Henry F 10:30 AM 12:20 PM Online Hu,Henry 
+  Section 10 3.00 LEC MW 08:30 AM 09:50 AM Online Hu,Henry 
+  F 10:30 AM 12:20 PM Online Hu,Henry 
 MECH-4440 
   name: " Topics in Automotive Engineeri"
-  Section 4 3.00 LEC W 08:30 AM 09:50 AM Online Cherniaev,Aleksandr TTH 10:00 AM 11:20 AM Online Cherniaev,Aleksandr 
+  Section 4 3.00 LEC W 08:30 AM 09:50 AM Online Cherniaev,Aleksandr 
+  TTH 10:00 AM 11:20 AM Online Cherniaev,Aleksandr 
 MECH-4463 
   name: " Vehicle Dynamics"
   Section 1 3.00 LEC TTH 10:00 AM 11:20 AM Online Johrendt,Jennifer L. 
@@ -2439,10 +2481,13 @@ MECH-4821
   Section 51 LAB TH 02:30 PM 04:20 PM Online Alpas,Ahmet T 
 MECH-4840 
   name: " New Materials/Auto Elective"
-  Section 10 3.00 LEC MW 08:30 AM 09:50 AM Online Hu,Henry F 10:30 AM 12:20 PM Online Hu,Henry 
+  Section 10 3.00 LEC MW 08:30 AM 09:50 AM Online Hu,Henry 
+  F 10:30 AM 12:20 PM Online Hu,Henry 
 MECH-4840 
   name: " Tribology: Matls& Mfg Aspects"
-  Section 8 3.00 LEC M 10:00 AM 11:20 AM Online Alpas,Ahmet T W 10:00 AM 11:20 AM Online Alpas,Ahmet T TH 04:30 PM 06:50 PM Online Alpas,Ahmet T 
+  Section 8 3.00 LEC M 10:00 AM 11:20 AM Online Alpas,Ahmet T 
+  W 10:00 AM 11:20 AM Online Alpas,Ahmet T 
+  TH 04:30 PM 06:50 PM Online Alpas,Ahmet T 
 MECH-8000 
   name: " Auto. Materials and Manufactur"
   Section 1 3.00 LEC T 01:30 PM 04:20 PM Online Altenhof,Bill J 
@@ -2495,6 +2540,7 @@ MECH-8290
   Section 62 3.00 LEC F 11:30 AM 02:20 PM Online Balasingam,Bala 
 MECH-8290 
   name: " Engine Testing and Performance"
+  T 07:00 PM 09:50 PM Online Asad,Usman 
 MECH-8290 
   name: " Statistical Quality Control"
   Section 80 Full 3.00 LEC T 04:00 PM 06:50 PM Online Baki,Fouzia 
@@ -2732,22 +2778,38 @@ NURS-1512
   Section 27 1.50 LEC TH 06:00 AM 09:00 PM Face to Face- Talk to Dept Bownes,Natalie Ravi,Padma 
 NURS-1521 
   name: " Experiential Learning Lab II"
-  Section 51 Full 1.00 LEC T 07:30 AM 08:45 AM O'Neil Medical  Educ Centr  3129 Bownes,Natalie Mcewen,Amanda Ussoletti,Celina L. T 07:30 AM 08:45 AM O'Neil Medical  Educ Centr  3127 Bownes,Natalie Mcewen,Amanda Ussoletti,Celina L. 
-  Section 52 Full 1.00 LEC T 09:15 AM 10:30 AM O'Neil Medical  Educ Centr  3129 Bownes,Natalie Mcewen,Amanda Ussoletti,Celina L. T 09:15 AM 10:30 AM O'Neil Medical  Educ Centr  3127 Bownes,Natalie Mcewen,Amanda Ussoletti,Celina L. 
-  Section 53 Full 1.00 LEC T 11:00 AM 12:15 PM O'Neil Medical  Educ Centr  3129 Bownes,Natalie Mcewen,Amanda Ussoletti,Celina L. T 11:00 AM 12:15 PM O'Neil Medical  Educ Centr  3127 Bownes,Natalie Mcewen,Amanda Ussoletti,Celina L. 
-  Section 54 Full 1.00 LEC T 12:45 PM 02:00 PM O'Neil Medical  Educ Centr  3129 Bownes,Natalie Mcewen,Amanda Ussoletti,Celina L. T 12:45 PM 02:00 PM O'Neil Medical  Educ Centr  3127 Bownes,Natalie Mcewen,Amanda Ussoletti,Celina L. 
-  Section 55 Full 1.00 LEC T 02:30 PM 03:45 PM O'Neil Medical  Educ Centr  3129 Bownes,Natalie Leventis,Alisha Mcewen,Amanda T 02:30 PM 03:45 PM O'Neil Medical  Educ Centr  3127 Bownes,Natalie Leventis,Alisha Mcewen,Amanda 
-  Section 56 Full 1.00 LEC TH 07:30 AM 08:45 AM O'Neil Medical  Educ Centr  3129 Bownes,Natalie Laing,Danielle M. Mcewen,Amanda TH 07:30 AM 08:45 AM O'Neil Medical  Educ Centr  3127 Bownes,Natalie Laing,Danielle M. Mcewen,Amanda 
-  Section 57 Full 1.00 LEC TH 09:15 AM 10:30 AM O'Neil Medical  Educ Centr  3129 Bownes,Natalie Laing,Danielle M. Mcewen,Amanda TH 09:15 AM 10:30 AM O'Neil Medical  Educ Centr  3127 Bownes,Natalie Laing,Danielle M. Mcewen,Amanda 
-  Section 58 Full 1.00 LEC TH 11:00 AM 12:15 PM O'Neil Medical  Educ Centr  3129 Bownes,Natalie Laing,Danielle M. Mcewen,Amanda TH 11:00 AM 12:15 PM O'Neil Medical  Educ Centr  3127 Bownes,Natalie Laing,Danielle M. Mcewen,Amanda 
-  Section 59 Full 1.00 LEC TH 12:45 PM 02:00 PM O'Neil Medical  Educ Centr  3129 Bownes,Natalie Laing,Danielle M. Mcewen,Amanda TH 12:45 PM 02:00 PM O'Neil Medical  Educ Centr  3127 Bownes,Natalie Laing,Danielle M. Mcewen,Amanda 
-  Section 60 Full 1.00 LEC TH 02:30 PM 03:45 PM O'Neil Medical  Educ Centr  3129 Bownes,Natalie Kennedy,Kelly A Mcewen,Amanda TH 02:30 PM 03:45 PM O'Neil Medical  Educ Centr  3127 Bownes,Natalie Kennedy,Kelly A Mcewen,Amanda 
-  Section 61 Full 1.00 LEC T 04:15 PM 05:30 PM O'Neil Medical  Educ Centr  3129 Bownes,Natalie Leventis,Alisha Mcewen,Amanda T 04:15 PM 05:30 PM O'Neil Medical  Educ Centr  3127 Bownes,Natalie Leventis,Alisha Mcewen,Amanda 
-  Section 62 1.00 LEC T 06:00 PM 07:15 PM O'Neil Medical  Educ Centr  3129 Bownes,Natalie Leventis,Alisha Mcewen,Amanda T 06:00 PM 07:15 PM O'Neil Medical  Educ Centr  3127 Bownes,Natalie Leventis,Alisha Mcewen,Amanda 
+  Section 51 Full 1.00 LEC T 07:30 AM 08:45 AM O'Neil Medical  Educ Centr  3129 Bownes,Natalie Mcewen,Amanda Ussoletti,Celina L. 
+  T 07:30 AM 08:45 AM O'Neil Medical  Educ Centr  3127 Bownes,Natalie Mcewen,Amanda Ussoletti,Celina L. 
+  Section 52 Full 1.00 LEC T 09:15 AM 10:30 AM O'Neil Medical  Educ Centr  3129 Bownes,Natalie Mcewen,Amanda Ussoletti,Celina L. 
+  T 09:15 AM 10:30 AM O'Neil Medical  Educ Centr  3127 Bownes,Natalie Mcewen,Amanda Ussoletti,Celina L. 
+  Section 53 Full 1.00 LEC T 11:00 AM 12:15 PM O'Neil Medical  Educ Centr  3129 Bownes,Natalie Mcewen,Amanda Ussoletti,Celina L. 
+  T 11:00 AM 12:15 PM O'Neil Medical  Educ Centr  3127 Bownes,Natalie Mcewen,Amanda Ussoletti,Celina L. 
+  Section 54 Full 1.00 LEC T 12:45 PM 02:00 PM O'Neil Medical  Educ Centr  3129 Bownes,Natalie Mcewen,Amanda Ussoletti,Celina L. 
+  T 12:45 PM 02:00 PM O'Neil Medical  Educ Centr  3127 Bownes,Natalie Mcewen,Amanda Ussoletti,Celina L. 
+  Section 55 Full 1.00 LEC T 02:30 PM 03:45 PM O'Neil Medical  Educ Centr  3129 Bownes,Natalie Leventis,Alisha Mcewen,Amanda 
+  T 02:30 PM 03:45 PM O'Neil Medical  Educ Centr  3127 Bownes,Natalie Leventis,Alisha Mcewen,Amanda 
+  Section 56 Full 1.00 LEC TH 07:30 AM 08:45 AM O'Neil Medical  Educ Centr  3129 Bownes,Natalie Laing,Danielle M. Mcewen,Amanda 
+  TH 07:30 AM 08:45 AM O'Neil Medical  Educ Centr  3127 Bownes,Natalie Laing,Danielle M. Mcewen,Amanda 
+  Section 57 Full 1.00 LEC TH 09:15 AM 10:30 AM O'Neil Medical  Educ Centr  3129 Bownes,Natalie Laing,Danielle M. Mcewen,Amanda 
+  TH 09:15 AM 10:30 AM O'Neil Medical  Educ Centr  3127 Bownes,Natalie Laing,Danielle M. Mcewen,Amanda 
+  Section 58 Full 1.00 LEC TH 11:00 AM 12:15 PM O'Neil Medical  Educ Centr  3129 Bownes,Natalie Laing,Danielle M. Mcewen,Amanda 
+  TH 11:00 AM 12:15 PM O'Neil Medical  Educ Centr  3127 Bownes,Natalie Laing,Danielle M. Mcewen,Amanda 
+  Section 59 Full 1.00 LEC TH 12:45 PM 02:00 PM O'Neil Medical  Educ Centr  3129 Bownes,Natalie Laing,Danielle M. Mcewen,Amanda 
+  TH 12:45 PM 02:00 PM O'Neil Medical  Educ Centr  3127 Bownes,Natalie Laing,Danielle M. Mcewen,Amanda 
+  Section 60 Full 1.00 LEC TH 02:30 PM 03:45 PM O'Neil Medical  Educ Centr  3129 Bownes,Natalie Kennedy,Kelly A Mcewen,Amanda 
+  TH 02:30 PM 03:45 PM O'Neil Medical  Educ Centr  3127 Bownes,Natalie Kennedy,Kelly A Mcewen,Amanda 
+  Section 61 Full 1.00 LEC T 04:15 PM 05:30 PM O'Neil Medical  Educ Centr  3129 Bownes,Natalie Leventis,Alisha Mcewen,Amanda 
+  T 04:15 PM 05:30 PM O'Neil Medical  Educ Centr  3127 Bownes,Natalie Leventis,Alisha Mcewen,Amanda 
+  Section 62 1.00 LEC T 06:00 PM 07:15 PM O'Neil Medical  Educ Centr  3129 Bownes,Natalie Leventis,Alisha Mcewen,Amanda 
+  T 06:00 PM 07:15 PM O'Neil Medical  Educ Centr  3127 Bownes,Natalie Leventis,Alisha Mcewen,Amanda 
   Section 63 1.00 LEC T 07:45 PM 09:00 PM O'Neil Medical  Educ Centr  3129 Bownes,Natalie Leventis,Alisha Mcewen,Amanda 
-  Section 64 1.00 LEC TH 04:15 PM 05:30 PM O'Neil Medical  Educ Centr  3129 Bownes,Natalie Kennedy,Kelly A Mcewen,Amanda TH 04:15 PM 05:30 PM O'Neil Medical  Educ Centr  3127 Bownes,Natalie Kennedy,Kelly A Mcewen,Amanda 
-  Section 65 Full 1.00 LEC TH 06:00 PM 07:15 PM O'Neil Medical  Educ Centr  3129 Bownes,Natalie Kennedy,Kelly A Mcewen,Amanda TH 06:00 PM 07:15 PM O'Neil Medical  Educ Centr  3127 Bownes,Natalie Kennedy,Kelly A Mcewen,Amanda 
-  Section 66 Full 1.00 LEC TH 07:45 PM 09:00 PM O'Neil Medical  Educ Centr  3129 Bownes,Natalie Kennedy,Kelly A Mcewen,Amanda TH 07:45 PM 09:00 PM O'Neil Medical  Educ Centr  3127 Bownes,Natalie Kennedy,Kelly A Mcewen,Amanda 
+  T 07:45 PM 09:00 PM O'Neil Medical  Educ Centr  3127 Bownes,Natalie Leventis,Alisha Mcewen,Amanda 
+  Section 64 1.00 LEC TH 04:15 PM 05:30 PM O'Neil Medical  Educ Centr  3129 Bownes,Natalie Kennedy,Kelly A Mcewen,Amanda 
+  TH 04:15 PM 05:30 PM O'Neil Medical  Educ Centr  3127 Bownes,Natalie Kennedy,Kelly A Mcewen,Amanda 
+  Section 65 Full 1.00 LEC TH 06:00 PM 07:15 PM O'Neil Medical  Educ Centr  3129 Bownes,Natalie Kennedy,Kelly A Mcewen,Amanda 
+  TH 06:00 PM 07:15 PM O'Neil Medical  Educ Centr  3127 Bownes,Natalie Kennedy,Kelly A Mcewen,Amanda 
+  Section 66 Full 1.00 LEC TH 07:45 PM 09:00 PM O'Neil Medical  Educ Centr  3129 Bownes,Natalie Kennedy,Kelly A Mcewen,Amanda 
+  TH 07:45 PM 09:00 PM O'Neil Medical  Educ Centr  3127 Bownes,Natalie Kennedy,Kelly A Mcewen,Amanda 
 NURS-1612 
   name: " Consolidated Practicum I"
   Section 1 3.00 LEC Face to Face- Talk to Dept Bownes,Natalie 
@@ -2774,17 +2836,28 @@ NURS-2532
   Section 26 Full 3.00 LEC TH 06:00 AM 10:00 PM Face to Face- Talk to Dept Dennison,Susan Rajaratnam,Jayne 
 NURS-2541 
   name: " Experiential Learning Lab IV"
-  Section 51 1.00 LEC T 07:00 AM 10:30 AM Toldo Health  Education Ctr  212 Dennison,Susan Mclaughlin,Brenda E T 07:00 AM 10:30 AM Toldo Health  Education Ctr  214 Dennison,Susan Mclaughlin,Brenda E 
-  Section 52 Full 1.00 LEC T 11:00 AM 02:30 PM Toldo Health  Education Ctr  212 Dennison,Susan Mclaughlin,Brenda E T 11:00 AM 02:30 PM Toldo Health  Education Ctr  214 Dennison,Susan Mclaughlin,Brenda E 
-  Section 53 Full 1.00 LEC T 03:00 PM 06:30 PM Toldo Health  Education Ctr  212 Dennison,Susan Mclaughlin,Brenda E T 03:00 PM 06:30 PM Toldo Health  Education Ctr  214 Dennison,Susan Mclaughlin,Brenda E 
-  Section 54 1.00 LEC T 07:00 AM 10:30 AM Toldo Health  Education Ctr  212 Dennison,Susan Ruccolo,Alyssa T 07:00 AM 10:30 AM Toldo Health  Education Ctr  214 Dennison,Susan Ruccolo,Alyssa 
-  Section 55 Full 1.00 LEC T 11:00 AM 02:30 PM Toldo Health  Education Ctr  212 Dennison,Susan Ruccolo,Alyssa T 11:00 AM 02:30 PM Toldo Health  Education Ctr  214 Dennison,Susan Ruccolo,Alyssa 
-  Section 56 Full 1.00 LEC TH 07:00 AM 10:30 AM Toldo Health  Education Ctr  212 Dennison,Susan Galbraith,Leslie A TH 07:00 AM 10:30 AM Toldo Health  Education Ctr  214 Dennison,Susan Galbraith,Leslie A 
-  Section 57 Full 1.00 LEC TH 11:00 AM 02:30 PM Toldo Health  Education Ctr  212 Dennison,Susan Galbraith,Leslie A TH 11:00 AM 02:30 PM Toldo Health  Education Ctr  214 Dennison,Susan Galbraith,Leslie A 
-  Section 58 Full 1.00 LEC TH 07:00 AM 10:30 AM Toldo Health  Education Ctr  212 Dennison,Susan Sweet,Heather TH 07:00 AM 10:30 AM Toldo Health  Education Ctr  214 Dennison,Susan Sweet,Heather 
-  Section 59 Full 1.00 LEC TH 11:00 AM 02:30 PM Toldo Health  Education Ctr  212 Dennison,Susan Sweet,Heather TH 11:00 AM 02:30 PM Toldo Health  Education Ctr  214 Dennison,Susan Sweet,Heather 
-  Section 60 Full 1.00 LEC TH 03:00 PM 06:30 PM Toldo Health  Education Ctr  212 Dennison,Susan Galbraith,Leslie A TH 03:00 PM 06:30 PM Toldo Health  Education Ctr  214 Dennison,Susan Galbraith,Leslie A 
+  Section 51 1.00 LEC T 07:00 AM 10:30 AM Toldo Health  Education Ctr  212 Dennison,Susan Mclaughlin,Brenda E 
+  T 07:00 AM 10:30 AM Toldo Health  Education Ctr  214 Dennison,Susan Mclaughlin,Brenda E 
+  Section 52 Full 1.00 LEC T 11:00 AM 02:30 PM Toldo Health  Education Ctr  212 Dennison,Susan Mclaughlin,Brenda E 
+  T 11:00 AM 02:30 PM Toldo Health  Education Ctr  214 Dennison,Susan Mclaughlin,Brenda E 
+  Section 53 Full 1.00 LEC T 03:00 PM 06:30 PM Toldo Health  Education Ctr  212 Dennison,Susan Mclaughlin,Brenda E 
+  T 03:00 PM 06:30 PM Toldo Health  Education Ctr  214 Dennison,Susan Mclaughlin,Brenda E 
+  Section 54 1.00 LEC T 07:00 AM 10:30 AM Toldo Health  Education Ctr  212 Dennison,Susan Ruccolo,Alyssa 
+  T 07:00 AM 10:30 AM Toldo Health  Education Ctr  214 Dennison,Susan Ruccolo,Alyssa 
+  Section 55 Full 1.00 LEC T 11:00 AM 02:30 PM Toldo Health  Education Ctr  212 Dennison,Susan Ruccolo,Alyssa 
+  T 11:00 AM 02:30 PM Toldo Health  Education Ctr  214 Dennison,Susan Ruccolo,Alyssa 
+  Section 56 Full 1.00 LEC TH 07:00 AM 10:30 AM Toldo Health  Education Ctr  212 Dennison,Susan Galbraith,Leslie A 
+  TH 07:00 AM 10:30 AM Toldo Health  Education Ctr  214 Dennison,Susan Galbraith,Leslie A 
+  Section 57 Full 1.00 LEC TH 11:00 AM 02:30 PM Toldo Health  Education Ctr  212 Dennison,Susan Galbraith,Leslie A 
+  TH 11:00 AM 02:30 PM Toldo Health  Education Ctr  214 Dennison,Susan Galbraith,Leslie A 
+  Section 58 Full 1.00 LEC TH 07:00 AM 10:30 AM Toldo Health  Education Ctr  212 Dennison,Susan Sweet,Heather 
+  TH 07:00 AM 10:30 AM Toldo Health  Education Ctr  214 Dennison,Susan Sweet,Heather 
+  Section 59 Full 1.00 LEC TH 11:00 AM 02:30 PM Toldo Health  Education Ctr  212 Dennison,Susan Sweet,Heather 
+  TH 11:00 AM 02:30 PM Toldo Health  Education Ctr  214 Dennison,Susan Sweet,Heather 
+  Section 60 Full 1.00 LEC TH 03:00 PM 06:30 PM Toldo Health  Education Ctr  212 Dennison,Susan Galbraith,Leslie A 
+  TH 03:00 PM 06:30 PM Toldo Health  Education Ctr  214 Dennison,Susan Galbraith,Leslie A 
   Section 61 Full 1.00 LEC TH 03:30 PM 07:00 PM Toldo Health  Education Ctr  212 Dennison,Susan Sweet,Heather 
+  TH 03:30 PM 07:00 PM Toldo Health  Education Ctr  214 Dennison,Susan Sweet,Heather 
 NURS-2622 
   name: " Consolidated Practicum II"
   Section 1 3.00 LEC Face to Face- Talk to Dept Dennison,Susan 
@@ -2984,8 +3057,10 @@ NURS-8520B
   Section 1 1.50 LEC Online Freeman,Laurie 
 NURS-8580 
   name: " Adv Hlth Assess & Diagnosis II"
-  Section 1 4.50 LEC F 08:30 AM 11:20 AM O'Neil Medical  Educ Centr  3129 Pittman,Gina M F 08:30 AM 11:20 AM O'Neil Medical  Educ Centr  3127 Pittman,Gina M 
-  Section 2 4.50 LEC F 01:00 PM 03:50 PM O'Neil Medical  Educ Centr  3129 Morrell,Sherry F 01:00 PM 03:50 PM O'Neil Medical  Educ Centr  3127 Morrell,Sherry 
+  Section 1 4.50 LEC F 08:30 AM 11:20 AM O'Neil Medical  Educ Centr  3129 Pittman,Gina M 
+  F 08:30 AM 11:20 AM O'Neil Medical  Educ Centr  3127 Pittman,Gina M 
+  Section 2 4.50 LEC F 01:00 PM 03:50 PM O'Neil Medical  Educ Centr  3129 Morrell,Sherry 
+  F 01:00 PM 03:50 PM O'Neil Medical  Educ Centr  3127 Morrell,Sherry 
 NURS-8620 
   name: " Therapeutics:Prim Hlth Care II"
   Section 1 Full 4.50 LEC F 08:30 AM 11:20 AM Online Mcalpine,Kimberly 
@@ -3055,9 +3130,13 @@ BIOC-3130
 BIOC-3581B 
   name: " Biotechnology Laboratory"
   Section 1 Full 3.00 LEC M 11:30 AM 12:20 PM Online Hart,Norah E Hudson,John 
-  Section 2 Full 3.00 LEC M 11:30 AM 12:20 PM Online Hudson,John TW 06:00 PM 08:50 PM Online Hart,Norah E Hudson,John 
-  Section 3 Full 3.00 LEC M 11:30 AM 12:20 PM Online Hudson,John THF 02:30 PM 05:20 PM Online Hart,Norah E Hudson,John 
-  Section 4 Full 3.00 LEC M 11:30 AM 12:20 PM Online Hart,Norah E Hudson,John THF 06:00 PM 08:50 PM Online Hart,Norah E Hudson,John 
+  TW 02:30 PM 05:20 PM Online Hart,Norah E Hudson,John 
+  Section 2 Full 3.00 LEC M 11:30 AM 12:20 PM Online Hudson,John 
+  TW 06:00 PM 08:50 PM Online Hart,Norah E Hudson,John 
+  Section 3 Full 3.00 LEC M 11:30 AM 12:20 PM Online Hudson,John 
+  THF 02:30 PM 05:20 PM Online Hart,Norah E Hudson,John 
+  Section 4 Full 3.00 LEC M 11:30 AM 12:20 PM Online Hart,Norah E Hudson,John 
+  THF 06:00 PM 08:50 PM Online Hart,Norah E Hudson,John 
 BIOC-4010 
   name: " Bioinformc/Genomics/Proteomics"
   Section 1 3.00 LEC TTH 08:30 AM 09:50 AM Online Tong,Yufeng 
@@ -3591,10 +3670,14 @@ BIOM-3530
   Section 1 Full 3.00 LEC TTH 10:00 AM 11:20 AM Online Hubberstey,Andrew 
 BIOM-3581B 
   name: " Biotechnology Laboratory"
-  Section 1 Full 3.00 LEC M 11:30 AM 12:20 PM Online Hart,Norah E Hudson,John TW 02:30 PM 05:20 PM Online Hart,Norah E Hudson,John 
-  Section 2 Full 3.00 LEC M 11:30 AM 12:20 PM Online Hudson,John TW 06:00 PM 08:50 PM Online Hart,Norah E Hudson,John 
-  Section 3 Full 3.00 LEC M 11:30 AM 12:20 PM Online Hudson,John THF 02:30 PM 05:20 PM Online Hart,Norah E Hudson,John 
-  Section 4 Full 3.00 LEC M 11:30 AM 12:20 PM Online Hart,Norah E Hudson,John THF 06:00 PM 08:50 PM Online Hart,Norah E Hudson,John 
+  Section 1 Full 3.00 LEC M 11:30 AM 12:20 PM Online Hart,Norah E Hudson,John 
+  TW 02:30 PM 05:20 PM Online Hart,Norah E Hudson,John 
+  Section 2 Full 3.00 LEC M 11:30 AM 12:20 PM Online Hudson,John 
+  TW 06:00 PM 08:50 PM Online Hart,Norah E Hudson,John 
+  Section 3 Full 3.00 LEC M 11:30 AM 12:20 PM Online Hudson,John 
+  THF 02:30 PM 05:20 PM Online Hart,Norah E Hudson,John 
+  Section 4 Full 3.00 LEC M 11:30 AM 12:20 PM Online Hart,Norah E Hudson,John 
+  THF 06:00 PM 08:50 PM Online Hart,Norah E Hudson,John 
 BIOM-4510 
   name: " Stem Cells"
   Section 1 3.00 LEC F 09:30 AM 11:50 AM Online Karpowicz,Phillip  A 
@@ -3715,6 +3798,7 @@ FRSC-3105
   Section 1 Full 3.00 LEC TH 11:30 AM 02:20 PM Online Scoyne,Gary M 
 FRSC-3111 
   name: " Digital Photo in Forensic Scie"
+  F 02:30 PM 05:20 PM Ctr For Engin.  Innovation  1100 Scoyne,Gary M 
 FRSC-3217 
   name: " Forensic Serology & DNA Applic"
   Section 91 Full 3.00 LEC Mclean,Jennifer 
@@ -3879,39 +3963,54 @@ MATH-1020
   Section 56 LAB T 07:00 PM 08:50 PM Online TBA 
 MATH-1250 
   name: " Linear Algebra I"
-  Section 1 3.00 LEC MW 02:30 PM 03:50 PM Online Alfakih,Abdo F 10:30 AM 11:20 AM Online Alfakih,Abdo 
+  Section 1 3.00 LEC MW 02:30 PM 03:50 PM Online Alfakih,Abdo 
+  F 10:30 AM 11:20 AM Online Alfakih,Abdo 
 MATH-1270 
   name: " Linear Algebra (Engineering)"
-  Section 1 3.00 LEC F 10:30 AM 11:20 AM Online Zahariuc,Adrian TTH 08:30 AM 09:50 AM Online Zahariuc,Adrian 
+  Section 1 3.00 LEC F 10:30 AM 11:20 AM Online Zahariuc,Adrian 
+  TTH 08:30 AM 09:50 AM Online Zahariuc,Adrian 
 MATH-1280 
   name: " Access to Linear Algebra"
-  Section 1 3.00 LEC F 10:30 AM 11:20 AM Online Battaglia,John TTH 02:30 PM 03:50 PM Online Battaglia,John 
+  Section 1 3.00 LEC F 10:30 AM 11:20 AM Online Battaglia,John 
+  TTH 02:30 PM 03:50 PM Online Battaglia,John 
 MATH-1720 
   name: " Differential Calculus"
-  Section 1 3.00 LEC MW 10:00 AM 11:20 AM Online Zahariuc,Adrian F 09:30 AM 10:20 AM Online Zahariuc,Adrian 
+  Section 1 3.00 LEC MW 10:00 AM 11:20 AM Online Zahariuc,Adrian 
+  F 09:30 AM 10:20 AM Online Zahariuc,Adrian 
 MATH-1730 
   name: " Integral Calculus"
-  Section 1 3.00 LEC F 03:30 PM 04:20 PM Online Sarker,Animesh MW 08:30 AM 09:50 AM Online Sarker,Animesh 
-  Section 2 3.00 LEC F 02:30 PM 03:20 PM Online Sarker,Animesh MW 10:00 AM 11:20 AM Online Sarker,Animesh 
-  Section 3 3.00 LEC F 03:30 PM 04:20 PM Online Hu,Zhiguo TTH 10:00 AM 11:20 AM Online Hu,Zhiguo 
-  Section 4 3.00 LEC F 10:30 AM 11:20 AM Online Sarker,Animesh MW 11:30 AM 12:50 PM Online Sarker,Animesh 
+  Section 1 3.00 LEC F 03:30 PM 04:20 PM Online Sarker,Animesh 
+  MW 08:30 AM 09:50 AM Online Sarker,Animesh 
+  Section 2 3.00 LEC F 02:30 PM 03:20 PM Online Sarker,Animesh 
+  MW 10:00 AM 11:20 AM Online Sarker,Animesh 
+  Section 3 3.00 LEC F 03:30 PM 04:20 PM Online Hu,Zhiguo 
+  TTH 10:00 AM 11:20 AM Online Hu,Zhiguo 
+  Section 4 3.00 LEC F 10:30 AM 11:20 AM Online Sarker,Animesh 
+  MW 11:30 AM 12:50 PM Online Sarker,Animesh 
 MATH-1760 
   name: " Functions &Differentl Calculus"
-  Section 1 3.00 LEC F 01:30 PM 02:20 PM Online Mansoora,Abida TTH 01:00 PM 02:20 PM Online Mansoora,Abida F 02:30 PM 03:20 PM Online Mansoora,Abida 
+  Section 1 3.00 LEC F 01:30 PM 02:20 PM Online Mansoora,Abida 
+  TTH 01:00 PM 02:20 PM Online Mansoora,Abida 
+  F 02:30 PM 03:20 PM Online Mansoora,Abida 
 MATH-1980 
   name: " Mathematics for Business"
-  Section 1 3.00 LEC F 09:30 AM 10:20 AM Online Battaglia,John MWF 08:30 AM 09:20 AM Online Battaglia,John 
+  Section 1 3.00 LEC F 09:30 AM 10:20 AM Online Battaglia,John 
+  MWF 08:30 AM 09:20 AM Online Battaglia,John 
   Section 91 3.00 LEC Mansoora,Abida 
 MATH-2251 
   name: " Linear Algebra III"
-  Section 1 3.00 LEC F 02:30 PM 03:20 PM Online Yang,Dilian MW 10:00 AM 11:20 AM Online Yang,Dilian 
+  Section 1 3.00 LEC F 02:30 PM 03:20 PM Online Yang,Dilian 
+  MW 10:00 AM 11:20 AM Online Yang,Dilian 
 MATH-2780 
   name: " Vector Calculus"
-  Section 1 3.00 LEC TTH 08:30 AM 09:50 AM Online Borisov,Dennis F 08:30 AM 09:20 AM Online Borisov,Dennis 
-  Section 2 3.00 LEC F 11:30 AM 12:20 PM Online Mansoora,Abida TTH 10:00 AM 11:20 AM Online Mansoora,Abida 
+  Section 1 3.00 LEC TTH 08:30 AM 09:50 AM Online Borisov,Dennis 
+  F 08:30 AM 09:20 AM Online Borisov,Dennis 
+  Section 2 3.00 LEC F 11:30 AM 12:20 PM Online Mansoora,Abida 
+  TTH 10:00 AM 11:20 AM Online Mansoora,Abida 
 MATH-2790 
   name: " Differential Equations"
-  Section 1 3.00 LEC F 10:30 AM 11:20 AM Online Wang,Jing TTH 11:30 AM 12:50 PM Online Wang,Jing 
+  Section 1 3.00 LEC F 10:30 AM 11:20 AM Online Wang,Jing 
+  TTH 11:30 AM 12:50 PM Online Wang,Jing 
 MATH-3270 
   name: " Number Theory"
   Section 1 Full 3.00 LEC MW 01:00 PM 02:20 PM Online Hassanzadeh,Mohammad 
@@ -3920,10 +4019,12 @@ MATH-3550
   Section 1 3.00 LEC TTH 08:30 AM 09:50 AM Online Sangani Monfared,Mehdi 
 MATH-3581 
   name: " Introduction to Analysis II"
-  Section 1 3.00 LEC TTH 01:00 PM 02:20 PM Online Hu,Zhiguo F 10:30 AM 11:20 AM Online Hu,Zhiguo 
+  Section 1 3.00 LEC TTH 01:00 PM 02:20 PM Online Hu,Zhiguo 
+  F 10:30 AM 11:20 AM Online Hu,Zhiguo 
 MATH-3590 
   name: " Complex Variables"
-  Section 1 3.00 LEC F 09:30 AM 10:20 AM Online Yang,Dilian MW 02:30 PM 03:50 PM Online Yang,Dilian 
+  Section 1 3.00 LEC F 09:30 AM 10:20 AM Online Yang,Dilian 
+  MW 02:30 PM 03:50 PM Online Yang,Dilian 
 MATH-4000 
   name: " Differential & Algebraic Geome"
   Section 26 Full 3.00 LEC T 02:30 PM 04:20 PM Online Lariviere,Justin 
@@ -3959,10 +4060,14 @@ MATH-9980
   Section 1 12.00 LEC Borisov,Dennis 
 STAT-2910 
   name: " Statistics for the Sciences"
-  Section 1 Full 3.00 LEC F 09:30 AM 10:20 AM Online Hlynka,Myron TTH 08:30 AM 09:50 AM Online Hlynka,Myron 
-  Section 2 3.00 LEC F 10:30 AM 11:20 AM Online Belalia,Mohamed MW 10:00 AM 11:20 AM Online Belalia,Mohamed 
+  Section 1 Full 3.00 LEC F 09:30 AM 10:20 AM Online Hlynka,Myron 
+  TTH 08:30 AM 09:50 AM Online Hlynka,Myron 
+  Section 2 3.00 LEC F 10:30 AM 11:20 AM Online Belalia,Mohamed 
+  MW 10:00 AM 11:20 AM Online Belalia,Mohamed 
 STAT-2950 
   name: " Introduction to Statistics"
+  MW 01:00 PM 02:20 PM Online Azad,Kazi 
+  F 12:30 PM 01:20 PM Online Azad,Kazi 
 STAT-3950 
   name: " Statistics"
   Section 1 3.00 LEC MW 10:00 AM 11:20 AM Online Nkurunziza,Severien N 
@@ -4500,6 +4605,7 @@ MKTG-1310
   Section 4 3.00 LEC TTH 08:30 AM 09:50 AM Online Robson,Karen 
 MKTG-2320 
   name: " Mktg Problems-Applns & Decisns"
+  T 07:00 PM 09:50 PM Online Oliveira,Celso 
 MKTG-3320 
   name: " Research Methods in Marketing"
   Section 1 3.00 LEC MW 01:00 PM 02:20 PM Online Okechuku,Chike 
@@ -4575,6 +4681,7 @@ MSCI-3310
   Section 2 3.00 LEC MW 01:00 PM 02:20 PM Online Selvarajah,Esaignani 
 MSCI-3410 
   name: " Supply Chain Mgt I:Intro &Fund"
+  MW 11:30 AM 12:50 PM Online Azimian,Alireza 
 MSCI-4950 
   name: " Indep St: Management Science"
   Section 1 3.00 LEC Online Azimian,Alireza 
@@ -4638,6 +4745,7 @@ STEN-8110
   Section 20 3.00 LEC F 09:00 AM 12:50 PM Online Mao,Tony C 
 STEN-8900 
   name: " Entrepreneur-Formation & Mgmt"
+  F 09:00 AM 12:50 PM Online Kerr,Gerry J. 
 STEN-8920 
   name: " Special Topics: Strategic Mgmt"
   Section 95 3.00 LEC F 02:30 PM 08:00 PM Online Fenn,Garnet SA 03:30 PM 05:30 PM Online Fenn,Garnet 
