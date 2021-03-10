@@ -28,7 +28,8 @@ class Debug:
                 print(arg, end=' ')
             print()
 
-debug = Debug(True)
+#debug = Debug(False)
+debug = None
 
 class TextToDictParser:
     def __init__(self):
@@ -42,7 +43,7 @@ class TextToDictParser:
         #         num: 1,
         #         credits: 1,
         #         type: LEC,
-        #         sub: [
+        #         subsections: [
         #           {
         #             Dates: ...,
         #             start_time: 08:30 AM,
@@ -83,8 +84,20 @@ class TextToDictParser:
         # append a new dictionary for section
         self.res[self.curr_code]['sections'].append({})
 
-        # reference  for easier accessing of the dictionary
+        # reference for easier accessing of the dictionary
         self.curr_section = self.res[self.curr_code]['sections'][self.curr_section_index]
+    
+    def init_subsection(self):
+        if 'subsections' not in self.curr_section:
+            self.curr_section['subsections'] = []
+            self.curr_subsection_index = -1
+        self.curr_subsection_index += 1
+
+        # append a new dictionary for sub-section
+        self.curr_section['subsections'].append({})
+
+        # reference for easier accessing of the dictionary
+        self.curr_subsection = self.curr_section['subsections'][self.curr_subsection_index]
 
     # parses line by line, updating state when need be to reflect parse mode
     def parse(self, line):
@@ -98,6 +111,8 @@ class TextToDictParser:
                 name = self.parse_name(line)
                 if name:
                     debug.print("name:", name)
+                    name = name[1:-1].strip()
+                    self.res[self.curr_code]["name"] = name
         elif self.curr_state == self.states["section"]:
             # stateful section parsing done within this section
             self.parse_sections(line)
@@ -127,6 +142,7 @@ class TextToDictParser:
         if section:
             debug.print("is a new section in section array")
             self.init_section()
+            self.init_subsection()
 
             # get number of section
             num_match = re.search(r"[0-9]+", line)
@@ -141,8 +157,11 @@ class TextToDictParser:
                 debug.print("is a new course code")
                 self.curr_state = self.states['code']
                 self.parse(line)
-            if 'sections' in self.res[self.curr_code]:
+                return
+            if 'sections' not in self.res[self.curr_code]:
                 self.init_section()
+            else:
+                self.init_subsection()
             debug.print(line)
             #sys.exit()
         
@@ -152,21 +171,20 @@ class TextToDictParser:
             type_str = type_strlist[0]
             self.curr_section['type'] = type_str
 
-        days_strlist = re.findall(REGEX_STRS["days"], line)
-        if len(days_strlist) == 1:
-            days = days_strlist[0]
-            self.curr_section['days'] = days
+        days_match = re.search(REGEX_STRS["days"], line)
+        if days_match:
+            self.curr_subsection['days'] = days_match.group() 
 
         times_strlist = re.findall(REGEX_STRS["time"], line)
         if len(times_strlist) == 2:
             times = {}
             times["start"] = times_strlist[0]
             times["end"] = times_strlist[1]
-            self.curr_section['times'] = times 
+            self.curr_subsection['times'] = times 
 
         prof_strlist = re.findall(REGEX_STRS["prof"], line)
-        if len(days_strlist) > 0:
-            self.curr_section['profs'] = prof_strlist 
+        if len(prof_strlist) > 0:
+            self.curr_subsection['profs'] = prof_strlist 
         
     # add_to_section: magic function that adds specific items to sections. 
     #   analyzes state and acts accordingly
@@ -187,6 +205,17 @@ class TextToDictParser:
 
 class TTS:
     def __init__(self, *args, **kwargs):
+        global debug
+        if 'debug' in kwargs:
+            debug = Debug(kwargs['debug'])
+        else:
+            debug = Debug(False)
+        
+        if 'amt' in kwargs:
+            self.amt = kwargs['amt']
+        else:
+            self.amt = None
+
         if 'exec' in kwargs:
             self.get_res([kwargs['exec']])
         elif 'textfile' in kwargs:
@@ -218,6 +247,7 @@ class TTS:
                 i += 1
                 continue
             parser.parse(line)
-            #if i == 10: break
+            if self.amt:
+                if i == self.amt: break
             i += 1
         return parser.res
