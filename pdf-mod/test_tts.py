@@ -12,7 +12,7 @@ class TestTTS(unittest.TestCase):
             raise Exception(f"lengths do not match! {len_exec} != {len(tts.exec_res.stdout)}")
 
     def test_get_dict(self):
-        tts = TTS()
+        tts = TTS(textfile="test/test1.txt")
         res = tts.get_dict()
         with open("../local-data/w2021.json", "w") as fp:
             json.dump(res, fp, indent=4)

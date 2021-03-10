@@ -28,7 +28,7 @@ class Debug:
                 print(arg, end=' ')
             print()
 
-debug = Debug(False)
+debug = Debug(True)
 
 class TextToDictParser:
     def __init__(self):
@@ -186,8 +186,14 @@ class TextToDictParser:
 
 
 class TTS:
-    def __init__(self):
-        self.get_res(["./script2.sh"])
+    def __init__(self, *args, **kwargs):
+        if 'exec' in kwargs:
+            self.get_res([kwargs['exec']])
+        elif 'textfile' in kwargs:
+            with open(kwargs['textfile'], "r") as fp:
+                self.res_str = fp.read()
+        else:
+            self.get_res(["./script2.sh"])
 
     # gets the result of a separate script/executable, so it can be parsed with python
     # saves in the state at exec_res
@@ -195,13 +201,14 @@ class TTS:
         self.exec_res = subprocess.run(
             execution, capture_output=True, text=True
         )
+        self.res_str = self.exec_res.stdout
         return self.exec_res
 
     # gets the result of the executed function in get_res as a dict. 
     # Assumes that get_res is run (it should run in the constructor)
     # saves the results as a dictionary object called res.
     def get_dict(self):
-        lines = self.exec_res.stdout.split("\n")
+        lines = self.res_str.split("\n")
         parser = TextToDictParser()
         i = 0
         for line in lines:

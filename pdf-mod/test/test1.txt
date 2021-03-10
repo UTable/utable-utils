@@ -1,0 +1,11 @@
+
+STAT-2910 
+  name: " Statistics for the Sciences"
+  Section 1 Full 3.00 LEC F 09:30 AM 10:20 AM Online Hlynka,Myron 
+  TTH 08:30 AM 09:50 AM Online Hlynka,Myron 
+  Section 2 3.00 LEC F 10:30 AM 11:20 AM Online Belalia,Mohamed 
+  MW 10:00 AM 11:20 AM Online Belalia,Mohamed 
+STAT-2950 
+  name: " Introduction to Statistics"
+  MW 01:00 PM 02:20 PM Online Azad,Kazi 
+  F 12:30 PM 01:20 PM Online Azad,Kazi 
