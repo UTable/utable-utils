@@ -1,5 +1,6 @@
 import unittest
 from tts import TTS
+import json
 
 class TestTTS(unittest.TestCase):
     def test_init(self):
@@ -13,4 +14,6 @@ class TestTTS(unittest.TestCase):
     def test_get_dict(self):
         tts = TTS()
         res = tts.get_dict()
-        print(res)
+        with open("../local-data/w2021.json", "w") as fp:
+            json.dump(res, fp, indent=4)
+        #print(res)

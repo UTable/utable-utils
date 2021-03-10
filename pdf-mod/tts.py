@@ -13,10 +13,22 @@ REGEX_STRS = {
     "section": r"^  Section [0-9]+",
     "days": r"\b(M|T|W|TH|F)+\b",
     "type": r"(LEC|LAB)",
-    "time": r"[0-9][0-9] [AP]M",
+    "time": r"[0-9][0-9]:[0-9][0-9] [AP]M",
     "prof": r"[a-zA-Z]+,[a-zA-Z\.]+",
     "name": r'"[^"]*"'
 }
+
+class Debug:
+    def __init__(self, debug):
+        self.DEBUG = debug
+
+    def print(self, *args):
+        if self.DEBUG:
+            for arg in args:
+                print(arg, end=' ')
+            print()
+
+debug = Debug(False)
 
 class TextToDictParser:
     def __init__(self):
@@ -56,13 +68,23 @@ class TextToDictParser:
         self.curr_code = None                   # the current course code (in res) to add information to
         self.curr_section_index = -1             # NOT section number, rather, the index in the section array
 
+        self.curr_section = None
+
     
     # variable initializations specific to sections. 
     # relies on curr_code existing
-    def setup_section_arr(self, code):
-        if self.sections:
-            self.res[self.curr_code]['sections'] = self.sections
-        self.sections = []
+    def init_section(self):
+        if 'sections' not in self.res[self.curr_code]:
+            self.res[self.curr_code]['sections'] = []
+            self.curr_section_index = -1
+
+        self.curr_section_index += 1
+
+        # append a new dictionary for section
+        self.res[self.curr_code]['sections'].append({})
+
+        # reference  for easier accessing of the dictionary
+        self.curr_section = self.res[self.curr_code]['sections'][self.curr_section_index]
 
     # parses line by line, updating state when need be to reflect parse mode
     def parse(self, line):
@@ -75,7 +97,7 @@ class TextToDictParser:
             if self.curr_code:
                 name = self.parse_name(line)
                 if name:
-                    print("name:", name)
+                    debug.print("name:", name)
         elif self.curr_state == self.states["section"]:
             # stateful section parsing done within this section
             self.parse_sections(line)
@@ -86,7 +108,7 @@ class TextToDictParser:
         if code_match:
             self.curr_state = self.states['name']
             code = code_match.group()
-            print("code:", code)
+            debug.print("code:", code)
             return code
         return None
 
@@ -103,22 +125,56 @@ class TextToDictParser:
         # if section number is available, use it as a section number in section array
         section = self.parse_section(line)
         if section:
-            print("is a section!")
-            self.curr_section = {}
+            debug.print("is a new section in section array")
+            self.init_section()
+
+            # get number of section
             num_match = re.search(r"[0-9]+", line)
             if num_match:
                 num = num_match.group()
                 self.add_to_section("num", num)
         else:
             # do something with unnamed section
-            pass
+            debug.print("line has no section!")
+            code_check = re.search(REGEX_STRS["code"], line)
+            if code_check:
+                debug.print("is a new course code")
+                self.curr_state = self.states['code']
+                self.parse(line)
+            if 'sections' in self.res[self.curr_code]:
+                self.init_section()
+            debug.print(line)
+            #sys.exit()
+        
+        debug.print("get other items")
+        type_strlist = re.findall(REGEX_STRS["type"], line)
+        if len(type_strlist) == 1:
+            type_str = type_strlist[0]
+            self.curr_section['type'] = type_str
+
+        days_strlist = re.findall(REGEX_STRS["days"], line)
+        if len(days_strlist) == 1:
+            days = days_strlist[0]
+            self.curr_section['days'] = days
+
+        times_strlist = re.findall(REGEX_STRS["time"], line)
+        if len(times_strlist) == 2:
+            times = {}
+            times["start"] = times_strlist[0]
+            times["end"] = times_strlist[1]
+            self.curr_section['times'] = times 
+
+        prof_strlist = re.findall(REGEX_STRS["prof"], line)
+        if len(days_strlist) > 0:
+            self.curr_section['profs'] = prof_strlist 
         
     # add_to_section: magic function that adds specific items to sections. 
     #   analyzes state and acts accordingly
     #   give it a key and val and it will do the rest
     def add_to_section(self, key, val):
         if key == "num":
-            self.curr_section[key] = val
+            debug.print(f"{key}: {val}")
+            self.curr_section[key] = val 
 
 
     def parse_section(self, line):
@@ -150,11 +206,11 @@ class TTS:
         i = 0
         for line in lines:
             # skip the first empty line
+            debug.print(f"{i}: {line}")
             if i == 0:
                 i += 1
                 continue
-            if i == 4:
-                break
             parser.parse(line)
+            #if i == 10: break
             i += 1
         return parser.res
