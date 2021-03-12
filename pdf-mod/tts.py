@@ -31,6 +31,7 @@ class Debug:
 #debug = Debug(False)
 debug = None
 
+# converts the pdf in text format to a dictionary
 class TextToDictParser:
     def __init__(self):
         # res should containe an object in the following form:
@@ -202,6 +203,27 @@ class TextToDictParser:
             return section 
         return None
 
+# list of databases to make a possible connection to
+DBs = {
+    'psql': 0,
+}
+# saves the dictionary stored in memory into the database conenction
+import psycopg2
+class DictToDB:
+    def __init__(self, dic):
+        self.make_connection(DBs['psql'])
+    
+    def make_connection(self, db_id):
+        if db_id == DBs['psql']:
+            self.conn = psycopg2.connect(
+                dbname='utable_beta', 
+                host='localhost', 
+                port='5432', 
+                user='utable_auth', 
+                password='5Nu5j8GXI2j9'
+            )
+
+
 
 class TTS:
     def __init__(self, *args, **kwargs):
@@ -251,3 +273,7 @@ class TTS:
                 if i == self.amt: break
             i += 1
         return parser.res
+
+    # sets the current data stored in res_dict into the database connection that is set up
+    def set_db(self, dic):
+        self.dictToDB = DictToDB(dic)
