@@ -8,6 +8,8 @@ import subprocess
 import re 
 import sys 
 
+from datetime import datetime
+
 REGEX_STRS = {
     "code": r"^[A-Z][A-Z][A-Z][A-Z]-( )*[0-9][0-9X][0-9X][0-9X]",
     "section": r"^  Section [0-9]+",
@@ -125,7 +127,7 @@ class TextToDictParser:
             self.curr_state = self.states['name']
             code = code_match.group()
             debug.print("code:", code)
-            return code
+            return code.replace(" ", "")
         return None
 
     def parse_name(self, line):
@@ -161,8 +163,7 @@ class TextToDictParser:
                 return
             if 'sections' not in self.res[self.curr_code]:
                 self.init_section()
-            else:
-                self.init_subsection()
+            self.init_subsection()
             debug.print(line)
             #sys.exit()
         
@@ -207,11 +208,45 @@ class TextToDictParser:
 DBs = {
     'psql': 0,
 }
+
+TABLES = {
+    'semester': 0,
+    'course': 1,
+    'section': 2,
+    'subsection': 3,
+}
+
+QUERIES = {
+    'semester': """
+INSERT INTO public.utable_semester
+("courseName", "courseCode")
+VALUES('%s','%s');
+""",
+    'course': """
+
+""",
+
+    'section': """
+
+""",
+
+    'subsection': """
+
+""",
+
+}
 # saves the dictionary stored in memory into the database conenction
 import psycopg2
+
 class DictToDB:
     def __init__(self, dic):
         self.make_connection(DBs['psql'])
+    
+    def __del__(self):
+        self.conn.close()
+    
+    def commit(self):
+        self.conn.commit()
     
     def make_connection(self, db_id):
         if db_id == DBs['psql']:
@@ -222,6 +257,25 @@ class DictToDB:
                 user='utable_auth', 
                 password='5Nu5j8GXI2j9'
             )
+    
+            self.cur = self.conn.cursor()
+    
+    def populate(self, key, **kwargs):
+        if key == TABLES['semester']:
+            pass
+            #db.cur.execute(QUERIES['semester'], (kwargs['date']))
+        elif key == TABLES['course']:
+            pass
+            #db.cur.execute(QUERIES['course'], (kwargs['code'], kwargs['name']))
+        elif key == TABLES['section']:
+            pass
+            #db.cur.execute(QUERIES['section'], (kwargs['num'], kwargs['type_']))
+        elif key == TABLES['subsection']:
+            pass
+            #db.cur.execute(QUERIES['subsection'], (kwargs['days'], kwargs['start_time'], kwargs['end_time']))
+        else:
+            raise Exception(f"invalid key given to db.populate: {key}. Try picking a key from TABLES variable.")
+        
 
 
 
@@ -266,6 +320,7 @@ class TTS:
             # skip the first empty line
             debug.print(f"{i}: {line}")
             if i == 0:
+                self.semester_date = line
                 i += 1
                 continue
             parser.parse(line)
@@ -276,4 +331,44 @@ class TTS:
 
     # sets the current data stored in res_dict into the database connection that is set up
     def set_db(self, dic):
-        self.dictToDB = DictToDB(dic)
+        db = DictToDB(dic)
+        # w2021
+        db.populate(TABLES['semester'], date=self.semester_date)
+
+        # iterating through dictionary in memory, writing to database
+        for code in dic:
+            if len(code) > 10:
+                print(code, "has length > 10")
+            content = dic[code]
+            name = content['name']
+            sections = content['sections']
+            db.populate(TABLES['course'], code=code, name=name)
+
+            for section in sections:
+                num=None
+                type_=None
+                if 'num' in section:
+                    num = section['num']
+                if 'type' in section:
+                    type_ = section['type']
+                db.populate(TABLES['section'], num=num, type_=type_)
+                subsections = section['subsections']
+                for subsec in subsections:
+                    days=None
+                    start_time=None
+                    end_time=None
+                    if 'days' in subsec:
+                        days = subsec['days']
+                    if 'time' in subsec:
+                        time = subsec['times']
+                        start_time = datetime.strptime(time['start'], "%I:%M %p").time()
+                        end_time = datetime.strptime(time['end'], "%I:%M %p").time()
+                    if 'profs' in subsec:
+                        profs = subsec['profs']
+                    db.populate(
+                        TABLES['subsection'], 
+                        days=days,
+                        start_time=start_time,
+                        end_time=end_time,
+                    )
+        #db.commit()

@@ -262,7 +262,7 @@
             }
         ]
     },
-    "ARTX-   4XXX": {
+    "ARTX-4XXX": {
         "name": "International Exchange",
         "sections": [
             {
@@ -1363,13 +1363,13 @@
             {
                 "subsections": [
                     {
-                        "days": "WF",
+                        "days": "T",
                         "times": {
-                            "start": "08:30 AM",
-                            "end": "09:50 AM"
+                            "start": "01:30 PM",
+                            "end": "04:20 PM"
                         },
                         "profs": [
-                            "Hector,Nick"
+                            "Nelson,Kim"
                         ]
                     }
                 ],
@@ -1381,7 +1381,20 @@
     "CMAF-4270": {
         "name": "Adv Editing & Post Production",
         "sections": [
-            {}
+            {
+                "subsections": [
+                    {
+                        "days": "WF",
+                        "times": {
+                            "start": "08:30 AM",
+                            "end": "09:50 AM"
+                        },
+                        "profs": [
+                            "Hector,Nick"
+                        ]
+                    }
+                ]
+            }
         ]
     },
     "CMAF-4900": {
@@ -1617,13 +1630,13 @@
             {
                 "subsections": [
                     {
-                        "days": "WF",
+                        "days": "T",
                         "times": {
-                            "start": "08:30 AM",
-                            "end": "09:50 AM"
+                            "start": "01:30 PM",
+                            "end": "04:20 PM"
                         },
                         "profs": [
-                            "Hector,Nick"
+                            "Nelson,Kim"
                         ]
                     }
                 ],
@@ -1635,7 +1648,20 @@
     "CNMA-4270": {
         "name": "Adv Editing & Post Production",
         "sections": [
-            {}
+            {
+                "subsections": [
+                    {
+                        "days": "WF",
+                        "times": {
+                            "start": "08:30 AM",
+                            "end": "09:50 AM"
+                        },
+                        "profs": [
+                            "Hector,Nick"
+                        ]
+                    }
+                ]
+            }
         ]
     },
     "MACS-2150": {
@@ -8841,13 +8867,13 @@
             {
                 "subsections": [
                     {
-                        "days": "W",
+                        "days": "T",
                         "times": {
                             "start": "08:30 AM",
                             "end": "11:20 AM"
                         },
                         "profs": [
-                            "Jackson,Dennis"
+                            "Buchanan,Lori"
                         ]
                     }
                 ],
@@ -12370,7 +12396,20 @@
     "CIVL-4710": {
         "name": "Laboratory",
         "sections": [
-            {}
+            {
+                "subsections": [
+                    {
+                        "days": "T",
+                        "times": {
+                            "start": "08:30 AM",
+                            "end": "10:20 AM"
+                        },
+                        "profs": [
+                            "Carriveau,Rupp"
+                        ]
+                    }
+                ]
+            }
         ]
     },
     "CIVL-4720": {
@@ -12580,7 +12619,20 @@
     "ENVE-3630": {
         "name": "Laboratory",
         "sections": [
-            {}
+            {
+                "subsections": [
+                    {
+                        "days": "TH",
+                        "times": {
+                            "start": "10:00 AM",
+                            "end": "12:50 PM"
+                        },
+                        "profs": [
+                            "Biswas,Niharendu"
+                        ]
+                    }
+                ]
+            }
         ]
     },
     "ENVE-3640": {
@@ -12824,6 +12876,16 @@
             {
                 "subsections": [
                     {
+                        "days": "W",
+                        "times": {
+                            "start": "12:30 PM",
+                            "end": "02:20 PM"
+                        },
+                        "profs": [
+                            "Muscedere,Roberto"
+                        ]
+                    },
+                    {
                         "days": "F",
                         "times": {
                             "start": "12:30 PM",
@@ -12840,7 +12902,20 @@
     "ELEC-2200": {
         "name": "Laboratory",
         "sections": [
-            {}
+            {
+                "subsections": [
+                    {
+                        "days": "M",
+                        "times": {
+                            "start": "01:00 PM",
+                            "end": "03:50 PM"
+                        },
+                        "profs": [
+                            "Chen,Chunhong"
+                        ]
+                    }
+                ]
+            }
         ]
     },
     "ELEC-2240": {
@@ -12967,7 +13042,20 @@
     "ELEC-4190": {
         "name": "Laboratory",
         "sections": [
-            {}
+            {
+                "subsections": [
+                    {
+                        "days": "TH",
+                        "times": {
+                            "start": "05:30 PM",
+                            "end": "07:20 PM"
+                        },
+                        "profs": [
+                            "Shahrrava,Behnam"
+                        ]
+                    }
+                ]
+            }
         ]
     },
     "ELEC-4310": {
@@ -13162,7 +13250,20 @@
     "ELEC-4570": {
         "name": "Laboratory",
         "sections": [
-            {}
+            {
+                "subsections": [
+                    {
+                        "days": "W",
+                        "times": {
+                            "start": "06:00 PM",
+                            "end": "07:50 PM"
+                        },
+                        "profs": [
+                            "Shahrrava,Behnam"
+                        ]
+                    }
+                ]
+            }
         ]
     },
     "ELEC-8250": {
@@ -13532,7 +13633,20 @@
     "GENG-2180": {
         "name": "Laboratory",
         "sections": [
-            {},
+            {
+                "subsections": [
+                    {
+                        "days": "M",
+                        "times": {
+                            "start": "08:30 AM",
+                            "end": "11:20 AM"
+                        },
+                        "profs": [
+                            "Cherniaev,Aleksandr"
+                        ]
+                    }
+                ]
+            },
             {
                 "subsections": [
                     {
@@ -14105,7 +14219,7 @@
             }
         ]
     },
-    "GENX-   8XXX": {
+    "GENX-8XXX": {
         "name": "International Exchange",
         "sections": [
             {
@@ -14124,7 +14238,20 @@
     "INDE-3020": {
         "name": "Laboratory",
         "sections": [
-            {},
+            {
+                "subsections": [
+                    {
+                        "days": "M",
+                        "times": {
+                            "start": "04:00 PM",
+                            "end": "05:50 PM"
+                        },
+                        "profs": [
+                            "Kim,Eunsik"
+                        ]
+                    }
+                ]
+            },
             {
                 "subsections": [
                     {
@@ -15441,7 +15568,7 @@
             }
         ]
     },
-    "RESG-   8XXX": {
+    "RESG-8XXX": {
         "name": "Ontario Grad Visitor",
         "sections": [
             {
@@ -15470,7 +15597,7 @@
             }
         ]
     },
-    "HKEX-   4XXX": {
+    "HKEX-4XXX": {
         "name": "International Exchange",
         "sections": [
             {
@@ -20475,7 +20602,7 @@
             }
         ]
     },
-    "NURX-   4XXX": {
+    "NURX-4XXX": {
         "name": "International Exchange",
         "sections": [
             {
@@ -25729,10 +25856,10 @@
             {
                 "subsections": [
                     {
-                        "days": "F",
+                        "days": "TH",
                         "times": {
-                            "start": "02:30 PM",
-                            "end": "05:20 PM"
+                            "start": "11:30 AM",
+                            "end": "02:20 PM"
                         },
                         "profs": [
                             "Scoyne,Gary"
@@ -25747,7 +25874,20 @@
     "FRSC-3111": {
         "name": "Digital Photo in Forensic Scie",
         "sections": [
-            {}
+            {
+                "subsections": [
+                    {
+                        "days": "F",
+                        "times": {
+                            "start": "02:30 PM",
+                            "end": "05:20 PM"
+                        },
+                        "profs": [
+                            "Scoyne,Gary"
+                        ]
+                    }
+                ]
+            }
         ]
     },
     "FRSC-3217": {
@@ -25958,7 +26098,7 @@
             }
         ]
     },
-    "SCIX-   4XXX": {
+    "SCIX-4XXX": {
         "name": "International Exchange",
         "sections": [
             {
@@ -27522,11 +27662,11 @@
                     {
                         "days": "MW",
                         "times": {
-                            "start": "01:00 PM",
-                            "end": "02:20 PM"
+                            "start": "10:00 AM",
+                            "end": "11:20 AM"
                         },
                         "profs": [
-                            "Azad,Kazi"
+                            "Belalia,Mohamed"
                         ]
                     }
                 ],
@@ -27540,6 +27680,16 @@
         "sections": [
             {
                 "subsections": [
+                    {
+                        "days": "MW",
+                        "times": {
+                            "start": "01:00 PM",
+                            "end": "02:20 PM"
+                        },
+                        "profs": [
+                            "Azad,Kazi"
+                        ]
+                    },
                     {
                         "days": "F",
                         "times": {
@@ -30552,7 +30702,7 @@
             }
         ]
     },
-    "BUSX-   4XXX": {
+    "BUSX-4XXX": {
         "name": "International Exchange",
         "sections": [
             {
@@ -31377,13 +31527,13 @@
             {
                 "subsections": [
                     {
-                        "days": "T",
+                        "days": "TTH",
                         "times": {
-                            "start": "07:00 PM",
-                            "end": "09:50 PM"
+                            "start": "08:30 AM",
+                            "end": "09:50 AM"
                         },
                         "profs": [
-                            "Oliveira,Celso"
+                            "Robson,Karen"
                         ]
                     }
                 ],
@@ -31395,7 +31545,20 @@
     "MKTG-2320": {
         "name": "Mktg Problems-Applns & Decisns",
         "sections": [
-            {}
+            {
+                "subsections": [
+                    {
+                        "days": "T",
+                        "times": {
+                            "start": "07:00 PM",
+                            "end": "09:50 PM"
+                        },
+                        "profs": [
+                            "Oliveira,Celso"
+                        ]
+                    }
+                ]
+            }
         ]
     },
     "MKTG-3320": {
@@ -32013,11 +32176,11 @@
                     {
                         "days": "MW",
                         "times": {
-                            "start": "11:30 AM",
-                            "end": "12:50 PM"
+                            "start": "01:00 PM",
+                            "end": "02:20 PM"
                         },
                         "profs": [
-                            "Azimian,Alireza"
+                            "Selvarajah,Esaignani"
                         ]
                     }
                 ],
@@ -32029,7 +32192,20 @@
     "MSCI-3410": {
         "name": "Supply Chain Mgt I:Intro &Fund",
         "sections": [
-            {}
+            {
+                "subsections": [
+                    {
+                        "days": "MW",
+                        "times": {
+                            "start": "11:30 AM",
+                            "end": "12:50 PM"
+                        },
+                        "profs": [
+                            "Azimian,Alireza"
+                        ]
+                    }
+                ]
+            }
         ]
     },
     "MSCI-4950": {
@@ -32461,7 +32637,7 @@
                             "end": "12:50 PM"
                         },
                         "profs": [
-                            "Kerr,Gerry"
+                            "Mao,Tony"
                         ]
                     }
                 ],
@@ -32473,7 +32649,20 @@
     "STEN-8900": {
         "name": "Entrepreneur-Formation & Mgmt",
         "sections": [
-            {}
+            {
+                "subsections": [
+                    {
+                        "days": "F",
+                        "times": {
+                            "start": "09:00 AM",
+                            "end": "12:50 PM"
+                        },
+                        "profs": [
+                            "Kerr,Gerry"
+                        ]
+                    }
+                ]
+            }
         ]
     },
     "STEN-8920": {
