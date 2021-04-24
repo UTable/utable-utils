@@ -20,7 +20,7 @@ print("#########################################################################
 UWINPATH = 'https://www.uwindsor.ca'
 TIMETABLE_PATH = '/registrar/541/timetable-information'
 URLPATH = UWINPATH + TIMETABLE_PATH
-DATADIR = '../data'
+DATADIR = '../local-data'
 FILENAME = f'{DATADIR}/dates.json'
 
 source = request.urlopen(URLPATH).read()
