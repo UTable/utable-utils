@@ -10,7 +10,7 @@
 
 ./strip_empty_lines.sh | gawk '
 	BEGIN {printf "w2021";flag=0} 
-	/^(Section|(M|T|W|TH|F)+ )/ {flag=1;printf "\n  "}  
+	/^(Section|(M|T|W|TH|F|SA|SU)+ )/ {flag=1;printf "\n  "}  
 	/^[A-Z][A-Z][A-Z][A-Z]-( )*[0-9][0-9X][0-9X][0-9X]/ {
 		flag=0;
 		split($0, a, "\\\(-\\\)", sep);

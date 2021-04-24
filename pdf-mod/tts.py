@@ -13,11 +13,12 @@ from datetime import datetime
 REGEX_STRS = {
     "code": r"^[A-Z][A-Z][A-Z][A-Z]-( )*[0-9][0-9X][0-9X][0-9X]",
     "section": r"^  Section [0-9]+",
-    "days": r"\b(M|T|W|TH|F)+\b",
+    "days": r"\b(M|T|W|TH|F|SA|SU)+\b",
     "type": r"(LEC|LAB)",
     "time": r"[0-9][0-9]:[0-9][0-9] [AP]M",
-    "prof": r"[a-zA-Z]+,[a-zA-Z\.]+",
-    "name": r'"[^"]*"'
+    "prof": r"[a-zA-Z\-]+,[a-zA-Z\.\-]+",
+    "name": r'"[^"]*"',
+    "full": r'Full'
 }
 
 class Debug:
@@ -107,6 +108,9 @@ class TextToDictParser:
         if self.curr_state == self.states["code"]:
             code = self.parse_code(line)
             if code: 
+                inc = 0
+                while code in self.res:
+                    code += f"[{inc}]"
                 self.res[code] = {}
                 self.curr_code = code
         elif self.curr_state == self.states["name"]:
@@ -168,6 +172,10 @@ class TextToDictParser:
             #sys.exit()
         
         debug.print("get other items")
+
+        type_strlist = re.findall(REGEX_STRS["full"], line)
+        self.curr_section['full?'] = True if len(type_strlist) != 0 else False
+
         type_strlist = re.findall(REGEX_STRS["type"], line)
         if len(type_strlist) == 1:
             type_str = type_strlist[0]
@@ -213,33 +221,95 @@ TABLES = {
     'semester': 0,
     'course': 1,
     'section': 2,
-    'subsection': 3,
+    'subsec': 3,
+    'prof': 4,
+    'subsec_prof': 5,
 }
 
-QUERIES = {
-    'semester': """
-INSERT INTO public.utable_semester
+COURSE_QUERY = {
+    'insert': """
+INSERT INTO public.utable_course
 ("courseName", "courseCode")
-VALUES('%s','%s');
-""",
-    'course': """
-
-""",
-
-    'section': """
-
-""",
-
-    'subsection': """
-
-""",
-
+VALUES(%s, %s)
+RETURNING id;""",
+    'select': """
+SELECT id, "courseName", "courseCode"
+FROM public.utable_course
+WHERE "courseName" = %s
+AND "courseCode" = %s;"""
 }
+
+PROF_QUERY = {
+        'insert': """
+INSERT INTO public.utable_professor
+("firstName", "lastName")
+VALUES(%s, %s)
+RETURNING id;""",
+        'select': """
+SELECT id, "firstName", "lastName"
+FROM public.utable_professor
+WHERE "firstName" = %s
+AND "lastName" = %s;"""
+}
+
+SECTION_QUERY = {
+        'insert': """
+INSERT INTO public.utable_section
+("sectionNum", "sectionType", course_id, semester_id)
+VALUES(%s, %s, %s, %s)
+RETURNING id;""",
+        'select': """
+SELECT id, "sectionNum", "sectionType", course_id, semester_id
+FROM public.utable_section;
+WHERE utable_section.sectionNum = %s
+AND utable_section.sectionType = %s
+AND utable_section.course_id = %s
+AND utable_section.semester_id = %s""",
+}
+
+SEMESTER_QUERY = {
+    'insert': """
+INSERT INTO public.utable_semester
+("semesterSeason", "date")
+VALUES(%s, %s)
+RETURNING id;""",
+    'select': """
+SELECT id, "semesterSeason", "date"
+FROM public.utable_semester
+WHERE "semesterSeaoson"=%s
+AND "date"=%s;"""
+}
+
+SUBSECTION_QUERY = {
+    'insert': """
+INSERT INTO public.utable_subsection
+("day", "startTime", "endTime", "location", section_id)
+VALUES(%s, %s, %s, %s, %s)
+RETURNING id;""",
+    'select': """
+SELECT id, "day", "startTime", "endTime", "location", section_id
+FROM public.utable_subsection
+WHERE utable_subsection.day = %s
+AND utable_subsection.startTime = %s
+AND utable_subsection.endTime = %s
+AND utable_subsection.location = %s
+AND utable_subsection.section_id = %s
+;"""
+}
+
+SUBSEC_PROF_QUERY = {
+    'insert': """
+INSERT INTO public.utable_subsection_professors
+(subsection_id, professor_id)
+VALUES(%s, %s)
+RETURNING id;""",
+}
+
 # saves the dictionary stored in memory into the database conenction
 import psycopg2
 
 class DictToDB:
-    def __init__(self, dic):
+    def __init__(self):
         self.make_connection(DBs['psql'])
     
     def __del__(self):
@@ -260,27 +330,63 @@ class DictToDB:
     
             self.cur = self.conn.cursor()
     
+    def execute(self, query, key, kwargs):
+        try:
+            if key == TABLES['semester']:
+                if kwargs['date'] and len(kwargs['date']) == 5:
+                    #self.cur.execute(SEMESTER_QUERY, (kwargs['date'][0], kwargs['date'][1:]))
+                    self.cur.execute(SEMESTER_QUERY[query], (kwargs['date'][0], kwargs['date'][1:]))
+                else:
+                    self.cur.execute(SEMESTER_QUERY[query], (None, None))
+            elif key == TABLES['prof']:
+                self.cur.execute(PROF_QUERY[query], (kwargs['first_name'], kwargs['last_name']))
+            elif key == TABLES['course']:
+                self.cur.execute(COURSE_QUERY[query], (kwargs['name'], kwargs['code']))
+            elif key == TABLES['section']:
+                self.cur.execute(SECTION_QUERY[query], (kwargs['num'], kwargs['type_'], kwargs['course_id'], kwargs['semester_id']))
+            elif key == TABLES['subsec']:
+                days = kwargs['days']
+                if days is None:
+                    days = ''
+                self.cur.execute(SUBSECTION_QUERY[query], (days, kwargs['start_time'], kwargs['end_time'], kwargs['location'], kwargs['section_id']))
+            elif key == TABLES['subsec_prof']:
+                self.cur.execute(SUBSEC_PROF_QUERY[query], (kwargs['subsec_id'], kwargs['prof_id']))
+            else:
+                raise Exception(f"invalid key given to db.populate: {key}. Try picking a key from TABLES variable.")
+            if query == "insert":
+                # get the id
+                res = self.cur.fetchone()[0]
+            elif query == "select":
+                # get all of the select statements
+                res = self.cur.fetchall()
+            return res
+        except Exception as e:
+            print(f"error at {key} with arguments {kwargs}")
+            raise e
+
+    def select(self, key, **kwargs):
+        return self.execute('select', key, kwargs)
     def populate(self, key, **kwargs):
-        if key == TABLES['semester']:
-            pass
-            #db.cur.execute(QUERIES['semester'], (kwargs['date']))
-        elif key == TABLES['course']:
-            pass
-            #db.cur.execute(QUERIES['course'], (kwargs['code'], kwargs['name']))
-        elif key == TABLES['section']:
-            pass
-            #db.cur.execute(QUERIES['section'], (kwargs['num'], kwargs['type_']))
-        elif key == TABLES['subsection']:
-            pass
-            #db.cur.execute(QUERIES['subsection'], (kwargs['days'], kwargs['start_time'], kwargs['end_time']))
-        else:
-            raise Exception(f"invalid key given to db.populate: {key}. Try picking a key from TABLES variable.")
+        return self.execute('insert', key, kwargs)
+   
+    def delete_all_rows(self):
+        query = """
+        TRUNCATE utable_course,
+        utable_professor,
+        utable_section,
+        utable_section_students,
+        utable_student,
+        utable_semester,
+        utable_subsection,
+        utable_subsection_professors
+        RESTART IDENTITY;
+        """
+        self.cur.execute(query)
+        self.commit()
         
-
-
-
 class TTS:
     def __init__(self, *args, **kwargs):
+        self.db = DictToDB()
         global debug
         if 'debug' in kwargs:
             debug = Debug(kwargs['debug'])
@@ -303,6 +409,7 @@ class TTS:
     # gets the result of a separate script/executable, so it can be parsed with python
     # saves in the state at exec_res
     def get_res(self, execution):
+        print(f"execution: {execution}")
         self.exec_res = subprocess.run(
             execution, capture_output=True, text=True
         )
@@ -331,44 +438,116 @@ class TTS:
 
     # sets the current data stored in res_dict into the database connection that is set up
     def set_db(self, dic):
-        db = DictToDB(dic)
+        db = self.db
+        db.delete_all_rows()
+        db.commit()
         # w2021
-        db.populate(TABLES['semester'], date=self.semester_date)
+        semester_id = db.populate(TABLES['semester'], date=self.semester_date)
 
         # iterating through dictionary in memory, writing to database
-        for code in dic:
-            if len(code) > 10:
-                print(code, "has length > 10")
-            content = dic[code]
-            name = content['name']
-            sections = content['sections']
-            db.populate(TABLES['course'], code=code, name=name)
+        try:
+            for code in dic:
+                content = dic[code]
+                if "[" in code and "]" in code:
+                    i = code.find("[")
+                    code = code[:i]
+                name = content['name']
+                sections = content['sections']
+                course_id = db.populate(TABLES['course'], code=code, name=name)
 
-            for section in sections:
-                num=None
-                type_=None
-                if 'num' in section:
-                    num = section['num']
-                if 'type' in section:
-                    type_ = section['type']
-                db.populate(TABLES['section'], num=num, type_=type_)
-                subsections = section['subsections']
-                for subsec in subsections:
-                    days=None
-                    start_time=None
-                    end_time=None
-                    if 'days' in subsec:
-                        days = subsec['days']
-                    if 'time' in subsec:
-                        time = subsec['times']
-                        start_time = datetime.strptime(time['start'], "%I:%M %p").time()
-                        end_time = datetime.strptime(time['end'], "%I:%M %p").time()
-                    if 'profs' in subsec:
-                        profs = subsec['profs']
-                    db.populate(
-                        TABLES['subsection'], 
-                        days=days,
-                        start_time=start_time,
-                        end_time=end_time,
-                    )
-        #db.commit()
+                tba_id = None
+
+                for section in sections:
+                    num=None
+                    type_=None
+                    if 'num' in section:
+                        num = section['num']
+                    if 'type' in section:
+                        type_ = section['type']
+                    section_id = db.populate(TABLES['section'], num=num, type_=type_, course_id=course_id, semester_id=semester_id)
+                    subsections = section['subsections']
+                    for subsec in subsections:
+                        print(f"subsec: {subsec}")
+                        days=None
+                        start_time=None
+                        end_time=None
+                        first_name=None
+                        last_name=None
+
+                        prof_id=None
+                        subsec_id=None
+                        location="Online"
+                        if 'days' in subsec:
+                            days = subsec['days']
+                        if 'times' in subsec:
+                            time = subsec['times']
+                            start_time = datetime.strptime(time['start'], "%I:%M %p").time()
+                            end_time = datetime.strptime(time['end'], "%I:%M %p").time()
+                        if 'profs' in subsec:
+                            profs = subsec['profs']
+                            prof_ids = []
+                            for prof in profs:
+                                if ',' in prof:
+                                    prof = prof.split(',')
+                                    first_name = prof[1]
+                                    last_name = prof[0]
+                                    prof_data = db.select(TABLES['prof'],first_name=first_name, last_name=last_name)
+                                    if prof_data:
+                                        prof_id = prof_data[0][0]
+                                    else:
+                                        prof_id = None
+                                    if prof_id is None:
+                                        print(f"new prof! {first_name},{last_name}")
+                                        prof_id = db.populate(TABLES['prof'],first_name=first_name, last_name=last_name)
+                                    else:
+                                        print(f"old prof: {prof_id}")
+                                    prof_ids.append(prof_id)
+                        subsec_id = db.populate(TABLES['subsec'],days=days,start_time=start_time,end_time=end_time, location=location, section_id=section_id)
+                        if prof_ids and subsec_id is not None:
+                            for prof_id in prof_ids:
+                                db.populate(TABLES['subsec_prof'], subsec_id=subsec_id, prof_id=prof_id)
+            db.commit()
+        except Exception as e:
+            db.commit()
+            raise e
+
+
+if __name__ == "__main__":
+    tts = TTS(debug=False)
+    print("The Text To Storage program")
+    print("what would you like to do?")
+    print("")
+    print("------------------------------------")
+    print("get dict/gd: get the dictionary object of the course")
+    print("set db/sd: sets the database based on the json")
+    print("dump json/dj: dumps dictionary in memory to json") 
+    print("commit/c: commit any changes you made to the database")
+    print("quit/q: quit the program")
+    print("------------------------------------")
+
+    dic = None
+    while True:
+        option = input("> ")
+        if option == "c" or option == "commit":
+            print("committing to database")
+            tts.db.commit()
+        elif option == "gd" or option == "get dict":
+            print("getting dictionary...")
+            dic = tts.get_dict()
+        elif option == "sd" or option == "set db":
+            print("setting database...")
+            if dic is None:
+                print("don't have a dictionary to parse to database yet...")
+                continue
+            tts.set_db(dic)
+        elif option == "dj" or option == "dump json":
+            print("dumping json...")
+            import json
+            with open("../local-data/w2021.json", "w") as fp:
+                json.dump(dic, fp, indent=4)
+        elif option == 'q' or option == 'quit':
+            print("bye!")
+            break
+        else:
+            print("invalid command, please try again!")
+
