@@ -8,7 +8,7 @@ from tika import parser
 import json
 
 def pdf2txt(filename):
-    raw = parser.from_file("../../data/pdfs/"+filename)
+    raw = parser.from_file("../local-data/pdfs/"+filename)
     return raw["content"]
 
 if __name__ == "__main__":
