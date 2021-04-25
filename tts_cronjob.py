@@ -9,7 +9,6 @@
 import os
 import sys
 
-PYTHON_VER = "python3.7"
 
 # get_newest_date: gets the newest date in the dates json list, and returns it
 def get_newest_date():
