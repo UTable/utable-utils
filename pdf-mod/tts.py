@@ -410,7 +410,7 @@ class TTS:
             with open(kwargs['textfile'], "r") as fp:
                 self.res_str = fp.read()
         else:
-            self.get_res(["./script2.sh", f"{glob_filename}.txt"])
+            self.get_res(["./script2.sh", glob_filename])
 
     # gets the result of a separate script/executable, so it can be parsed with python
     # saves in the state at exec_res

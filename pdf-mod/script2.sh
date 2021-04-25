@@ -3,8 +3,8 @@
 # Pretty formatting of the ugly PDF parse by tika
 # still needs more parsing in tts.py
 
-./strip_empty_lines.sh $1 | gawk '
-	BEGIN {printf "w2021";flag=0} 
+./strip_empty_lines.sh $1.txt | gawk -v date="$1" '
+	BEGIN {printf date;flag=0} 
 	/^(Section|(M|T|W|TH|F|SA|SU)+ )/ {flag=1;printf "\n  "}  
 	/^[A-Z][A-Z][A-Z][A-Z]-( )*[0-9][0-9X][0-9X][0-9X]/ {
 		flag=0;
