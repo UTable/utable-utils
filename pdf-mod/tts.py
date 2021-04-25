@@ -1,4 +1,8 @@
+#!/usr/bin/python3.7
+# ^ local machine
+
 #!/usr/local/bin/python3.8
+# ^ production machine
 
 # python script that scrapes PDF data
 # relies on script2.sh to generate the easy-to-parse almost-YAML file
@@ -33,6 +37,8 @@ class Debug:
 
 #debug = Debug(False)
 debug = None
+
+glob_filename=None
 
 # converts the pdf in text format to a dictionary
 class TextToDictParser:
@@ -404,7 +410,7 @@ class TTS:
             with open(kwargs['textfile'], "r") as fp:
                 self.res_str = fp.read()
         else:
-            self.get_res(["./script2.sh"])
+            self.get_res(["./script2.sh", f"{glob_filename}.txt"])
 
     # gets the result of a separate script/executable, so it can be parsed with python
     # saves in the state at exec_res
@@ -512,9 +518,54 @@ class TTS:
             raise e
 
 
+class Executor:
+    def __init__(self):
+        # self.tts = TTS(debug=False)
+        self.dic = None
+    def execute_option(self, option=None, filename=None):
+        if filename:
+            global glob_filename
+            glob_filename=filename
+            self.tts = TTS(debug=False)
+        if option == "c" or option == "commit":
+            print("committing to database")
+            self.tts.db.commit()
+        elif option == "gd" or option == "get dict":
+            print("getting dictionary...")
+            self.dic = self.tts.get_dict()
+        elif option == "sd" or option == "set db":
+            print("setting database...")
+            if self.dic is None:
+                print("don't have a dictionary to parse to database yet...")
+                sys.exit()
+            self.tts.set_db(self.dic)
+        elif option == "dj" or option == "dump json":
+            print("dumping json...")
+            import json
+            with open(f"../local-data/{glob_filename}.json", "w") as fp:
+                json.dump(self.dic, fp, indent=4)
+        elif option == 'q' or option == 'quit':
+            print("bye!")
+            sys.exit()
+        else:
+            print("invalid command, please try again!")
+
 if __name__ == "__main__":
-    tts = TTS(debug=False)
-    print("The Text To Storage program")
+    ex = Executor()
+    if len(sys.argv) > 1:
+        args = sys.argv[1:]
+        print(args)
+        options = []
+        for arg in args:
+            if arg[0] == '-':
+                options.append(arg[1:])
+            else:
+                ex.execute_option(filename=arg[:arg.find('.')])
+        for option in options:
+            ex.execute_option(option)
+
+        sys.exit()
+    print("The Text To Scrape program")
     print("what would you like to do?")
     print("")
     print("------------------------------------")
@@ -525,29 +576,7 @@ if __name__ == "__main__":
     print("quit/q: quit the program")
     print("------------------------------------")
 
-    dic = None
     while True:
         option = input("> ")
-        if option == "c" or option == "commit":
-            print("committing to database")
-            tts.db.commit()
-        elif option == "gd" or option == "get dict":
-            print("getting dictionary...")
-            dic = tts.get_dict()
-        elif option == "sd" or option == "set db":
-            print("setting database...")
-            if dic is None:
-                print("don't have a dictionary to parse to database yet...")
-                continue
-            tts.set_db(dic)
-        elif option == "dj" or option == "dump json":
-            print("dumping json...")
-            import json
-            with open("../local-data/w2021.json", "w") as fp:
-                json.dump(dic, fp, indent=4)
-        elif option == 'q' or option == 'quit':
-            print("bye!")
-            break
-        else:
-            print("invalid command, please try again!")
+        ex.execute_option(option)
 
