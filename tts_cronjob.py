@@ -11,7 +11,7 @@
 import os
 import sys
 
-PYTHON_VER = "python3.7"
+import tts_env as env
 
 # get_newest_date: gets the newest date in the dates json list, and returns it
 def get_newest_date():
@@ -38,10 +38,10 @@ def script_glue():
 
     os.chdir('web-fetch')
     print("current working directory is: ", os.getcwd())
-    os.system(f'{PYTHON_VER} checkdate.py')
+    os.system(f'{env.PYTHON_VER} checkdate.py')
     os.chdir('../pdf-mod')
-    os.system(f"{PYTHON_VER} pdf2txt.py {date}.pdf > ../local-data/{date}.txt")
-    os.system(f"{PYTHON_VER} tts.py {date}.txt -gd -dj -sd -c")
+    os.system(f"{env.PYTHON_VER} pdf2txt.py {date}.pdf > ../local-data/{date}.txt")
+    os.system(f"{env.PYTHON_VER} tts.py {date}.txt -gd -dj -sd -c")
 
 if __name__ == "__main__":
     script_glue()

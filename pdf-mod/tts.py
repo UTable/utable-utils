@@ -481,6 +481,7 @@ class TTS:
                         last_name=None
 
                         prof_id=None
+                        prof_ids = []
                         subsec_id=None
                         location="Online"
                         if 'days' in subsec:
@@ -491,7 +492,6 @@ class TTS:
                             end_time = datetime.strptime(time['end'], "%I:%M %p").time()
                         if 'profs' in subsec:
                             profs = subsec['profs']
-                            prof_ids = []
                             for prof in profs:
                                 if ',' in prof:
                                     prof = prof.split(',')
