@@ -1,3 +1,5 @@
+#!/usr/local/bin/python3.8
+
 # tts (text to scrape) automation via cron job
 # run this every week to account for updated data that could potentially arise
 
