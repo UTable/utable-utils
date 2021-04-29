@@ -1,8 +1,4 @@
 #!/usr/bin/python3.7
-# ^ local machine
-
-#!/usr/local/bin/python3.8
-# ^ production machine
 
 # python script that scrapes PDF data
 # relies on script2.sh to generate the easy-to-parse almost-YAML file
@@ -19,7 +15,7 @@ REGEX_STRS = {
     "section": r"^  Section [0-9]+",
     "days": r"\b(M|T|W|TH|F|SA|SU)+\b",
     "type": r"(LEC|LAB)",
-    "time": r"[0-9][0-9]:[0-9][0-9] [AP]M",
+    "time": r"[0-9][0-9]:[0-9][0-9]( )+[AP]M",
     "prof": r"[a-zA-Z\-]+,[a-zA-Z\.\-]+",
     "name": r'"[^"]*"',
     "full": r'Full'
