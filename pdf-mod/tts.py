@@ -434,6 +434,7 @@ class TTS:
             debug.print(f"{i}: {line}")
             if i == 0:
                 self.semester_date = line
+                print(self.semester_date)
                 i += 1
                 continue
             parser.parse(line)
@@ -490,6 +491,7 @@ class TTS:
                             time = subsec['times']
                             start_time = datetime.strptime(time['start'], "%I:%M %p").time()
                             end_time = datetime.strptime(time['end'], "%I:%M %p").time()
+                            print(start_time)
                         if 'profs' in subsec:
                             profs = subsec['profs']
                             for prof in profs:
@@ -527,6 +529,7 @@ class Executor:
             global glob_filename
             glob_filename=filename
             self.tts = TTS(debug=False)
+            return
         if option == "c" or option == "commit":
             print("committing to database")
             self.tts.db.commit()
@@ -576,6 +579,7 @@ if __name__ == "__main__":
     print("quit/q: quit the program")
     print("------------------------------------")
 
+    ex.execute_option(filename="s2021")
     while True:
         option = input("> ")
         ex.execute_option(option)
