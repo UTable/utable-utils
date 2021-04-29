@@ -44,11 +44,7 @@
             {
                 "subsections": [
                     {
-                        "days": "MW",
-                        "times": {
-                            "start": "07:00 PM",
-                            "end": "09:50 PM"
-                        }
+                        "days": "MW"
                     }
                 ],
                 "num": "30",
@@ -63,11 +59,7 @@
             {
                 "subsections": [
                     {
-                        "days": "T",
-                        "times": {
-                            "start": "10:00 AM",
-                            "end": "11:00 AM"
-                        }
+                        "days": "T"
                     }
                 ],
                 "num": "51",
@@ -77,11 +69,7 @@
             {
                 "subsections": [
                     {
-                        "days": "T",
-                        "times": {
-                            "start": "11:00 AM",
-                            "end": "12:00 PM"
-                        }
+                        "days": "T"
                     }
                 ],
                 "num": "52",
@@ -91,11 +79,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TH",
-                        "times": {
-                            "start": "09:30 AM",
-                            "end": "10:30 AM"
-                        }
+                        "days": "TH"
                     }
                 ],
                 "num": "53",
@@ -105,11 +89,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TH",
-                        "times": {
-                            "start": "10:30 AM",
-                            "end": "11:30 AM"
-                        }
+                        "days": "TH"
                     }
                 ],
                 "num": "54",
@@ -119,11 +99,7 @@
             {
                 "subsections": [
                     {
-                        "days": "W",
-                        "times": {
-                            "start": "01:30 PM",
-                            "end": "02:30 PM"
-                        }
+                        "days": "W"
                     }
                 ],
                 "num": "55",
@@ -138,11 +114,7 @@
             {
                 "subsections": [
                     {
-                        "days": "MW",
-                        "times": {
-                            "start": "10:00 AM",
-                            "end": "12:50 PM"
-                        }
+                        "days": "MW"
                     }
                 ],
                 "num": "1",
@@ -304,11 +276,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TTH",
-                        "times": {
-                            "start": "02:00 PM",
-                            "end": "04:50 PM"
-                        }
+                        "days": "TTH"
                     }
                 ],
                 "num": "1",
@@ -341,10 +309,6 @@
                 "subsections": [
                     {
                         "days": "MW",
-                        "times": {
-                            "start": "05:00 PM",
-                            "end": "07:50 PM"
-                        },
                         "profs": [
                             "Brunet,Tim"
                         ]
@@ -456,9 +420,6 @@
                 "subsections": [
                     {
                         "days": "MTWTH"
-                    },
-                    {
-                        "days": "FSA"
                     }
                 ],
                 "num": "1",
@@ -511,11 +472,7 @@
             {
                 "subsections": [
                     {
-                        "days": "MW",
-                        "times": {
-                            "start": "03:00 PM",
-                            "end": "05:50 PM"
-                        }
+                        "days": "MW"
                     }
                 ],
                 "num": "1",
@@ -629,10 +586,6 @@
                 "subsections": [
                     {
                         "days": "TTH",
-                        "times": {
-                            "start": "02:00 PM",
-                            "end": "04:50 PM"
-                        },
                         "profs": [
                             "Toronyi,Anita"
                         ]
@@ -794,10 +747,6 @@
                 "subsections": [
                     {
                         "days": "T",
-                        "times": {
-                            "start": "07:00 PM",
-                            "end": "09:50 PM"
-                        },
                         "profs": [
                             "Hart,Kenneth"
                         ]
@@ -875,11 +824,7 @@
             {
                 "subsections": [
                     {
-                        "days": "MW",
-                        "times": {
-                            "start": "01:00 PM",
-                            "end": "03:50 PM"
-                        }
+                        "days": "MW"
                     }
                 ],
                 "num": "1",
@@ -922,11 +867,7 @@
             {
                 "subsections": [
                     {
-                        "days": "MW",
-                        "times": {
-                            "start": "08:30 AM",
-                            "end": "11:20 AM"
-                        }
+                        "days": "MW"
                     }
                 ],
                 "num": "1",
@@ -1325,20 +1266,12 @@
                 "subsections": [
                     {
                         "days": "F",
-                        "times": {
-                            "start": "09:00 AM",
-                            "end": "11:50 AM"
-                        },
                         "profs": [
                             "Lwin,Kristen"
                         ]
                     },
                     {
                         "days": "F",
-                        "times": {
-                            "start": "01:00 PM",
-                            "end": "03:50 PM"
-                        },
                         "profs": [
                             "Lwin,Kristen"
                         ]
@@ -1421,10 +1354,6 @@
                 "subsections": [
                     {
                         "days": "F",
-                        "times": {
-                            "start": "09:00 AM",
-                            "end": "11:00 AM"
-                        },
                         "profs": [
                             "Carter,Irene"
                         ]
@@ -1438,10 +1367,6 @@
                 "subsections": [
                     {
                         "days": "F",
-                        "times": {
-                            "start": "09:00 AM",
-                            "end": "11:00 AM"
-                        },
                         "profs": [
                             "Miller,Wayne"
                         ]
@@ -1646,11 +1571,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TTH",
-                        "times": {
-                            "start": "06:30 PM",
-                            "end": "09:20 PM"
-                        }
+                        "days": "TTH"
                     }
                 ],
                 "num": "1",
@@ -1665,11 +1586,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TTH",
-                        "times": {
-                            "start": "06:30 PM",
-                            "end": "09:20 PM"
-                        }
+                        "days": "TTH"
                     }
                 ],
                 "num": "1",
@@ -1684,11 +1601,7 @@
             {
                 "subsections": [
                     {
-                        "days": "MW",
-                        "times": {
-                            "start": "06:30 PM",
-                            "end": "08:20 PM"
-                        }
+                        "days": "MW"
                     }
                 ],
                 "num": "1",
@@ -1772,11 +1685,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TTH",
-                        "times": {
-                            "start": "01:00 PM",
-                            "end": "03:50 PM"
-                        }
+                        "days": "TTH"
                     }
                 ],
                 "num": "1",
@@ -1824,11 +1733,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TTH",
-                        "times": {
-                            "start": "05:00 PM",
-                            "end": "07:50 PM"
-                        }
+                        "days": "TTH"
                     }
                 ],
                 "num": "1",
@@ -1843,11 +1748,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TTH",
-                        "times": {
-                            "start": "05:00 PM",
-                            "end": "07:50 PM"
-                        }
+                        "days": "TTH"
                     }
                 ],
                 "num": "1",
@@ -1862,11 +1763,7 @@
             {
                 "subsections": [
                     {
-                        "days": "W",
-                        "times": {
-                            "start": "09:00 AM",
-                            "end": "11:50 AM"
-                        }
+                        "days": "W"
                     }
                 ],
                 "num": "1",
@@ -1955,11 +1852,7 @@
             {
                 "subsections": [
                     {
-                        "days": "T",
-                        "times": {
-                            "start": "05:00 PM",
-                            "end": "07:50 PM"
-                        }
+                        "days": "T"
                     }
                 ],
                 "num": "1",
@@ -1982,11 +1875,7 @@
             {
                 "subsections": [
                     {
-                        "days": "MTWTH",
-                        "times": {
-                            "start": "05:00 PM",
-                            "end": "07:50 PM"
-                        }
+                        "days": "MTWTH"
                     }
                 ],
                 "num": "1",
@@ -2126,11 +2015,7 @@
             {
                 "subsections": [
                     {
-                        "days": "M",
-                        "times": {
-                            "start": "02:30 PM",
-                            "end": "04:20 PM"
-                        }
+                        "days": "M"
                     }
                 ],
                 "num": "51",
@@ -2146,10 +2031,6 @@
                 "subsections": [
                     {
                         "days": "TTH",
-                        "times": {
-                            "start": "11:30 AM",
-                            "end": "12:50 PM"
-                        },
                         "profs": [
                             "Engelen,Niel"
                         ]
@@ -2221,11 +2102,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TTH",
-                        "times": {
-                            "start": "10:00 AM",
-                            "end": "11:20 AM"
-                        }
+                        "days": "TTH"
                     }
                 ],
                 "num": "1",
@@ -2240,11 +2117,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TH",
-                        "times": {
-                            "start": "04:00 PM",
-                            "end": "05:50 PM"
-                        }
+                        "days": "TH"
                     }
                 ],
                 "num": "51",
@@ -2260,10 +2133,6 @@
                 "subsections": [
                     {
                         "days": "MW",
-                        "times": {
-                            "start": "10:00 AM",
-                            "end": "11:20 AM"
-                        },
                         "profs": [
                             "Kim,Yong"
                         ]
@@ -2282,10 +2151,6 @@
                 "subsections": [
                     {
                         "days": "W",
-                        "times": {
-                            "start": "05:30 PM",
-                            "end": "07:20 PM"
-                        },
                         "profs": [
                             "Kim,Yong"
                         ]
@@ -2304,10 +2169,6 @@
                 "subsections": [
                     {
                         "days": "F",
-                        "times": {
-                            "start": "08:30 AM",
-                            "end": "10:20 AM"
-                        },
                         "profs": [
                             "Xu,Iris"
                         ]
@@ -2326,10 +2187,6 @@
                 "subsections": [
                     {
                         "days": "TTH",
-                        "times": {
-                            "start": "10:00 AM",
-                            "end": "11:20 AM"
-                        },
                         "profs": [
                             "Lee,Chris"
                         ]
@@ -2414,10 +2271,6 @@
                 "subsections": [
                     {
                         "days": "W",
-                        "times": {
-                            "start": "05:30 PM",
-                            "end": "07:20 PM"
-                        },
                         "profs": [
                             "Polies,Wafa"
                         ]
@@ -2472,10 +2325,6 @@
                 "subsections": [
                     {
                         "days": "TTH",
-                        "times": {
-                            "start": "01:00 PM",
-                            "end": "02:20 PM"
-                        },
                         "profs": [
                             "Maoh,Hanna"
                         ]
@@ -2494,10 +2343,6 @@
                 "subsections": [
                     {
                         "days": "W",
-                        "times": {
-                            "start": "12:30 PM",
-                            "end": "02:20 PM"
-                        },
                         "profs": [
                             "Maoh,Hanna"
                         ]
@@ -2515,11 +2360,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TH",
-                        "times": {
-                            "start": "11:30 AM",
-                            "end": "02:20 PM"
-                        }
+                        "days": "TH"
                     }
                 ],
                 "num": "1",
@@ -2534,11 +2375,7 @@
             {
                 "subsections": [
                     {
-                        "days": "T",
-                        "times": {
-                            "start": "05:30 PM",
-                            "end": "06:20 PM"
-                        }
+                        "days": "T"
                     }
                 ],
                 "num": "1",
@@ -2554,10 +2391,6 @@
                 "subsections": [
                     {
                         "days": "M",
-                        "times": {
-                            "start": "07:00 PM",
-                            "end": "09:50 PM"
-                        },
                         "profs": [
                             "Tape,William"
                         ]
@@ -2576,10 +2409,6 @@
                 "subsections": [
                     {
                         "days": "M",
-                        "times": {
-                            "start": "02:30 PM",
-                            "end": "05:20 PM"
-                        },
                         "profs": [
                             "Maoh,Hanna"
                         ]
@@ -2598,10 +2427,6 @@
                 "subsections": [
                     {
                         "days": "MW",
-                        "times": {
-                            "start": "10:00 AM",
-                            "end": "11:20 AM"
-                        },
                         "profs": [
                             "Polies,Wafa"
                         ]
@@ -2743,10 +2568,6 @@
                 "subsections": [
                     {
                         "days": "F",
-                        "times": {
-                            "start": "08:30 AM",
-                            "end": "10:20 AM"
-                        },
                         "profs": [
                             "Xu,Iris"
                         ]
@@ -2765,10 +2586,6 @@
                 "subsections": [
                     {
                         "days": "MWF",
-                        "times": {
-                            "start": "11:30 AM",
-                            "end": "12:20 PM"
-                        },
                         "profs": [
                             "Tam,Edwin"
                         ]
@@ -2787,10 +2604,6 @@
                 "subsections": [
                     {
                         "days": "M",
-                        "times": {
-                            "start": "12:30 PM",
-                            "end": "02:20 PM"
-                        },
                         "profs": [
                             "Tam,Edwin"
                         ]
@@ -2808,18 +2621,10 @@
             {
                 "subsections": [
                     {
-                        "days": "TTH",
-                        "times": {
-                            "start": "01:00 PM",
-                            "end": "02:20 PM"
-                        }
+                        "days": "TTH"
                     },
                     {
-                        "days": "W",
-                        "times": {
-                            "start": "12:30 PM",
-                            "end": "02:20 PM"
-                        }
+                        "days": "W"
                     }
                 ],
                 "num": "1",
@@ -2835,10 +2640,6 @@
                 "subsections": [
                     {
                         "days": "W",
-                        "times": {
-                            "start": "01:00 PM",
-                            "end": "03:50 PM"
-                        },
                         "profs": [
                             "Tam,Edwin"
                         ]
@@ -2856,11 +2657,7 @@
             {
                 "subsections": [
                     {
-                        "days": "T",
-                        "times": {
-                            "start": "05:30 PM",
-                            "end": "06:20 PM"
-                        }
+                        "days": "T"
                     }
                 ],
                 "num": "1",
@@ -2963,11 +2760,7 @@
             {
                 "subsections": [
                     {
-                        "days": "T",
-                        "times": {
-                            "start": "05:30 PM",
-                            "end": "06:20 PM"
-                        }
+                        "days": "T"
                     }
                 ],
                 "num": "1",
@@ -2999,11 +2792,7 @@
             {
                 "subsections": [
                     {
-                        "days": "F",
-                        "times": {
-                            "start": "01:00 PM",
-                            "end": "02:50 PM"
-                        }
+                        "days": "F"
                     }
                 ],
                 "full?": false
@@ -3016,11 +2805,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TF",
-                        "times": {
-                            "start": "11:30 AM",
-                            "end": "12:50 PM"
-                        }
+                        "days": "TF"
                     }
                 ],
                 "num": "91",
@@ -3036,10 +2821,6 @@
                 "subsections": [
                     {
                         "days": "MW",
-                        "times": {
-                            "start": "11:30 AM",
-                            "end": "12:50 PM"
-                        },
                         "profs": [
                             "Chen,Xiang"
                         ]
@@ -3058,10 +2839,6 @@
                 "subsections": [
                     {
                         "days": "TH",
-                        "times": {
-                            "start": "11:30 AM",
-                            "end": "02:20 PM"
-                        },
                         "profs": [
                             "Chen,Xiang"
                         ]
@@ -3079,11 +2856,7 @@
             {
                 "subsections": [
                     {
-                        "days": "MW",
-                        "times": {
-                            "start": "10:00 AM",
-                            "end": "11:20 AM"
-                        }
+                        "days": "MW"
                     }
                 ],
                 "num": "1",
@@ -3098,11 +2871,7 @@
             {
                 "subsections": [
                     {
-                        "days": "M",
-                        "times": {
-                            "start": "01:00 PM",
-                            "end": "03:50 PM"
-                        }
+                        "days": "M"
                     }
                 ],
                 "num": "51",
@@ -3164,11 +2933,7 @@
             {
                 "subsections": [
                     {
-                        "days": "F",
-                        "times": {
-                            "start": "08:30 AM",
-                            "end": "09:50 AM"
-                        }
+                        "days": "F"
                     }
                 ],
                 "num": "91",
@@ -3183,11 +2948,7 @@
             {
                 "subsections": [
                     {
-                        "days": "W",
-                        "times": {
-                            "start": "09:00 AM",
-                            "end": "11:50 AM"
-                        }
+                        "days": "W"
                     }
                 ],
                 "num": "40",
@@ -3235,11 +2996,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TTH",
-                        "times": {
-                            "start": "01:00 PM",
-                            "end": "02:20 PM"
-                        }
+                        "days": "TTH"
                     }
                 ],
                 "num": "91",
@@ -3254,11 +3011,7 @@
             {
                 "subsections": [
                     {
-                        "days": "M",
-                        "times": {
-                            "start": "03:00 PM",
-                            "end": "04:50 PM"
-                        }
+                        "days": "M"
                     }
                 ],
                 "num": "51",
@@ -3273,11 +3026,7 @@
             {
                 "subsections": [
                     {
-                        "days": "MW",
-                        "times": {
-                            "start": "11:30 AM",
-                            "end": "12:50 PM"
-                        }
+                        "days": "MW"
                     }
                 ],
                 "num": "91",
@@ -3293,10 +3042,6 @@
                 "subsections": [
                     {
                         "days": "TTH",
-                        "times": {
-                            "start": "10:00 AM",
-                            "end": "11:20 AM"
-                        },
                         "profs": [
                             "Kwan,Hon"
                         ]
@@ -3315,10 +3060,6 @@
                 "subsections": [
                     {
                         "days": "W",
-                        "times": {
-                            "start": "01:00 PM",
-                            "end": "02:50 PM"
-                        },
                         "profs": [
                             "Kwan,Hon"
                         ]
@@ -3337,10 +3078,6 @@
                 "subsections": [
                     {
                         "days": "T",
-                        "times": {
-                            "start": "05:30 PM",
-                            "end": "07:20 PM"
-                        },
                         "profs": [
                             "Sakr,Ahmed"
                         ]
@@ -3359,10 +3096,6 @@
                 "subsections": [
                     {
                         "days": "MW",
-                        "times": {
-                            "start": "10:00 AM",
-                            "end": "11:20 AM"
-                        },
                         "profs": [
                             "Sakr,Ahmed"
                         ]
@@ -3425,11 +3158,7 @@
             {
                 "subsections": [
                     {
-                        "days": "F",
-                        "times": {
-                            "start": "01:00 PM",
-                            "end": "03:50 PM"
-                        }
+                        "days": "F"
                     }
                 ],
                 "num": "51",
@@ -3444,11 +3173,7 @@
             {
                 "subsections": [
                     {
-                        "days": "F",
-                        "times": {
-                            "start": "05:30 PM",
-                            "end": "08:20 PM"
-                        }
+                        "days": "F"
                     }
                 ],
                 "num": "60",
@@ -3494,10 +3219,6 @@
                 "subsections": [
                     {
                         "days": "TTH",
-                        "times": {
-                            "start": "01:00 PM",
-                            "end": "02:20 PM"
-                        },
                         "profs": [
                             "Wu,Jonathan"
                         ]
@@ -3516,10 +3237,6 @@
                 "subsections": [
                     {
                         "days": "MW",
-                        "times": {
-                            "start": "10:00 AM",
-                            "end": "11:20 AM"
-                        },
                         "profs": [
                             "Sakr,Ahmed"
                         ]
@@ -3537,11 +3254,7 @@
             {
                 "subsections": [
                     {
-                        "days": "MW",
-                        "times": {
-                            "start": "02:30 PM",
-                            "end": "03:50 PM"
-                        }
+                        "days": "MW"
                     }
                 ],
                 "num": "14",
@@ -3556,11 +3269,7 @@
             {
                 "subsections": [
                     {
-                        "days": "MW",
-                        "times": {
-                            "start": "11:30 AM",
-                            "end": "12:50 PM"
-                        }
+                        "days": "MW"
                     }
                 ],
                 "num": "42",
@@ -3576,10 +3285,6 @@
                 "subsections": [
                     {
                         "days": "TTH",
-                        "times": {
-                            "start": "10:00 AM",
-                            "end": "11:20 AM"
-                        },
                         "profs": [
                             "Kwan,Hon"
                         ]
@@ -3597,11 +3302,7 @@
             {
                 "subsections": [
                     {
-                        "days": "MW",
-                        "times": {
-                            "start": "08:30 AM",
-                            "end": "09:50 AM"
-                        }
+                        "days": "MW"
                     }
                 ],
                 "num": "70",
@@ -3676,10 +3377,6 @@
                 "subsections": [
                     {
                         "days": "W",
-                        "times": {
-                            "start": "02:30 PM",
-                            "end": "04:20 PM"
-                        },
                         "profs": [
                             "Zhou,Biao"
                         ]
@@ -3733,11 +3430,7 @@
             {
                 "subsections": [
                     {
-                        "days": "T",
-                        "times": {
-                            "start": "01:00 PM",
-                            "end": "03:50 PM"
-                        }
+                        "days": "T"
                     }
                 ],
                 "num": "1",
@@ -3752,11 +3445,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TH",
-                        "times": {
-                            "start": "02:30 PM",
-                            "end": "04:20 PM"
-                        }
+                        "days": "TH"
                     }
                 ],
                 "num": "51",
@@ -3784,11 +3473,7 @@
             {
                 "subsections": [
                     {
-                        "days": "W",
-                        "times": {
-                            "start": "05:30 PM",
-                            "end": "08:20 PM"
-                        }
+                        "days": "W"
                     }
                 ],
                 "num": "60",
@@ -3803,11 +3488,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TH",
-                        "times": {
-                            "start": "05:30 PM",
-                            "end": "08:20 PM"
-                        }
+                        "days": "TH"
                     }
                 ],
                 "num": "60",
@@ -3822,11 +3503,7 @@
             {
                 "subsections": [
                     {
-                        "days": "T",
-                        "times": {
-                            "start": "05:30 PM",
-                            "end": "08:20 PM"
-                        }
+                        "days": "T"
                     }
                 ],
                 "num": "60",
@@ -3924,10 +3601,6 @@
                 "subsections": [
                     {
                         "days": "TH",
-                        "times": {
-                            "start": "08:30 AM",
-                            "end": "09:50 AM"
-                        },
                         "profs": [
                             "Salfi,Lisa"
                         ]
@@ -3941,10 +3614,6 @@
                 "subsections": [
                     {
                         "days": "TH",
-                        "times": {
-                            "start": "10:00 AM",
-                            "end": "11:20 AM"
-                        },
                         "profs": [
                             "Salfi,Lisa"
                         ]
@@ -3958,10 +3627,6 @@
                 "subsections": [
                     {
                         "days": "M",
-                        "times": {
-                            "start": "08:30 AM",
-                            "end": "09:50 AM"
-                        },
                         "profs": [
                             "Ziter,Jesse"
                         ]
@@ -3989,11 +3654,7 @@
             {
                 "subsections": [
                     {
-                        "days": "F",
-                        "times": {
-                            "start": "10:00 AM",
-                            "end": "01:00 PM"
-                        }
+                        "days": "F"
                     }
                 ],
                 "num": "31",
@@ -4008,11 +3669,7 @@
             {
                 "subsections": [
                     {
-                        "days": "T",
-                        "times": {
-                            "start": "09:00 AM",
-                            "end": "11:50 AM"
-                        }
+                        "days": "T"
                     }
                 ],
                 "num": "30",
@@ -4023,10 +3680,6 @@
                 "subsections": [
                     {
                         "days": "M",
-                        "times": {
-                            "start": "09:00 AM",
-                            "end": "11:50 AM"
-                        },
                         "profs": [
                             "n,Ali"
                         ]
@@ -4039,11 +3692,7 @@
             {
                 "subsections": [
                     {
-                        "days": "W",
-                        "times": {
-                            "start": "09:00 AM",
-                            "end": "11:50 AM"
-                        }
+                        "days": "W"
                     }
                 ],
                 "num": "33",
@@ -4058,11 +3707,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TH",
-                        "times": {
-                            "start": "08:30 AM",
-                            "end": "11:20 AM"
-                        }
+                        "days": "TH"
                     }
                 ],
                 "num": "1",
@@ -4072,11 +3717,7 @@
             {
                 "subsections": [
                     {
-                        "days": "F",
-                        "times": {
-                            "start": "08:30 AM",
-                            "end": "11:20 AM"
-                        }
+                        "days": "F"
                     }
                 ],
                 "num": "2",
@@ -4086,11 +3727,7 @@
             {
                 "subsections": [
                     {
-                        "days": "M",
-                        "times": {
-                            "start": "08:30 AM",
-                            "end": "11:20 AM"
-                        }
+                        "days": "M"
                     }
                 ],
                 "num": "3",
@@ -4197,11 +3834,7 @@
             {
                 "subsections": [
                     {
-                        "days": "W",
-                        "times": {
-                            "start": "05:30 PM",
-                            "end": "08:20 PM"
-                        }
+                        "days": "W"
                     }
                 ],
                 "num": "2",
@@ -4216,11 +3849,7 @@
             {
                 "subsections": [
                     {
-                        "days": "F",
-                        "times": {
-                            "start": "04:30 PM",
-                            "end": "07:20 PM"
-                        }
+                        "days": "F"
                     }
                 ],
                 "num": "1",
@@ -4235,11 +3864,7 @@
             {
                 "subsections": [
                     {
-                        "days": "M",
-                        "times": {
-                            "start": "05:30 PM",
-                            "end": "08:20 PM"
-                        }
+                        "days": "M"
                     }
                 ],
                 "num": "30",
@@ -4303,10 +3928,6 @@
                 "subsections": [
                     {
                         "days": "T",
-                        "times": {
-                            "start": "04:00 PM",
-                            "end": "06:50 PM"
-                        },
                         "profs": [
                             "Baki,Fouzia"
                         ]
@@ -4364,10 +3985,6 @@
                 "subsections": [
                     {
                         "days": "MW",
-                        "times": {
-                            "start": "02:30 PM",
-                            "end": "03:50 PM"
-                        },
                         "profs": [
                             "Alpas,Ahmet"
                         ]
@@ -4455,18 +4072,10 @@
             {
                 "subsections": [
                     {
-                        "days": "F",
-                        "times": {
-                            "start": "01:30 PM",
-                            "end": "03:20 PM"
-                        }
+                        "days": "F"
                     },
                     {
-                        "days": "TTH",
-                        "times": {
-                            "start": "10:00 AM",
-                            "end": "11:20 AM"
-                        }
+                        "days": "TTH"
                     }
                 ],
                 "num": "1",
@@ -4476,18 +4085,10 @@
             {
                 "subsections": [
                     {
-                        "days": "TTH",
-                        "times": {
-                            "start": "08:30 AM",
-                            "end": "09:50 AM"
-                        }
+                        "days": "TTH"
                     },
                     {
-                        "days": "F",
-                        "times": {
-                            "start": "09:30 AM",
-                            "end": "11:20 AM"
-                        }
+                        "days": "F"
                     }
                 ],
                 "num": "2",
@@ -4502,18 +4103,10 @@
             {
                 "subsections": [
                     {
-                        "days": "MW",
-                        "times": {
-                            "start": "08:30 AM",
-                            "end": "09:50 AM"
-                        }
+                        "days": "MW"
                     },
                     {
-                        "days": "W",
-                        "times": {
-                            "start": "05:30 PM",
-                            "end": "07:20 PM"
-                        }
+                        "days": "W"
                     }
                 ],
                 "num": "1",
@@ -4523,18 +4116,10 @@
             {
                 "subsections": [
                     {
-                        "days": "MW",
-                        "times": {
-                            "start": "10:00 AM",
-                            "end": "11:20 AM"
-                        }
+                        "days": "MW"
                     },
                     {
-                        "days": "W",
-                        "times": {
-                            "start": "03:30 PM",
-                            "end": "05:20 PM"
-                        }
+                        "days": "W"
                     }
                 ],
                 "num": "2",
@@ -4549,18 +4134,10 @@
             {
                 "subsections": [
                     {
-                        "days": "T",
-                        "times": {
-                            "start": "05:30 PM",
-                            "end": "06:50 PM"
-                        }
+                        "days": "T"
                     },
                     {
-                        "days": "TTH",
-                        "times": {
-                            "start": "11:30 AM",
-                            "end": "12:50 PM"
-                        }
+                        "days": "TTH"
                     }
                 ],
                 "num": "1",
@@ -4570,18 +4147,10 @@
             {
                 "subsections": [
                     {
-                        "days": "TH",
-                        "times": {
-                            "start": "05:30 PM",
-                            "end": "06:50 PM"
-                        }
+                        "days": "TH"
                     },
                     {
-                        "days": "TTH",
-                        "times": {
-                            "start": "11:30 AM",
-                            "end": "12:50 PM"
-                        }
+                        "days": "TTH"
                     }
                 ],
                 "num": "2",
@@ -4596,18 +4165,10 @@
             {
                 "subsections": [
                     {
-                        "days": "TH",
-                        "times": {
-                            "start": "05:30 PM",
-                            "end": "06:50 PM"
-                        }
+                        "days": "TH"
                     },
                     {
-                        "days": "TTH",
-                        "times": {
-                            "start": "10:00 AM",
-                            "end": "11:20 AM"
-                        }
+                        "days": "TTH"
                     }
                 ],
                 "num": "1",
@@ -4617,18 +4178,10 @@
             {
                 "subsections": [
                     {
-                        "days": "TH",
-                        "times": {
-                            "start": "07:00 PM",
-                            "end": "08:20 PM"
-                        }
+                        "days": "TH"
                     },
                     {
-                        "days": "TTH",
-                        "times": {
-                            "start": "01:00 PM",
-                            "end": "02:20 PM"
-                        }
+                        "days": "TTH"
                     }
                 ],
                 "num": "2",
@@ -4750,11 +4303,7 @@
             {
                 "subsections": [
                     {
-                        "days": "M",
-                        "times": {
-                            "start": "03:00 PM",
-                            "end": "04:50 PM"
-                        }
+                        "days": "M"
                     }
                 ],
                 "num": "51",
@@ -4769,11 +4318,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TTH",
-                        "times": {
-                            "start": "11:30 AM",
-                            "end": "12:50 PM"
-                        }
+                        "days": "TTH"
                     }
                 ],
                 "num": "1",
@@ -4788,11 +4333,7 @@
             {
                 "subsections": [
                     {
-                        "days": "M",
-                        "times": {
-                            "start": "02:30 PM",
-                            "end": "04:20 PM"
-                        }
+                        "days": "M"
                     }
                 ],
                 "num": "51",
@@ -4808,10 +4349,6 @@
                 "subsections": [
                     {
                         "days": "F",
-                        "times": {
-                            "start": "08:30 AM",
-                            "end": "10:20 AM"
-                        },
                         "profs": [
                             "Defoe,Jeff",
                             "Eaves,Nick"
@@ -5175,11 +4712,7 @@
             {
                 "subsections": [
                     {
-                        "days": "W",
-                        "times": {
-                            "start": "12:30 PM",
-                            "end": "02:20 PM"
-                        }
+                        "days": "W"
                     }
                 ],
                 "num": "1",
@@ -5189,11 +4722,7 @@
             {
                 "subsections": [
                     {
-                        "days": "M",
-                        "times": {
-                            "start": "05:30 PM",
-                            "end": "08:20 PM"
-                        }
+                        "days": "M"
                     }
                 ],
                 "num": "60",
@@ -5284,10 +4813,6 @@
                 "subsections": [
                     {
                         "days": "MW",
-                        "times": {
-                            "start": "02:30 PM",
-                            "end": "03:50 PM"
-                        },
                         "profs": [
                             "Novak,Colin"
                         ]
@@ -5306,10 +4831,6 @@
                 "subsections": [
                     {
                         "days": "W",
-                        "times": {
-                            "start": "04:00 PM",
-                            "end": "04:50 PM"
-                        },
                         "profs": [
                             "Novak,Colin"
                         ]
@@ -5337,11 +4858,7 @@
             {
                 "subsections": [
                     {
-                        "days": "T",
-                        "times": {
-                            "start": "04:00 PM",
-                            "end": "04:50 PM"
-                        }
+                        "days": "T"
                     },
                     {
                         "days": "F"
@@ -5359,11 +4876,7 @@
             {
                 "subsections": [
                     {
-                        "days": "F",
-                        "times": {
-                            "start": "08:30 AM",
-                            "end": "11:20 AM"
-                        }
+                        "days": "F"
                     }
                 ],
                 "num": "51",
@@ -5373,11 +4886,7 @@
             {
                 "subsections": [
                     {
-                        "days": "F",
-                        "times": {
-                            "start": "01:30 PM",
-                            "end": "04:20 PM"
-                        }
+                        "days": "F"
                     }
                 ],
                 "num": "52",
@@ -5387,11 +4896,7 @@
             {
                 "subsections": [
                     {
-                        "days": "M",
-                        "times": {
-                            "start": "04:00 PM",
-                            "end": "06:50 PM"
-                        }
+                        "days": "M"
                     }
                 ],
                 "num": "53",
@@ -5401,11 +4906,7 @@
             {
                 "subsections": [
                     {
-                        "days": "T",
-                        "times": {
-                            "start": "08:30 AM",
-                            "end": "11:20 AM"
-                        }
+                        "days": "T"
                     }
                 ],
                 "num": "54",
@@ -5421,10 +4922,6 @@
                 "subsections": [
                     {
                         "days": "MW",
-                        "times": {
-                            "start": "10:00 AM",
-                            "end": "11:20 AM"
-                        },
                         "profs": [
                             "Fartaj,Amir"
                         ]
@@ -5443,10 +4940,6 @@
                 "subsections": [
                     {
                         "days": "M",
-                        "times": {
-                            "start": "11:30 AM",
-                            "end": "12:50 PM"
-                        },
                         "profs": [
                             "Fartaj,Amir"
                         ]
@@ -5530,11 +5023,7 @@
             {
                 "subsections": [
                     {
-                        "days": "MW",
-                        "times": {
-                            "start": "10:00 AM",
-                            "end": "11:20 AM"
-                        }
+                        "days": "MW"
                     }
                 ],
                 "num": "1",
@@ -5549,11 +5038,7 @@
             {
                 "subsections": [
                     {
-                        "days": "W",
-                        "times": {
-                            "start": "02:30 PM",
-                            "end": "04:20 PM"
-                        }
+                        "days": "W"
                     }
                 ],
                 "num": "51",
@@ -5569,20 +5054,12 @@
                 "subsections": [
                     {
                         "days": "MW",
-                        "times": {
-                            "start": "02:30 PM",
-                            "end": "03:50 PM"
-                        },
                         "profs": [
                             "Alpas,Ahmet"
                         ]
                     },
                     {
                         "days": "TH",
-                        "times": {
-                            "start": "04:30 PM",
-                            "end": "06:50 PM"
-                        },
                         "profs": [
                             "Alpas,Ahmet"
                         ]
@@ -5647,10 +5124,6 @@
                 "subsections": [
                     {
                         "days": "T",
-                        "times": {
-                            "start": "10:00 AM",
-                            "end": "12:50 PM"
-                        },
                         "profs": [
                             "Fartaj,Amir"
                         ]
@@ -5668,11 +5141,7 @@
             {
                 "subsections": [
                     {
-                        "days": "F",
-                        "times": {
-                            "start": "04:30 PM",
-                            "end": "07:20 PM"
-                        }
+                        "days": "F"
                     }
                 ],
                 "num": "1",
@@ -5688,10 +5157,6 @@
                 "subsections": [
                     {
                         "days": "W",
-                        "times": {
-                            "start": "08:30 AM",
-                            "end": "11:20 AM"
-                        },
                         "profs": [
                             "Novak,Colin"
                         ]
@@ -5709,11 +5174,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TH",
-                        "times": {
-                            "start": "05:30 PM",
-                            "end": "08:20 PM"
-                        }
+                        "days": "TH"
                     }
                 ],
                 "num": "34",
@@ -5792,10 +5253,6 @@
                 "subsections": [
                     {
                         "days": "T",
-                        "times": {
-                            "start": "04:00 PM",
-                            "end": "06:50 PM"
-                        },
                         "profs": [
                             "Baki,Fouzia"
                         ]
@@ -5814,10 +5271,6 @@
                 "subsections": [
                     {
                         "days": "TH",
-                        "times": {
-                            "start": "01:00 PM",
-                            "end": "03:50 PM"
-                        },
                         "profs": [
                             "Baki,Fouzia"
                         ]
@@ -5835,11 +5288,7 @@
             {
                 "subsections": [
                     {
-                        "days": "T",
-                        "times": {
-                            "start": "02:30 PM",
-                            "end": "05:20 PM"
-                        }
+                        "days": "T"
                     }
                 ],
                 "num": "9",
@@ -5849,11 +5298,7 @@
             {
                 "subsections": [
                     {
-                        "days": "W",
-                        "times": {
-                            "start": "05:30 PM",
-                            "end": "08:20 PM"
-                        }
+                        "days": "W"
                     }
                 ],
                 "num": "90",
@@ -5924,11 +5369,7 @@
             {
                 "subsections": [
                     {
-                        "days": "F",
-                        "times": {
-                            "start": "11:30 AM",
-                            "end": "12:20 PM"
-                        }
+                        "days": "F"
                     }
                 ],
                 "num": "1",
@@ -6000,10 +5441,6 @@
                 "subsections": [
                     {
                         "days": "MTWTH",
-                        "times": {
-                            "start": "12:00 PM",
-                            "end": "01:20 PM"
-                        },
                         "profs": [
                             "Horton,Sean"
                         ]
@@ -6100,11 +5537,7 @@
             {
                 "subsections": [
                     {
-                        "days": "MTWTH",
-                        "times": {
-                            "start": "10:00 AM",
-                            "end": "11:20 AM"
-                        }
+                        "days": "MTWTH"
                     }
                 ],
                 "num": "1",
@@ -6119,11 +5552,7 @@
             {
                 "subsections": [
                     {
-                        "days": "MTWTH",
-                        "times": {
-                            "start": "12:00 PM",
-                            "end": "01:20 PM"
-                        }
+                        "days": "MTWTH"
                     }
                 ],
                 "num": "2",
@@ -6329,11 +5758,7 @@
             {
                 "subsections": [
                     {
-                        "days": "MW",
-                        "times": {
-                            "start": "08:30 AM",
-                            "end": "11:20 AM"
-                        }
+                        "days": "MW"
                     }
                 ],
                 "num": "95",
@@ -6369,11 +5794,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TTH",
-                        "times": {
-                            "start": "08:30 AM",
-                            "end": "11:50 AM"
-                        }
+                        "days": "TTH"
                     }
                 ],
                 "num": "1",
@@ -6488,11 +5909,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TH",
-                        "times": {
-                            "start": "01:00 PM",
-                            "end": "02:30 PM"
-                        }
+                        "days": "TH"
                     }
                 ],
                 "num": "1",
@@ -6507,11 +5924,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TTH",
-                        "times": {
-                            "start": "09:00 AM",
-                            "end": "10:20 AM"
-                        }
+                        "days": "TTH"
                     }
                 ],
                 "num": "1",
@@ -6571,11 +5984,7 @@
             {
                 "subsections": [
                     {
-                        "days": "MW",
-                        "times": {
-                            "start": "01:00 PM",
-                            "end": "03:50 PM"
-                        }
+                        "days": "MW"
                     }
                 ],
                 "num": "1",
@@ -6591,10 +6000,6 @@
                 "subsections": [
                     {
                         "days": "MW",
-                        "times": {
-                            "start": "09:00 AM",
-                            "end": "11:50 AM"
-                        },
                         "profs": [
                             "Kane,Debbie"
                         ]
@@ -6612,11 +6017,7 @@
             {
                 "subsections": [
                     {
-                        "days": "W",
-                        "times": {
-                            "start": "06:00 PM",
-                            "end": "08:50 PM"
-                        }
+                        "days": "W"
                     }
                 ],
                 "num": "1",
@@ -6626,11 +6027,7 @@
             {
                 "subsections": [
                     {
-                        "days": "W",
-                        "times": {
-                            "start": "06:00 PM",
-                            "end": "08:50 PM"
-                        }
+                        "days": "W"
                     }
                 ],
                 "num": "2",
@@ -6713,10 +6110,6 @@
                 "subsections": [
                     {
                         "days": "TTH",
-                        "times": {
-                            "start": "08:30 AM",
-                            "end": "11:20 AM"
-                        },
                         "profs": [
                             "Tong,Yufeng"
                         ]
@@ -6767,11 +6160,7 @@
             {
                 "subsections": [
                     {
-                        "days": "M",
-                        "times": {
-                            "start": "11:30 AM",
-                            "end": "02:20 PM"
-                        }
+                        "days": "M"
                     }
                 ],
                 "num": "51",
@@ -6781,11 +6170,7 @@
             {
                 "subsections": [
                     {
-                        "days": "T",
-                        "times": {
-                            "start": "09:30 AM",
-                            "end": "12:20 PM"
-                        }
+                        "days": "T"
                     }
                 ],
                 "num": "52",
@@ -6801,10 +6186,6 @@
                 "subsections": [
                     {
                         "days": "TTH",
-                        "times": {
-                            "start": "11:30 AM",
-                            "end": "12:50 PM"
-                        },
                         "profs": [
                             "Taylor,Keith"
                         ]
@@ -6823,10 +6204,6 @@
                 "subsections": [
                     {
                         "days": "T",
-                        "times": {
-                            "start": "08:30 AM",
-                            "end": "11:20 AM"
-                        },
                         "profs": [
                             "Taylor,Keith"
                         ]
@@ -6840,10 +6217,6 @@
                 "subsections": [
                     {
                         "days": "TH",
-                        "times": {
-                            "start": "08:30 AM",
-                            "end": "11:20 AM"
-                        },
                         "profs": [
                             "Taylor,Keith"
                         ]
@@ -6862,10 +6235,6 @@
                 "subsections": [
                     {
                         "days": "TTH",
-                        "times": {
-                            "start": "08:30 AM",
-                            "end": "11:20 AM"
-                        },
                         "profs": [
                             "Wang,Zhuo"
                         ]
@@ -7017,11 +6386,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TTH",
-                        "times": {
-                            "start": "11:30 AM",
-                            "end": "12:50 PM"
-                        }
+                        "days": "TTH"
                     }
                 ],
                 "num": "1",
@@ -7036,11 +6401,7 @@
             {
                 "subsections": [
                     {
-                        "days": "T",
-                        "times": {
-                            "start": "01:00 PM",
-                            "end": "02:20 PM"
-                        }
+                        "days": "T"
                     }
                 ],
                 "num": "51",
@@ -7050,11 +6411,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TH",
-                        "times": {
-                            "start": "01:00 PM",
-                            "end": "02:20 PM"
-                        }
+                        "days": "TH"
                     }
                 ],
                 "num": "52",
@@ -7064,11 +6421,7 @@
             {
                 "subsections": [
                     {
-                        "days": "T",
-                        "times": {
-                            "start": "02:30 PM",
-                            "end": "03:50 PM"
-                        }
+                        "days": "T"
                     }
                 ],
                 "num": "53",
@@ -7170,11 +6523,7 @@
             {
                 "subsections": [
                     {
-                        "days": "MW",
-                        "times": {
-                            "start": "10:00 AM",
-                            "end": "12:50 PM"
-                        }
+                        "days": "MW"
                     }
                 ],
                 "num": "1",
@@ -7209,11 +6558,7 @@
             {
                 "subsections": [
                     {
-                        "days": "M",
-                        "times": {
-                            "start": "05:30 PM",
-                            "end": "08:20 PM"
-                        }
+                        "days": "M"
                     }
                 ],
                 "num": "53",
@@ -7223,11 +6568,7 @@
             {
                 "subsections": [
                     {
-                        "days": "W",
-                        "times": {
-                            "start": "05:30 PM",
-                            "end": "08:20 PM"
-                        }
+                        "days": "W"
                     }
                 ],
                 "num": "54",
@@ -7306,11 +6647,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TTH",
-                        "times": {
-                            "start": "04:00 PM",
-                            "end": "05:20 PM"
-                        }
+                        "days": "TTH"
                     }
                 ],
                 "num": "1",
@@ -7398,11 +6735,7 @@
             {
                 "subsections": [
                     {
-                        "days": "W",
-                        "times": {
-                            "start": "01:00 PM",
-                            "end": "02:20 PM"
-                        }
+                        "days": "W"
                     }
                 ],
                 "num": "52",
@@ -7412,11 +6745,7 @@
             {
                 "subsections": [
                     {
-                        "days": "M",
-                        "times": {
-                            "start": "02:30 PM",
-                            "end": "03:50 PM"
-                        }
+                        "days": "M"
                     }
                 ],
                 "num": "53",
@@ -7426,11 +6755,7 @@
             {
                 "subsections": [
                     {
-                        "days": "W",
-                        "times": {
-                            "start": "02:30 PM",
-                            "end": "03:50 PM"
-                        }
+                        "days": "W"
                     }
                 ],
                 "num": "54",
@@ -7483,11 +6808,7 @@
             {
                 "subsections": [
                     {
-                        "days": "M",
-                        "times": {
-                            "start": "07:00 PM",
-                            "end": "08:20 PM"
-                        }
+                        "days": "M"
                     }
                 ],
                 "num": "53",
@@ -7497,11 +6818,7 @@
             {
                 "subsections": [
                     {
-                        "days": "W",
-                        "times": {
-                            "start": "07:00 PM",
-                            "end": "08:20 PM"
-                        }
+                        "days": "W"
                     }
                 ],
                 "num": "54",
@@ -7531,11 +6848,7 @@
             {
                 "subsections": [
                     {
-                        "days": "T",
-                        "times": {
-                            "start": "07:00 PM",
-                            "end": "08:20 PM"
-                        }
+                        "days": "T"
                     }
                 ],
                 "num": "51",
@@ -7545,11 +6858,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TH",
-                        "times": {
-                            "start": "07:00 PM",
-                            "end": "08:20 PM"
-                        }
+                        "days": "TH"
                     }
                 ],
                 "num": "52",
@@ -7559,11 +6868,7 @@
             {
                 "subsections": [
                     {
-                        "days": "F",
-                        "times": {
-                            "start": "11:30 AM",
-                            "end": "12:50 PM"
-                        }
+                        "days": "F"
                     }
                 ],
                 "num": "53",
@@ -7573,11 +6878,7 @@
             {
                 "subsections": [
                     {
-                        "days": "F",
-                        "times": {
-                            "start": "01:00 PM",
-                            "end": "02:20 PM"
-                        }
+                        "days": "F"
                     }
                 ],
                 "num": "54",
@@ -7813,10 +7114,6 @@
                 "subsections": [
                     {
                         "days": "M",
-                        "times": {
-                            "start": "10:00 AM",
-                            "end": "12:50 PM"
-                        },
                         "profs": [
                             "Yuan,Xiaobu"
                         ]
@@ -7834,11 +7131,7 @@
             {
                 "subsections": [
                     {
-                        "days": "M",
-                        "times": {
-                            "start": "11:30 AM",
-                            "end": "02:20 PM"
-                        }
+                        "days": "M"
                     }
                 ],
                 "num": "1",
@@ -7953,11 +7246,7 @@
             {
                 "subsections": [
                     {
-                        "days": "T",
-                        "times": {
-                            "start": "08:30 AM",
-                            "end": "11:20 AM"
-                        }
+                        "days": "T"
                     }
                 ],
                 "num": "1",
@@ -7967,11 +7256,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TH",
-                        "times": {
-                            "start": "08:30 AM",
-                            "end": "11:20 AM"
-                        }
+                        "days": "TH"
                     }
                 ],
                 "num": "2",
@@ -7981,11 +7266,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TH",
-                        "times": {
-                            "start": "11:30 AM",
-                            "end": "02:20 PM"
-                        }
+                        "days": "TH"
                     }
                 ],
                 "num": "3",
@@ -8000,11 +7281,7 @@
             {
                 "subsections": [
                     {
-                        "days": "T",
-                        "times": {
-                            "start": "08:30 AM",
-                            "end": "11:20 AM"
-                        }
+                        "days": "T"
                     }
                 ],
                 "num": "1",
@@ -8014,11 +7291,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TH",
-                        "times": {
-                            "start": "08:30 AM",
-                            "end": "11:20 AM"
-                        }
+                        "days": "TH"
                     }
                 ],
                 "num": "2",
@@ -8033,11 +7306,7 @@
             {
                 "subsections": [
                     {
-                        "days": "F",
-                        "times": {
-                            "start": "08:30 AM",
-                            "end": "11:20 AM"
-                        }
+                        "days": "F"
                     }
                 ],
                 "num": "1",
@@ -8052,11 +7321,7 @@
             {
                 "subsections": [
                     {
-                        "days": "M",
-                        "times": {
-                            "start": "01:00 PM",
-                            "end": "03:50 PM"
-                        }
+                        "days": "M"
                     }
                 ],
                 "num": "1",
@@ -8066,11 +7331,7 @@
             {
                 "subsections": [
                     {
-                        "days": "W",
-                        "times": {
-                            "start": "01:00 PM",
-                            "end": "03:50 PM"
-                        }
+                        "days": "W"
                     }
                 ],
                 "num": "2",
@@ -8208,11 +7469,7 @@
             {
                 "subsections": [
                     {
-                        "days": "MWF",
-                        "times": {
-                            "start": "09:00 AM",
-                            "end": "11:20 AM"
-                        }
+                        "days": "MWF"
                     }
                 ],
                 "num": "51",
@@ -8222,11 +7479,7 @@
             {
                 "subsections": [
                     {
-                        "days": "MWF",
-                        "times": {
-                            "start": "01:00 PM",
-                            "end": "03:20 PM"
-                        }
+                        "days": "MWF"
                     }
                 ],
                 "num": "52",
@@ -8269,11 +7522,7 @@
             {
                 "subsections": [
                     {
-                        "days": "MW",
-                        "times": {
-                            "start": "11:30 AM",
-                            "end": "02:20 PM"
-                        }
+                        "days": "MW"
                     }
                 ],
                 "num": "95",
@@ -8289,10 +7538,6 @@
                 "subsections": [
                     {
                         "days": "T",
-                        "times": {
-                            "start": "05:00 PM",
-                            "end": "07:50 PM"
-                        },
                         "profs": [
                             "Brunet,Tim"
                         ]
@@ -8476,11 +7721,7 @@
             {
                 "subsections": [
                     {
-                        "days": "MW",
-                        "times": {
-                            "start": "02:30 PM",
-                            "end": "03:50 PM"
-                        }
+                        "days": "MW"
                     }
                 ],
                 "num": "1",
@@ -8495,11 +7736,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TTH",
-                        "times": {
-                            "start": "02:30 PM",
-                            "end": "03:50 PM"
-                        }
+                        "days": "TTH"
                     }
                 ],
                 "num": "1",
@@ -8515,10 +7752,6 @@
                 "subsections": [
                     {
                         "days": "W",
-                        "times": {
-                            "start": "10:00 AM",
-                            "end": "12:50 PM"
-                        },
                         "profs": [
                             "Mian,Rajibul"
                         ]
@@ -8602,11 +7835,7 @@
             {
                 "subsections": [
                     {
-                        "days": "MW",
-                        "times": {
-                            "start": "11:30 AM",
-                            "end": "12:50 PM"
-                        }
+                        "days": "MW"
                     },
                     {
                         "days": "F"
@@ -8624,18 +7853,10 @@
             {
                 "subsections": [
                     {
-                        "days": "TTH",
-                        "times": {
-                            "start": "10:00 AM",
-                            "end": "11:20 AM"
-                        }
+                        "days": "TTH"
                     },
                     {
-                        "days": "F",
-                        "times": {
-                            "start": "10:30 AM",
-                            "end": "11:20 AM"
-                        }
+                        "days": "F"
                     }
                 ],
                 "num": "1",
@@ -8650,18 +7871,10 @@
             {
                 "subsections": [
                     {
-                        "days": "TTH",
-                        "times": {
-                            "start": "11:30 AM",
-                            "end": "12:50 PM"
-                        }
+                        "days": "TTH"
                     },
                     {
-                        "days": "F",
-                        "times": {
-                            "start": "11:30 AM",
-                            "end": "12:20 PM"
-                        }
+                        "days": "F"
                     }
                 ],
                 "num": "1",
@@ -8716,20 +7929,12 @@
                 "subsections": [
                     {
                         "days": "TTH",
-                        "times": {
-                            "start": "01:00 PM",
-                            "end": "02:20 PM"
-                        },
                         "profs": [
                             "Azad,Kazi"
                         ]
                     },
                     {
                         "days": "F",
-                        "times": {
-                            "start": "01:30 PM",
-                            "end": "02:20 PM"
-                        },
                         "profs": [
                             "Azad,Kazi"
                         ]
@@ -8748,10 +7953,6 @@
                 "subsections": [
                     {
                         "days": "W",
-                        "times": {
-                            "start": "10:00 AM",
-                            "end": "12:50 PM"
-                        },
                         "profs": [
                             "Mian,Rajibul"
                         ]
@@ -8849,11 +8050,7 @@
             {
                 "subsections": [
                     {
-                        "days": "T",
-                        "times": {
-                            "start": "02:30 PM",
-                            "end": "05:20 PM"
-                        }
+                        "days": "T"
                     }
                 ],
                 "num": "51",
@@ -8863,11 +8060,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TH",
-                        "times": {
-                            "start": "08:30 AM",
-                            "end": "11:20 AM"
-                        }
+                        "days": "TH"
                     }
                 ],
                 "num": "52",
@@ -9021,10 +8214,6 @@
                 "subsections": [
                     {
                         "days": "TTH",
-                        "times": {
-                            "start": "10:00 AM",
-                            "end": "12:00 PM"
-                        },
                         "profs": [
                             "Hart,Janet"
                         ]
@@ -9085,7 +8274,7 @@
             {
                 "subsections": [
                     {
-                        "days": "MTWTHF"
+                        "days": "MTWTH"
                     }
                 ],
                 "num": "1",
@@ -9302,10 +8491,6 @@
                 "subsections": [
                     {
                         "days": "TTH",
-                        "times": {
-                            "start": "02:30 PM",
-                            "end": "03:50 PM"
-                        },
                         "profs": [
                             "Shih,Michael"
                         ]
@@ -9324,10 +8509,6 @@
                 "subsections": [
                     {
                         "days": "M",
-                        "times": {
-                            "start": "07:00 PM",
-                            "end": "09:50 PM"
-                        },
                         "profs": [
                             "Orawski,Bill"
                         ]
@@ -9346,10 +8527,6 @@
                 "subsections": [
                     {
                         "days": "TTH",
-                        "times": {
-                            "start": "02:30 PM",
-                            "end": "03:50 PM"
-                        },
                         "profs": [
                             "Lan,George"
                         ]
@@ -9368,10 +8545,6 @@
                 "subsections": [
                     {
                         "days": "T",
-                        "times": {
-                            "start": "07:00 PM",
-                            "end": "09:50 PM"
-                        },
                         "profs": [
                             "Orawski,Bill"
                         ]
@@ -9389,11 +8562,7 @@
             {
                 "subsections": [
                     {
-                        "days": "MW",
-                        "times": {
-                            "start": "04:00 PM",
-                            "end": "05:20 PM"
-                        }
+                        "days": "MW"
                     }
                 ],
                 "num": "91",
@@ -9408,11 +8577,7 @@
             {
                 "subsections": [
                     {
-                        "days": "MW",
-                        "times": {
-                            "start": "08:30 PM",
-                            "end": "09:50 PM"
-                        }
+                        "days": "MW"
                     }
                 ],
                 "num": "91",
@@ -9487,11 +8652,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TTH",
-                        "times": {
-                            "start": "07:00 PM",
-                            "end": "08:20 PM"
-                        }
+                        "days": "TTH"
                     }
                 ],
                 "num": "91",
@@ -9536,11 +8697,7 @@
             {
                 "subsections": [
                     {
-                        "days": "F",
-                        "times": {
-                            "start": "08:00 AM",
-                            "end": "09:50 AM"
-                        }
+                        "days": "F"
                     }
                 ],
                 "num": "5",
@@ -9569,10 +8726,6 @@
                 "subsections": [
                     {
                         "days": "F",
-                        "times": {
-                            "start": "08:00 AM",
-                            "end": "09:50 AM"
-                        },
                         "profs": [
                             "Sarkis,Diana"
                         ]
@@ -9585,11 +8738,7 @@
             {
                 "subsections": [
                     {
-                        "days": "F",
-                        "times": {
-                            "start": "08:00 AM",
-                            "end": "09:50 AM"
-                        }
+                        "days": "F"
                     }
                 ],
                 "num": "4",
@@ -9605,10 +8754,6 @@
                 "subsections": [
                     {
                         "days": "TTH",
-                        "times": {
-                            "start": "08:00 AM",
-                            "end": "09:50 AM"
-                        },
                         "profs": [
                             "Savoni,Peter"
                         ]
@@ -9626,11 +8771,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TTH",
-                        "times": {
-                            "start": "12:00 PM",
-                            "end": "01:50 PM"
-                        }
+                        "days": "TTH"
                     }
                 ],
                 "num": "1",
@@ -9640,11 +8781,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TTH",
-                        "times": {
-                            "start": "02:00 PM",
-                            "end": "03:50 PM"
-                        }
+                        "days": "TTH"
                     }
                 ],
                 "num": "2",
@@ -9654,11 +8791,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TTH",
-                        "times": {
-                            "start": "02:00 PM",
-                            "end": "03:50 PM"
-                        }
+                        "days": "TTH"
                     }
                 ],
                 "num": "3",
@@ -9668,11 +8801,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TTH",
-                        "times": {
-                            "start": "02:00 PM",
-                            "end": "03:50 PM"
-                        }
+                        "days": "TTH"
                     }
                 ],
                 "num": "4",
@@ -9768,11 +8897,7 @@
             {
                 "subsections": [
                     {
-                        "days": "MW",
-                        "times": {
-                            "start": "10:00 AM",
-                            "end": "11:50 AM"
-                        }
+                        "days": "MW"
                     }
                 ],
                 "num": "6",
@@ -9787,11 +8912,7 @@
             {
                 "subsections": [
                     {
-                        "days": "MW",
-                        "times": {
-                            "start": "08:00 PM",
-                            "end": "09:50 PM"
-                        }
+                        "days": "MW"
                     }
                 ],
                 "num": "1",
@@ -9801,11 +8922,7 @@
             {
                 "subsections": [
                     {
-                        "days": "MW",
-                        "times": {
-                            "start": "08:00 PM",
-                            "end": "09:50 PM"
-                        }
+                        "days": "MW"
                     }
                 ],
                 "num": "2",
@@ -9815,11 +8932,7 @@
             {
                 "subsections": [
                     {
-                        "days": "MW",
-                        "times": {
-                            "start": "08:00 PM",
-                            "end": "09:50 PM"
-                        }
+                        "days": "MW"
                     }
                 ],
                 "num": "3",
@@ -9834,11 +8947,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TTH",
-                        "times": {
-                            "start": "06:00 PM",
-                            "end": "07:50 PM"
-                        }
+                        "days": "TTH"
                     }
                 ],
                 "num": "1",
@@ -9854,10 +8963,6 @@
                 "subsections": [
                     {
                         "days": "TTH",
-                        "times": {
-                            "start": "10:00 AM",
-                            "end": "11:50 AM"
-                        },
                         "profs": [
                             "An,Yunbi"
                         ]
@@ -9892,11 +8997,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TTH",
-                        "times": {
-                            "start": "02:00 PM",
-                            "end": "03:50 PM"
-                        }
+                        "days": "TTH"
                     }
                 ],
                 "num": "1",
@@ -9906,11 +9007,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TTH",
-                        "times": {
-                            "start": "10:00 AM",
-                            "end": "11:50 AM"
-                        }
+                        "days": "TTH"
                     }
                 ],
                 "num": "2",
@@ -9920,11 +9017,7 @@
             {
                 "subsections": [
                     {
-                        "days": "MW",
-                        "times": {
-                            "start": "02:00 PM",
-                            "end": "03:50 PM"
-                        }
+                        "days": "MW"
                     }
                 ],
                 "num": "3",
@@ -9934,11 +9027,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TTH",
-                        "times": {
-                            "start": "10:00 AM",
-                            "end": "11:50 AM"
-                        }
+                        "days": "TTH"
                     }
                 ],
                 "num": "4",
@@ -9954,10 +9043,6 @@
                 "subsections": [
                     {
                         "days": "TTH",
-                        "times": {
-                            "start": "10:00 AM",
-                            "end": "11:50 AM"
-                        },
                         "profs": [
                             "Guo,Xiaolei"
                         ]
@@ -9971,10 +9056,6 @@
                 "subsections": [
                     {
                         "days": "TTH",
-                        "times": {
-                            "start": "12:00 PM",
-                            "end": "01:50 PM"
-                        },
                         "profs": [
                             "Guo,Xiaolei"
                         ]
@@ -9992,11 +9073,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TTH",
-                        "times": {
-                            "start": "08:00 AM",
-                            "end": "09:50 AM"
-                        }
+                        "days": "TTH"
                     }
                 ],
                 "num": "1",
@@ -10064,10 +9141,6 @@
                     },
                     {
                         "days": "SA",
-                        "times": {
-                            "start": "08:30 AM",
-                            "end": "12:20 PM"
-                        },
                         "profs": [
                             "Abdool,Imran"
                         ]
@@ -10084,9 +9157,7 @@
         "sections": [
             {
                 "subsections": [
-                    {
-                        "days": "WTHFSA"
-                    }
+                    {}
                 ],
                 "num": "91",
                 "full?": false,
@@ -10144,10 +9215,6 @@
                 "subsections": [
                     {
                         "days": "MW",
-                        "times": {
-                            "start": "10:00 AM",
-                            "end": "11:20 AM"
-                        },
                         "profs": [
                             "An,Yunbi"
                         ]
@@ -10166,10 +9233,6 @@
                 "subsections": [
                     {
                         "days": "TH",
-                        "times": {
-                            "start": "07:00 PM",
-                            "end": "09:50 PM"
-                        },
                         "profs": [
                             "Fenn,Garnet"
                         ]
@@ -10201,10 +9264,6 @@
                 "subsections": [
                     {
                         "days": "MW",
-                        "times": {
-                            "start": "01:00 PM",
-                            "end": "02:20 PM"
-                        },
                         "profs": [
                             "An,Yunbi"
                         ]
@@ -10223,10 +9282,6 @@
                 "subsections": [
                     {
                         "days": "M",
-                        "times": {
-                            "start": "07:00 PM",
-                            "end": "09:50 PM"
-                        },
                         "profs": [
                             "Sarkis,Diana"
                         ]
@@ -10305,10 +9360,6 @@
                 "subsections": [
                     {
                         "days": "W",
-                        "times": {
-                            "start": "07:00 PM",
-                            "end": "09:50 PM"
-                        },
                         "profs": [
                             "Merritt,Jody"
                         ]
@@ -10372,11 +9423,7 @@
             {
                 "subsections": [
                     {
-                        "days": "MW",
-                        "times": {
-                            "start": "01:00 PM",
-                            "end": "03:50 PM"
-                        }
+                        "days": "MW"
                     }
                 ],
                 "num": "91",
@@ -10391,11 +9438,7 @@
             {
                 "subsections": [
                     {
-                        "days": "TTH",
-                        "times": {
-                            "start": "02:30 PM",
-                            "end": "05:20 PM"
-                        }
+                        "days": "TTH"
                     }
                 ],
                 "num": "91",
@@ -10423,11 +9466,7 @@
             {
                 "subsections": [
                     {
-                        "days": "W",
-                        "times": {
-                            "start": "07:00 PM",
-                            "end": "09:50 PM"
-                        }
+                        "days": "W"
                     }
                 ],
                 "num": "91",
@@ -10443,10 +9482,6 @@
                 "subsections": [
                     {
                         "days": "MW",
-                        "times": {
-                            "start": "04:00 PM",
-                            "end": "05:20 PM"
-                        },
                         "profs": [
                             "Shahi,Shashi"
                         ]
@@ -10465,10 +9500,6 @@
                 "subsections": [
                     {
                         "days": "MW",
-                        "times": {
-                            "start": "04:00 PM",
-                            "end": "05:20 PM"
-                        },
                         "profs": [
                             "Shahi,Shashi"
                         ]
@@ -10648,10 +9679,6 @@
                 "subsections": [
                     {
                         "days": "TTH",
-                        "times": {
-                            "start": "04:00 PM",
-                            "end": "05:20 PM"
-                        },
                         "profs": [
                             "Mao,Tony"
                         ]
@@ -10664,11 +9691,7 @@
             {
                 "subsections": [
                     {
-                        "days": "T",
-                        "times": {
-                            "start": "07:00 PM",
-                            "end": "09:50 PM"
-                        }
+                        "days": "T"
                     }
                 ],
                 "num": "92",
@@ -10684,10 +9707,6 @@
                 "subsections": [
                     {
                         "days": "M",
-                        "times": {
-                            "start": "09:00 AM",
-                            "end": "01:00 PM"
-                        },
                         "profs": [
                             "Mao,Tony"
                         ]
@@ -10706,10 +9725,6 @@
                 "subsections": [
                     {
                         "days": "F",
-                        "times": {
-                            "start": "09:00 AM",
-                            "end": "01:00 PM"
-                        },
                         "profs": [
                             "Kerr,Gerry"
                         ]
