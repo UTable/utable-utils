@@ -24,6 +24,8 @@
 
 
 
+
+
 EXAM CONFLICTS DUE TO OBSERVANCE OF RELIGIOUS HOLY DAYS.
 Students who are unable to write a final examination(s) during the regularly scheduled time slot because of a conflict with
 religious conviction must apply for the alternative examination(s) in the course(s) involved by the end of the normal
@@ -72,8 +74,9 @@ Section 1 12.00 LEC
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Boulos,
 Pierre J
 
@@ -90,7 +93,10 @@ Reaume,
 Marissa
 
 GART-1510 (-) Effective Writing II
-Section 1 3.00 LEC 2021-06-28
+Section 1 3.00 LEC
+
+2021-
+06-28
 
 2021-
 08-10
@@ -99,60 +105,94 @@ Gayowsky,
 Alex C
 
 SOSC-2500 (-) Basic Quantitative Methods
-Section 30 Full 3.00 LEC MW 07:00 PM 09:50 PM
+Section 30 Full 3.00 LEC MW 07:00 PM
+
+09:50 
+PM
 
 2021-
 06-28
 
 2021-
-08-10 Online TBA
+08-10
+
+Online TBA
 
 SOSC-2500 (-) Laboratory
-Section 51 Full LAB T 10:00 AM 11:00 AM
+Section 51 Full LAB T 10:00 AM
+
+11:00 
+AM
 
 2021-
 06-28
 
 2021-
-08-10 TBA
+08-10
 
-Section 52 Full LAB T 11:00 AM 12:00 PM
+TBA
+
+Section 52 Full LAB T 11:00 AM
+12:00 
+PM
+
 2021-
 06-28
 
 2021-
-08-10 TBA
+08-10
 
-Section 53 Full LAB TH 09:30 AM 10:30 AM
+TBA
+
+Section 53 Full LAB TH 09:30 AM
+10:30 
+AM
+
 2021-
 06-28
 
 2021-
-08-10 TBA
+08-10
 
-Section 54 Full LAB TH 10:30 AM 11:30 AM
+TBA
+
+Section 54 Full LAB TH 10:30 AM
+11:30 
+AM
+
 2021-
 06-28
 
 2021-
-08-10 TBA
+08-10
 
-Section 55 Full LAB W 01:30 PM 02:30 PM
+TBA
+
+Section 55 Full LAB W 01:30 PM
+02:30 
+PM
+
 2021-
 06-28
 
 2021-
-08-10 TBA
+08-10
+
+TBA
 
 WORK-2600 (-) Women and Globalization
-Section 1 Full 3.00 LEC MW 10:00 AM 12:50 PM
+Section 1 Full 3.00 LEC MW 10:00 AM
+
+12:50 
+PM
 
 2021-
 05-10
 
 2021-
-06-21 Online
+06-21
 
+Online
 Soni-Sinha,
 Urvashi
 
@@ -187,8 +227,9 @@ Section 1 9.00 LEC
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Papador,
 Johanna
 
@@ -199,8 +240,9 @@ Section 1 12.00 LEC
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Papador,
 Johanna
 
@@ -214,8 +256,9 @@ PM
 05-10
 
 2021-
-06-21 Online
+06-21
 
+Online
 Manzerolle,
 Vincent
 
@@ -236,46 +279,62 @@ Heather
 
 CMAF-3990 (-) Internship I
 
-Section 1 3.00 LEC 2021-05-10
+Section 1 3.00 LEC
 2021-
-08-11 Online
-
-Asquith,Kyle
-Hartley,
-Heather
-
-Section 2 Full 6.00 LEC 2021-
 05-10
 
 2021-
 08-11
 
-Online Hartley,
-Heather
-
-CMAF-4990 (-) Internship II
-
-Section 1 3.00 LEC 2021-05-10
-2021-
-08-11 Online
-
+Online
 Asquith,Kyle
 Hartley,
 Heather
 
-Section 2 3.00 LEC 2021-05-10
+Section 2 Full 6.00 LEC
 2021-
-08-11 Online
+05-10
 
+2021-
+08-11
+
+Online
+Hartley,
+Heather
+
+CMAF-4990 (-) Internship II
+
+Section 1 3.00 LEC
+2021-
+05-10
+
+2021-
+08-11
+
+Online
+Asquith,Kyle
+Hartley,
+Heather
+
+Section 2 3.00 LEC
+2021-
+05-10
+
+2021-
+08-11
+
+Online
 Hartley,
 Heather
 
 Creative Arts
 
 MACS-2450 (-) Modern Art
-Section 91 3.00 LEC 2021-
+Section 91 3.00 LEC
 
+2021-
 05-10
+
 2021-
 08-11
 
@@ -292,48 +351,67 @@ PM
 05-10
 
 2021-
-06-21 Online
+06-21
 
+Online
 Heard,
 Catherine
 
 VSAR-3800 (-) Visual Arts Internship
-Section 1 3.00 LEC 2021-05-10
+Section 1 3.00 LEC
 
 2021-
-08-11 Online
+05-10
 
+2021-
+08-11
+
+Online
 Mac Dowall,
 Cyndra J.
 
 VSAR-3850 (-) Green Corridor
-Section 1 3.00 LEC TTH 02:00 PM 04:50 PM
+Section 1 3.00 LEC TTH 02:00 PM
+
+04:50 
+PM
 
 2021-
 05-10
 
 2021-
-06-21 Online
+06-21
 
+Online
 Moore,
 Dorian
 
 VSAR-8970 (-) Thesis
-Section 1 12.00 LEC 2021-05-10
-
-2021-
-08-11 Online Rodney,Lee
-
-Dramatic Arts
-
-DRAM-2100 (-) Speech Communication to Inform
-Section 1 Full 3.00 LEC MW 05:00 PM 07:50 PM
+Section 1 12.00 LEC
 
 2021-
 05-10
 
 2021-
-06-21 Online Brunet,Tim A
+08-11
+
+Online Rodney,Lee
+
+Dramatic Arts
+
+DRAM-2100 (-) Speech Communication to Inform
+Section 1 Full 3.00 LEC MW 05:00 PM
+
+07:50 
+PM
+
+2021-
+05-10
+
+2021-
+06-21
+
+Online Brunet,Tim A
 
 
 
@@ -372,63 +450,80 @@ PM
 Online Brodie,Barry
 
 DRAM-2760 (-) Princ/Practices of Arts Mgt II
-Section 91 3.00 LEC TTH 10:00 AM 12:50 
+Section 91 3.00 LEC TTH 10:00 AM
 
+12:50 
 PM
+
 2021-
 05-10
 
 2021-
 06-21
 
-Online Donohue,
+Online
+Donohue,
 Mary
 
 DRAM-3510 (-) Production Problems
-Section 4 Full 3.00 LEC 2021-
+Section 4 Full 3.00 LEC
 
+2021-
 05-10
+
 2021-
 08-11
 
-Online Pugliese,
+Online
+Pugliese,
 Tina M
 
 DRAM-3520 (-) Production Problems
-Section 4 3.00 LEC 2021-
+Section 4 3.00 LEC
 
+2021-
 05-10
+
 2021-
 06-21
 
-Online Pugliese,
+Online
+Pugliese,
 Tina M
 
 DRAM-3980 (-) Intership I: Arts Mgmt Cert
-Section 1 3.00 LEC 2021-05-10
+Section 1 3.00 LEC
 
 2021-
-08-11 Online
+05-10
 
+2021-
+08-11
+
+Online
 Pugliese,
 Tina M
 
 DRAM-3990 (-) Intership II: Arts Mgmt Cert
-Section 1 3.00 LEC 2021-
+Section 1 3.00 LEC
 
+2021-
 05-10
+
 2021-
 08-11
 
-Online Pugliese,
+Online
+Pugliese,
 Tina M
 
 DRAM-4000 (-) Style in Theatre
 Section 1 3.00 LEC
 
 MTWTH
-FSA 09:00 AM
+FSA
 
+09:00 AM
 12:00 
 PM
 
@@ -436,15 +531,19 @@ PM
 05-10
 
 2021-
-06-21 Online
+06-21
 
+Online
 Pugliese,
 Tina M
 
 English Lang and Literature
 
 ENGL-1001 (-) Composition
-Section 91 Full 3.00 LEC 2021-05-10
+Section 91 Full 3.00 LEC
+
+2021-
+05-10
 
 2021-
 08-11
@@ -452,7 +551,10 @@ Section 91 Full 3.00 LEC 2021-05-10
 Langs,
 Lenore K
 
-Section 92 Full 3.00 LEC 2021-05-10
+Section 92 Full 3.00 LEC
+2021-
+05-10
+
 2021-
 08-11
 
@@ -460,7 +562,10 @@ Campbell,
 Rebecca A
 
 ENGL-2530 (-) Shakespeare in Performance
-Section 1 3.00 LEC 2021-05-10
+Section 1 3.00 LEC
+
+2021-
+05-10
 
 2021-
 05-23
@@ -469,32 +574,44 @@ Luft,Joanna
 L
 
 ENGL-8600 (-) The Displaced Self
-Section 1 3.00 LEC MW 03:00 PM 05:50 PM
+Section 1 3.00 LEC MW 03:00 PM
+
+05:50 
+PM
 
 2021-
 05-10
 
 2021-
-06-21 Online
+06-21
 
+Online
 Markotic,
 Nicole
 
 ENGL-8940 (-) Creative Writing Project
-Section 1 12.00 LEC 2021-05-10
+Section 1 12.00 LEC
 
 2021-
-08-11 Online
+05-10
 
+2021-
+08-11
+
+Online
 Luft,Joanna 
 L
 
 ENGL-8970 (-) Thesis/Project
-Section 1 12.00 LEC 2021-05-10
+Section 1 12.00 LEC
 
 2021-
-08-11 Online
+05-10
 
+2021-
+08-11
+
+Online
 Luft,Joanna 
 L
 
@@ -532,7 +649,9 @@ AM
 05-10
 
 2021-
-08-11 Online Pole,Adam
+08-11
+
+Online Pole,Adam
 
 HIST-2440 (-) Canada Since Confed: 1867-Pres
 Section 1 Full 3.00 LEC MW 02:30 PM
@@ -544,8 +663,9 @@ PM
 05-10
 
 2021-
-06-21 Online
+06-21
 
+Online
 Beharriell,
 Chad
 
@@ -559,8 +679,9 @@ PM
 06-28
 
 2021-
-08-10 Online
+08-10
 
+Online
 Hrynyk,Nick 
 A
 
@@ -571,21 +692,27 @@ Section 1 6.00 LEC
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Nelson,
 Robert
 
 Languages, Literature, Culture
 
 INCS-4990 (-) Internship & Intercultural Stu
-Section 1 6.00 LEC TTH 02:00 PM 04:50 PM
+Section 1 6.00 LEC TTH 02:00 PM
+
+04:50 
+PM
 
 2021-
 05-10
 
 2021-
-06-21 Online Toronyi,Anita
+06-21
+
+Online Toronyi,Anita
 
 Philosophy
 
@@ -614,7 +741,10 @@ Macpherson,
 Brian P
 
 PHIL-2250 (-) Ethic of Life/Death/Healthcare
-Section 91 Full 3.00 LEC 2021-06-28
+Section 91 Full 3.00 LEC
+
+2021-
+06-28
 
 2021-
 08-10
@@ -623,27 +753,38 @@ Macpherson,
 Brian P
 
 PHIL-8960 (-) Major Paper
-Section 1 6.00 LEC 2021-05-10
+Section 1 6.00 LEC
 
 2021-
-08-11 Online
+05-10
 
+2021-
+08-11
+
+Online
 Neculau,
 Radu
 
 PHIL-8970 (-) Thesis
-Section 1 12.00 LEC 2021-05-10
+Section 1 12.00 LEC
 
 2021-
-08-11 Online
+05-10
 
+2021-
+08-11
+
+Online
 Neculau,
 Radu
 
 Political Science
 
 POLS-2130 (-) Public Opin/Mass Media/Cdn Dem
-Section 91 3.00 LEC 2021-05-10
+Section 91 3.00 LEC
+
+2021-
+05-10
 
 2021-
 08-11
@@ -652,7 +793,10 @@ Roberts,
 Blake C
 
 POLS-2320 (-) Government &Politics of the US
-Section 91 3.00 LEC 2021-05-10
+Section 91 3.00 LEC
+
+2021-
+05-10
 
 2021-
 08-11
@@ -661,7 +805,10 @@ Brooks,
 Stephen R
 
 POLS-2680 (-) International Organizations
-Section 91 3.00 LEC 2021-06-28
+Section 91 3.00 LEC
+
+2021-
+06-28
 
 2021-
 08-10
@@ -692,57 +839,73 @@ Date
 Bldg/Room Professor
 
 POLS-8950 (-) Political Scie MA Internship
-Section 1 6.00 LEC 2021-
+Section 1 6.00 LEC
 
+2021-
 05-10
+
 2021-
 08-11
 
-Online Sutcliffe,
+Online
+Sutcliffe,
 John B
 
 POLS-8960 (-) Major Paper
-Section 1 6.00 LEC 2021-
+Section 1 6.00 LEC
 
+2021-
 05-10
+
 2021-
 08-11
 
-Online Ovadia,
+Online
+Ovadia,
 Jesse
 
 POLS-8970 (-) Thesis
-Section 1 12.00 LEC 2021-
+Section 1 12.00 LEC
 
+2021-
 05-10
+
 2021-
 08-11
 
-Online Ovadia,
+Online
+Ovadia,
 Jesse
 
 Psychology
 
 PSYC-1070 (-) Positive Psychology
-Section 30 3.00 LEC T 07:00 PM 09:50 PM
+Section 30 3.00 LEC T 07:00 PM
+
+09:50 
+PM
 
 2021-
 06-28
 
 2021-
-08-10 Online
+08-10
 
+Online
 Hart,Kenneth
 E.
 
 PSYC-1150 (-) Intro: Psyc / Behavioural Scie
-Section 1 Full 3.00 LEC 2021-
+Section 1 Full 3.00 LEC
 
+2021-
 05-10
+
 2021-
 06-21
 
-Online Mattson,
+Online
+Mattson,
 Scott R
 
 PSYC-1160 (-) Intro: Psychology /Social Scie
@@ -755,73 +918,104 @@ PM
 06-28
 
 2021-
-08-10 Online
+08-10
 
+Online
 Vokes,
 Edward M
 
 PSYC-2230 (-) Devl Psychology: The Child
-Section 30 Full 3.00 LEC 2021-05-10
-
-2021-
-06-21 Online
-
-Ricciardi,
-Philip W
-
-PSYC-2240 (-) Devl Psychology: Adolescence
-Section 01 3.00 LEC 2021-06-28
-
-2021-
-08-10 Online Baird,Anne
-
-PSYC-2280 (-) Abnormal Psychology
-Section 1 3.00 LEC MW 01:00 PM 03:50 PM
+Section 30 Full 3.00 LEC
 
 2021-
 05-10
 
 2021-
-06-21 Online
+06-21
 
-Rappaport,
-Lance
+Online
+Ricciardi,
+Philip W
 
-PSYC-2360 (-) Intro to Social Psychology
-Section 1 3.00 LEC 2021-05-10
-
-2021-
-06-21 Online
-
-Cramer,
-Kenneth M
-
-PSYC-3330 (-) Intro to Clinical Psychology
-Section 1 3.00 LEC 2021-06-28
-
-2021-
-08-10 Online
-
-Malleck,
-Malayna
-
-PSYC-3390 (-) Health Psychology
-Section 1 Full 3.00 LEC MW 08:30 AM 11:20 AM
+PSYC-2240 (-) Devl Psychology: Adolescence
+Section 01 3.00 LEC
 
 2021-
 06-28
 
 2021-
-08-10 Online
+08-10
 
+Online Baird,Anne
+
+PSYC-2280 (-) Abnormal Psychology
+Section 1 3.00 LEC MW 01:00 PM
+
+03:50 
+PM
+
+2021-
+05-10
+
+2021-
+06-21
+
+Online
+Rappaport,
+Lance
+
+PSYC-2360 (-) Intro to Social Psychology
+Section 1 3.00 LEC
+
+2021-
+05-10
+
+2021-
+06-21
+
+Online
+Cramer,
+Kenneth M
+
+PSYC-3330 (-) Intro to Clinical Psychology
+Section 1 3.00 LEC
+
+2021-
+06-28
+
+2021-
+08-10
+
+Online
+Malleck,
+Malayna
+
+PSYC-3390 (-) Health Psychology
+Section 1 Full 3.00 LEC MW 08:30 AM
+
+11:20 
+AM
+
+2021-
+06-28
+
+2021-
+08-10
+
+Online
 Mattson,
 Scott R
 
 PSYC-8688 (-) Intro Pract: Clinical Neuropsy
-Section 1 3.00 LEC 2021-05-10
+Section 1 3.00 LEC
 
 2021-
-08-11 Online Biss,Renee
+05-10
+
+2021-
+08-11
+
+Online Biss,Renee
 
 PSYC-8689 (-) Intensive Pract: Clin Neuropsy
 
@@ -852,7 +1046,9 @@ Section 1 3.00 LEC
 05-10
 
 2021-
-08-11 Online Biss,Renee
+08-11
+
+Online Biss,Renee
 
 PSYC-8701 (-) Clinical Practicum: MA Level
 
@@ -875,8 +1071,9 @@ Section 2 3.00 LEC
 06-28
 
 2021-
-08-10 Online
+08-10
 
+Online
 Boroughs,
 Michael
 
@@ -890,19 +1087,24 @@ Section 3 3.00 LEC
 Online Picard,Erin
 
 PSYC-8721 (-) Applied Social Psyc Practicum
-Section 1 3.00 LEC 2021-
+Section 1 3.00 LEC
 
+2021-
 05-10
+
 2021-
 08-11
 
-Online Cramer,
+Online
+Cramer,
 Kenneth M
 
 PSYC-8970 (-) M.A. Thesis Research
-Section 1 12.00 LEC 2021-
+Section 1 12.00 LEC
 
+2021-
 05-10
+
 2021-
 08-11
 
@@ -925,8 +1127,9 @@ Section 2 3.00 LEC
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Boroughs,
 Michael
 
@@ -935,62 +1138,98 @@ Section 3 3.00 LEC
 05-10
 
 2021-
-08-11 Picard,Erin
+08-11
+
+Picard,Erin
 
 PSYC-9060 (-) Predoctoral Clinical Internshp
-Section 1 3.00 LEC 2021-05-10
+Section 1 3.00 LEC
 
 2021-
-08-11 Online Miller,Carlin
+05-10
+
+2021-
+08-11
+
+Online Miller,Carlin
 
 PSYC-9310 (-) Appl Social Doct Internship I
-Section 1 3.00 LEC 2021-05-10
+Section 1 3.00 LEC
 
 2021-
-08-11 Online
+05-10
 
+2021-
+08-11
+
+Online
 Cramer,
 Kenneth M
 
 PSYC-9320 (-) Appl Social Doct Internship II
-Section 1 3.00 LEC 2021-05-10
+Section 1 3.00 LEC
 
 2021-
-08-11 Online
+05-10
 
+2021-
+08-11
+
+Online
 Cramer,
 Kenneth M
 
 PSYC-9410 (-) Comprehensive Examination
-Section 1 3.00 LEC 2021-05-10
+Section 1 3.00 LEC
 
 2021-
-08-11 Online
+05-10
 
+2021-
+08-11
+
+Online
 Cramer,
 Kenneth M
 
-Section 2 3.00 LEC 2021-05-10
+Section 2 3.00 LEC
 2021-
-08-11 Online Babb,Kim
+05-10
+
+2021-
+08-11
+
+Online Babb,Kim
 
 PSYC-9980 (-) Doctoral Dissertation Research
-Section 1 12.00 LEC 2021-05-10
+Section 1 12.00 LEC
 
 2021-
-08-11 Online Fritz,Patti
+05-10
 
-Section 2 12.00 LEC 2021-05-10
 2021-
-08-11 Online
+08-11
 
+Online Fritz,Patti
+
+Section 2 12.00 LEC
+2021-
+05-10
+
+2021-
+08-11
+
+Online
 Lafreniere,
 Kathryn D
 
 Social Work
 
 SWRK-2000 (-) Statistics for Social Workers
-Section 91 3.00 LEC 2021-05-10
+Section 91 3.00 LEC
+
+2021-
+05-10
 
 2021-
 06-21
@@ -1021,9 +1260,11 @@ Date
 Bldg/Room Professor
 
 SWRK-8523 (-) Challenges in Human Behaviour
-Section 1 3.00 LEC T 09:00 AM 11:50 
+Section 1 3.00 LEC T 09:00 AM
 
+11:50 
 AM
+
 2021-
 05-10
 
@@ -1040,7 +1281,9 @@ PM
 05-10
 
 2021-
-06-21 Online Lwin,Kristen
+06-21
+
+Online Lwin,Kristen
 
 SWRK-8532 (-) Social Wk Practice with Groups
 Section 20 3.00 LEC
@@ -1054,7 +1297,8 @@ Section 20 3.00 LEC
 Romano,
 Mario
 
-Section 21 3.00 LEC 2021-
+Section 21 3.00 LEC
+2021-
 04-09
 
 2021-
@@ -1068,19 +1312,24 @@ Section 22 3.00 LEC
 04-09
 
 2021-
-05-15 Taylor,Dalon
+05-15
+
+Taylor,Dalon
 
 SWRK-8533 (-) Soc Wk Practice With Families
-Section 20 3.00 LEC 2021-
+Section 20 3.00 LEC
 
+2021-
 05-28
+
 2021-
 06-29
 
 Pitt,Gabrielle
 E.
 
-Section 21 3.00 LEC 2021-
+Section 21 3.00 LEC
+2021-
 05-28
 
 2021-
@@ -1100,19 +1349,30 @@ Miller,Wayne
 A
 
 SWRK-8534 (-) Social Work Prac With Org Comm
-Section 20 3.00 LEC 2021-07-09
+Section 20 3.00 LEC
 
 2021-
-08-07 Taylor,Dalon
+07-09
 
-Section 21 3.00 LEC 2021-07-09
+2021-
+08-07
+
+Taylor,Dalon
+
+Section 21 3.00 LEC
+2021-
+07-09
+
 2021-
 08-07
 
 Romano,
 Mario
 
-Section 22 3.00 LEC 2021-07-09
+Section 22 3.00 LEC
+2021-
+07-09
+
 2021-
 08-07
 
@@ -1120,61 +1380,94 @@ Morand,Mary
 Kay
 
 SWRK-8547 (-) Social Wk Research: Pract Eval
-Section 1 3.00 LEC F 09:00 AM 11:50 AM
+Section 1 3.00 LEC F 09:00 AM
+
+11:50 
+AM
 
 2021-
 05-10
 
 2021-
-06-21 Online Lwin,Kristen
+06-21
 
-F 01:00 PM 03:50 PM
+Online Lwin,Kristen
+
+F 01:00 PM
+03:50 
+PM
+
 2021-
 05-10
 
 2021-
-06-21 Online Lwin,Kristen
+06-21
 
-Section 23 3.00 LEC 2021-04-09
+Online Lwin,Kristen
+
+Section 23 3.00 LEC
+2021-
+04-09
+
 2021-
 05-15
 
 Brisebois,
 Kimberly
 
-Section 24 3.00 LEC 2021-04-09
+Section 24 3.00 LEC
+2021-
+04-09
+
 2021-
 05-15
 
 Adamowich,
 Todd
 
-Section 25 3.00 LEC 2021-07-09
+Section 25 3.00 LEC
 2021-
-08-07 TBA
+07-09
 
-Section 910 3.00 LEC 2021-07-09
+2021-
+08-07
+
+TBA
+
+Section 910 3.00 LEC
+2021-
+07-09
+
 2021-
 08-07
 
 Adamowich,
 Todd
 
-Section 920 3.00 LEC 2021-07-09
+Section 920 3.00 LEC
+2021-
+07-09
+
 2021-
 08-07
 
 Osei,
 Gershon
 
-Section 930 3.00 LEC 2021-07-09
+Section 930 3.00 LEC
+2021-
+07-09
+
 2021-
 08-07
 
 Jewell,
 Rachel
 
-Section 940 3.00 LEC 2021-07-09
+Section 940 3.00 LEC
+2021-
+07-09
+
 2021-
 08-07
 
@@ -1182,19 +1475,32 @@ Brisebois,
 Kimberly
 
 SWRK-8570 (-) Field Integration Seminar
-Section 91 3.00 LEC 2021-05-10
+Section 91 3.00 LEC
 
-2021-
-08-11 TBA
-
-Section 92 3.00 LEC F 09:00 AM 11:00 AM
 2021-
 05-10
 
 2021-
-08-11 Carter,Irene
+08-11
 
-Section 93 3.00 LEC F 09:00 AM 11:00 AM
+TBA
+
+Section 92 3.00 LEC F 09:00 AM
+11:00 
+AM
+
+2021-
+05-10
+
+2021-
+08-11
+
+Carter,Irene
+
+Section 93 3.00 LEC F 09:00 AM
+11:00 
+AM
+
 2021-
 05-10
 
@@ -1240,9 +1546,11 @@ Morand,Mary
 Kay
 
 SWRK-8610 (-) Adv Direct Social Wk Practice
-Section 25 3.00 LEC 2021-
+Section 25 3.00 LEC
 
+2021-
 05-28
+
 2021-
 06-29
 
@@ -1258,7 +1566,8 @@ Section 910 3.00 LEC
 Al-Saadi,
 Riham N
 
-Section 920 3.00 LEC 2021-
+Section 920 3.00 LEC
+2021-
 05-28
 
 2021-
@@ -1287,15 +1596,20 @@ Lehmann,
 Peter J
 
 SWRK-8611 (-) Adv Indirect Social Work Pract
-Section 23 3.00 LEC 2021-
+Section 23 3.00 LEC
 
+2021-
 05-28
+
 2021-
 06-29
 
 Sethi,Bharati
 
-Section 24 3.00 LEC 2021-05-28
+Section 24 3.00 LEC
+2021-
+05-28
+
 2021-
 06-29
 
@@ -1314,7 +1628,8 @@ Section 25 3.00 LEC
 Alberton,
 Amy M
 
-Section 910 3.00 LEC 2021-
+Section 910 3.00 LEC
+2021-
 04-09
 
 2021-
@@ -1323,7 +1638,8 @@ Section 910 3.00 LEC 2021-
 Firang,David 
 Y
 
-Section 920 3.00 LEC 2021-
+Section 920 3.00 LEC
+2021-
 04-09
 
 2021-
@@ -1332,28 +1648,39 @@ Section 920 3.00 LEC 2021-
 Bennett,
 Michael
 
-Section 930 3.00 LEC 2021-04-09
+Section 930 3.00 LEC
+2021-
+04-09
+
 2021-
 05-15
 
 Al-Saadi,
 Riham N
 
-Section 940 3.00 LEC 2021-04-09
+Section 940 3.00 LEC
 2021-
-05-15 Sethi,Bharati
+04-09
+
+2021-
+05-15
+
+Sethi,Bharati
 
 SWRK-8640 (-) Program Design and Evaluation
-Section 23 3.00 LEC 2021-
+Section 23 3.00 LEC
 
+2021-
 07-09
+
 2021-
 08-07
 
 Escobar,
 Keren M
 
-Section 24 3.00 LEC 2021-
+Section 24 3.00 LEC
+2021-
 07-09
 
 2021-
@@ -1363,11 +1690,15 @@ Sheppard,
 Christine
 
 SWRK-9980 (-) Dissertation Research
-Section 1 12.00 LEC 2021-05-10
+Section 1 12.00 LEC
 
 2021-
-08-11 Online
+05-10
 
+2021-
+08-11
+
+Online
 Kvarfordt,
 Connie
 
@@ -1375,35 +1706,48 @@ Sociolgy, Anthroplgy, Crimlgy
 
 SACR-2620 (-) Intro to Criminal Justice
 
-Section 1 Full 3.00 LEC TTH 06:30 PM 09:20 PM
+Section 1 Full 3.00 LEC TTH 06:30 PM
+09:20 
+PM
+
 2021-
 05-10
 
 2021-
-06-21 Online
+06-21
 
+Online
 Delia  
 Deckard,
 Natalie
 
 SACR-2910 (-) Theorizing Social Life
-Section 1 3.00 LEC TTH 06:30 PM 09:20 PM
+Section 1 3.00 LEC TTH 06:30 PM
+
+09:20 
+PM
 
 2021-
 06-28
 
 2021-
-08-10 Online TBA
+08-10
+
+Online TBA
 
 SACR-3080 (-) Intermediate Statistics
 
-Section 1 Full 3.00 LEC MW 06:30 PM 08:20 PM
+Section 1 Full 3.00 LEC MW 06:30 PM
+08:20 
+PM
+
 2021-
 05-10
 
 2021-
-06-21 Online
+06-21
 
+Online
 Iafrate,
 Anthony 
 Vincenzo
@@ -1448,16 +1792,19 @@ Anthony
 Vincenzo
 
 SACR-8870 (-) Research Practices in Sociolog
-Section 1 3.00 LEC TTH 08:30 AM 09:50 
+Section 1 3.00 LEC TTH 08:30 AM
 
+09:50 
 AM
+
 2021-
 05-10
 
 2021-
 06-21
 
-Online Lippert,
+Online
+Lippert,
 Randy
 
 SACR-8900 (-) Dir Rdgs:  Dev of Thesis Prop
@@ -1473,13 +1820,16 @@ George,
 Glynis
 
 SACR-8970 (-) Thesis
-Section 1 12.00 LEC 2021-
+Section 1 12.00 LEC
 
+2021-
 05-10
+
 2021-
 08-11
 
-Online George,
+Online
+George,
 Glynis
 
 SACR-9980 (-) Dissertation
@@ -1489,49 +1839,60 @@ Section 1 12.00 LEC
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 George,
 Glynis
 
 Women and Gender Studies
 
 WGST-1200 (-) Gal Pals: Women and Friendship
-Section 1 Full 3.00 LEC TTH 01:00 PM 03:50 PM
+Section 1 Full 3.00 LEC TTH 01:00 PM
 
-2021-
-05-10
-
-2021-
-06-21 Online
-
-Falzetti,
-Ashley
-
-WGST-2510 (-) Women's Movements in N America
-Section 1 Full 3.00 LEC MW 11:30 AM 02:20 
-
+03:50 
 PM
-2021-
-06-28
 
-2021-
-08-10
-
-Online Hrynyk,Nick 
-A
-
-WGST-2600 (-) Women and Globalization
-Section 1 Full 3.00 LEC MW 10:00 AM 12:50 
-
-PM
 2021-
 05-10
 
 2021-
 06-21
 
-Online Soni-Sinha,
+Online
+Falzetti,
+Ashley
+
+WGST-2510 (-) Women's Movements in N America
+Section 1 Full 3.00 LEC MW 11:30 AM
+
+02:20 
+PM
+
+2021-
+06-28
+
+2021-
+08-10
+
+Online
+Hrynyk,Nick 
+A
+
+WGST-2600 (-) Women and Globalization
+Section 1 Full 3.00 LEC MW 10:00 AM
+
+12:50 
+PM
+
+2021-
+05-10
+
+2021-
+06-21
+
+Online
+Soni-Sinha,
 Urvashi
 
 Faculty of Education
@@ -1539,35 +1900,55 @@ Faculty of Education
 Faculty of Education
 
 EDUC-8100 (-) Statistics in Education
-Section 1 3.00 LEC TTH 05:00 PM 07:50 PM
+Section 1 3.00 LEC TTH 05:00 PM
+
+07:50 
+PM
 
 2021-
 05-10
 
 2021-
-06-21 TBA
+06-21
+
+TBA
 
 EDUC-8330 (-) Survey Design and Research
-Section 1 3.00 LEC TTH 05:00 PM 07:50 PM
+Section 1 3.00 LEC TTH 05:00 PM
+
+07:50 
+PM
 
 2021-
 05-10
 
 2021-
-06-21 TBA
+06-21
+
+TBA
 
 EDUC-8350 (-) Organ Behaviour in Educ Inst
-Section 1 3.00 LEC W 09:00 AM 11:50 AM
+Section 1 3.00 LEC W 09:00 AM
+
+11:50 
+AM
 
 2021-
 05-10
 
 2021-
-08-11 TBA
+08-11
 
-Section 91 Full 3.00 LEC 2021-05-10
+TBA
+
+Section 91 Full 3.00 LEC
 2021-
-08-11 TBA
+05-10
+
+2021-
+08-11
+
+TBA
 
 
 
@@ -1610,7 +1991,9 @@ Section 91 Full 3.00 LEC
 05-10
 
 2021-
-08-11 TBA
+08-11
+
+TBA
 
 EDUC-8430 (-) Special Educn&Language Acquisn
 Section 91 3.00 LEC MW 05:00 PM
@@ -1622,7 +2005,9 @@ PM
 05-10
 
 2021-
-06-21 TBA
+06-21
+
+TBA
 
 EDUC-8500 (-) Issues in Education
 Section 1 3.00 LEC MW 10:00 AM
@@ -1639,37 +2024,59 @@ PM
 TBA
 
 EDUC-8510 (-) Info&Comm Tech-Tching/Learning
-Section 01 3.00 LEC 2021-05-10
-
-2021-
-06-21 TBA
-
-EDUC-8560 (-) Approaches to Literacy Dev
-Section 1 Full 3.00 LEC T 05:00 PM 07:50 PM
+Section 01 3.00 LEC
 
 2021-
 05-10
 
 2021-
-08-11 TBA
+06-21
 
-Section 91 Full 3.00 LEC 2021-05-10
+TBA
+
+EDUC-8560 (-) Approaches to Literacy Dev
+Section 1 Full 3.00 LEC T 05:00 PM
+
+07:50 
+PM
+
 2021-
-08-11 TBA
+05-10
+
+2021-
+08-11
+
+TBA
+
+Section 91 Full 3.00 LEC
+2021-
+05-10
+
+2021-
+08-11
+
+TBA
 
 EDUC-8795 (-) Final Project Seminar
-Section 1 3.00 LEC MTWTH 05:00 PM 07:50 PM
+Section 1 3.00 LEC MTWTH 05:00 PM
+
+07:50 
+PM
 
 2021-
 06-28
 
 2021-
-07-19 TBA
+07-19
+
+TBA
 
 EDUC-8910 (-) Language Assessment
-Section 32 3.00 LEC MTWTH 09:00 AM 11:50 
+Section 32 3.00 LEC MTWTH 09:00 AM
 
+11:50 
 AM
+
 2021-
 06-28
 
@@ -1686,37 +2093,64 @@ Section 1 LEC
 05-10
 
 2021-
-08-11 Smith,Kara A
+08-11
+
+Smith,Kara A
 
 EDUC-8960 (-) Major Paper
-Section 1 6.00 LEC 2021-05-10
+Section 1 6.00 LEC
 
 2021-
-08-11 TBA
+05-10
+
+2021-
+08-11
+
+TBA
 
 EDUC-8970 (-) Thesis
-Section 1 12.00 LEC 2021-05-10
+Section 1 12.00 LEC
 
 2021-
-08-11 TBA
+05-10
+
+2021-
+08-11
+
+TBA
 
 EDUC-9020 (-) Doctoral Seminar 1
-Section 1 6.00 LEC 2021-06-28
+Section 1 6.00 LEC
 
 2021-
-07-19 TBA
+06-28
+
+2021-
+07-19
+
+TBA
 
 EDUC-9040 (-) Doctoral Seminar 2
-Section 1 6.00 LEC 2021-06-28
+Section 1 6.00 LEC
 
 2021-
-07-19 TBA
+06-28
+
+2021-
+07-19
+
+TBA
 
 EDUC-9800 (-) Comprehensive Portfolio
-Section 1 9.00 LEC 2021-05-10
+Section 1 9.00 LEC
 
 2021-
-08-11 TBA
+05-10
+
+2021-
+08-11
+
+TBA
 
 EDUC-9980 (-) Doctoral Dissertation
 
@@ -1747,7 +2181,9 @@ Section 1 30.00 LEC
 05-10
 
 2021-
-08-11 TBA
+08-11
+
+TBA
 
 Faculty of Engineering
 
@@ -1770,40 +2206,51 @@ Das,
 Sreekanta
 
 CIVL-3610 (-) Laboratory
-Section 51 LAB M 02:30 PM 04:20 PM
+Section 51 LAB M 02:30 PM
 
-2021-
-05-10
-
-2021-
-08-11 Online
-
-Das,
-Sreekanta
-
-CIVL-3620 (-) Finite Element-Analysis&Design
-Section 1 3.00 LEC TTH 11:30 AM 12:50 PM
-
-2021-
-05-10
-
-2021-
-08-11 Online
-
-Van 
-Engelen,Niel
-
-CIVL-3620 (-) Laboratory
-Section 51 LAB T 05:30 PM 07:20 
-
+04:20 
 PM
+
 2021-
 05-10
 
 2021-
 08-11
 
-Online Van 
+Online
+Das,
+Sreekanta
+
+CIVL-3620 (-) Finite Element-Analysis&Design
+Section 1 3.00 LEC TTH 11:30 AM
+
+12:50 
+PM
+
+2021-
+05-10
+
+2021-
+08-11
+
+Online
+Van 
+Engelen,Niel
+
+CIVL-3620 (-) Laboratory
+Section 51 LAB T 05:30 PM
+
+07:20 
+PM
+
+2021-
+05-10
+
+2021-
+08-11
+
+Online
+Van 
 Engelen,Niel
 
 CIVL-3630 (-) Geotechnical Engineering II
@@ -1816,7 +2263,9 @@ AM
 05-10
 
 2021-
-08-11 Online Polies,Wafa
+08-11
+
+Online Polies,Wafa
 
 CIVL-3630 (-) Laboratory
 Section 51 LAB W 02:30 PM
@@ -1828,73 +2277,101 @@ PM
 05-10
 
 2021-
-08-11 Online Polies,Wafa
+08-11
+
+Online Polies,Wafa
 
 CIVL-3640 (-) Structural Steel Design
-Section 1 3.00 LEC TTH 10:00 AM 11:20 AM
+Section 1 3.00 LEC TTH 10:00 AM
+
+11:20 
+AM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Das,
 Sreekanta
 
 CIVL-3640 (-) Laboratory
-Section 51 LAB TH 04:00 PM 05:50 PM
+Section 51 LAB TH 04:00 PM
+
+05:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Das,
 Sreekanta
 
 CIVL-3650 (-) Transportation & Traffic Engg
-Section 1 3.00 LEC MW 10:00 AM 11:20 AM
+Section 1 3.00 LEC MW 10:00 AM
+
+11:20 
+AM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Kim,Yong 
 Hoon
 
 CIVL-3650 (-) Laboratory
-Section 51 LAB W 05:30 PM 07:20 PM
+Section 51 LAB W 05:30 PM
+
+07:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Kim,Yong 
 Hoon
 
 CIVL-4000B (-) Capstone Design Project
-Section 1 3.00 LEC F 08:30 AM 10:20 AM
+Section 1 3.00 LEC F 08:30 AM
+
+10:20 
+AM
 
 2021-
 05-10
 
 2021-
-08-11 Online Xu,Iris
+08-11
+
+Online Xu,Iris
 
 CIVL-4810 (-) Highway Design & Construction
-Section 1 3.00 LEC TTH 10:00 AM 11:20 AM
+Section 1 3.00 LEC TTH 10:00 AM
+
+11:20 
+AM
 
 2021-
 05-10
 
 2021-
-08-11 Online Lee,Chris
+08-11
+
+Online Lee,Chris
 
 
 
@@ -1933,9 +2410,11 @@ PM
 Online Lee,Chris
 
 CIVL-4820 (-) Planning and Construction Mgmt
-Section 1 3.00 LEC TTH 08:30 AM 09:50 
+Section 1 3.00 LEC TTH 08:30 AM
 
+09:50 
 AM
+
 2021-
 05-10
 
@@ -1946,9 +2425,11 @@ Ruparathna,
 Rajeev
 
 CIVL-4820 (-) Laboratory
-Section 51 LAB M 02:30 PM 04:20 
+Section 51 LAB M 02:30 PM
 
+04:20 
 PM
+
 2021-
 05-10
 
@@ -1959,9 +2440,11 @@ Ruparathna,
 Rajeev
 
 CIVL-4910 (-) Foundation Engineering
-Section 1 3.00 LEC MW 10:00 AM 11:20 
+Section 1 3.00 LEC MW 10:00 AM
 
+11:20 
 AM
+
 2021-
 05-10
 
@@ -1971,25 +2454,33 @@ AM
 Online Polies,Wafa
 
 CIVL-4910 (-) Laboratory
-Section 51 LAB W 05:30 PM 07:20 PM
+Section 51 LAB W 05:30 PM
 
-2021-
-05-10
-
-2021-
-08-11 Online Polies,Wafa
-
-CIVL-4920 (-) Adv Topics: Structural Design
-Section 1 3.00 LEC TTH 04:00 PM 05:20 
-
+07:20 
 PM
+
 2021-
 05-10
 
 2021-
 08-11
 
-Online Van 
+Online Polies,Wafa
+
+CIVL-4920 (-) Adv Topics: Structural Design
+Section 1 3.00 LEC TTH 04:00 PM
+
+05:20 
+PM
+
+2021-
+05-10
+
+2021-
+08-11
+
+Online
+Van 
 Engelen,Niel
 
 CIVL-4920 (-) Laboratory
@@ -2002,82 +2493,115 @@ PM
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Van 
 Engelen,Niel
 
 CIVL-4940 (-) Transport Systems Analysis
-Section 1 3.00 LEC TTH 01:00 PM 02:20 PM
+Section 1 3.00 LEC TTH 01:00 PM
+
+02:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online Maoh,Hanna
+08-11
+
+Online Maoh,Hanna
 
 CIVL-4940 (-) Laboratory
-Section 51 LAB W 12:30 PM 02:20 PM
+Section 51 LAB W 12:30 PM
+
+02:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online Maoh,Hanna
+08-11
+
+Online Maoh,Hanna
 
 CIVL-8020 (-) Building Information Modelling
-Section 1 3.00 LEC TH 11:30 AM 02:20 PM
+Section 1 3.00 LEC TH 11:30 AM
+
+02:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Ruparathna,
 Rajeev
 
 CIVL-8595 (-) Graduate Seminar
-Section 1 3.00 LEC T 05:30 PM 06:20 PM
+Section 1 3.00 LEC T 05:30 PM
+
+06:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Bolisetti,
 Tirupati
 
 CIVL-8900 (-) Bridge Design
-Section 16 3.00 LEC M 07:00 PM 09:50 PM
+Section 16 3.00 LEC M 07:00 PM
+
+09:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Tape,William
 D
 
 CIVL-8900 (-) GOS Data Modelling
-Section 21 3.00 LEC M 02:30 PM 05:20 PM
+Section 21 3.00 LEC M 02:30 PM
+
+05:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online Maoh,Hanna
+08-11
+
+Online Maoh,Hanna
 
 CIVL-8900 (-) Foundation Engineering
-Section 39 3.00 LEC MW 10:00 AM 11:20 AM
+Section 39 3.00 LEC MW 10:00 AM
+
+11:20 
+AM
 
 2021-
 05-10
 
 2021-
-08-11 Online Polies,Wafa
+08-11
+
+Online Polies,Wafa
 
 
 
@@ -2116,9 +2640,11 @@ PM
 Online Polies,Wafa
 
 CIVL-8900 (-) Sustainability: Principles and
-Section 45 3.00 LEC W 01:00 PM 03:50 
+Section 45 3.00 LEC W 01:00 PM
 
+03:50 
 PM
+
 2021-
 05-10
 
@@ -2128,48 +2654,61 @@ PM
 Online Tam,Edwin
 
 CIVL-8900 (-) Intelligent Transport Systems
-Section 48 3.00 LEC TH 02:30 PM 05:20 
+Section 48 3.00 LEC TH 02:30 PM
 
+05:20 
 PM
+
 2021-
 05-10
 
 2021-
 08-11
 
-Online Kim,Yong 
+Online
+Kim,Yong 
 Hoon
 
 CIVL-8900 (-) Modular Construction
-Section 59 3.00 LEC F 08:30 AM 11:20 
+Section 59 3.00 LEC F 08:30 AM
 
+11:20 
 AM
+
 2021-
 05-10
 
 2021-
 08-11
 
-Online Ghaednia,
+Online
+Ghaednia,
 Hossein
 
 CIVL-8960 (-) Major Paper
-Section 1 6.00 LEC 2021-05-10
+Section 1 6.00 LEC
 
 2021-
-08-11 Online
+05-10
 
+2021-
+08-11
+
+Online
 Bolisetti,
 Tirupati
 
 CIVL-8970 (-) Thesis
-Section 1 18.00 LEC 2021-
+Section 1 18.00 LEC
 
+2021-
 05-10
+
 2021-
 08-11
 
-Online Bolisetti,
+Online
+Bolisetti,
 Tirupati
 
 CIVL-9595 (-) PhD Graduate Seminar
@@ -2182,87 +2721,124 @@ PM
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Bolisetti,
 Tirupati
 
 CIVL-9980 (-) Dissertation
-Section 1 12.00 LEC 2021-05-10
+Section 1 12.00 LEC
 
 2021-
-08-11 Online
+05-10
 
+2021-
+08-11
+
+Online
 Bolisetti,
 Tirupati
 
 ENVE-4000B (-) Capstone Design Project
-Section 1 3.00 LEC F 08:30 AM 10:20 AM
+Section 1 3.00 LEC F 08:30 AM
+
+10:20 
+AM
 
 2021-
 05-10
 
 2021-
-08-11 Online Xu,Iris
+08-11
+
+Online Xu,Iris
 
 ENVE-4810 (-) Sustainability in Engineering
-Section 1 3.00 LEC MWF 11:30 AM 12:20 PM
+Section 1 3.00 LEC MWF 11:30 AM
+
+12:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online Tam,Edwin
+08-11
+
+Online Tam,Edwin
 
 ENVE-4810 (-) Laboratory
-Section 51 LAB M 12:30 PM 02:20 PM
+Section 51 LAB M 12:30 PM
+
+02:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online Tam,Edwin
+08-11
+
+Online Tam,Edwin
 
 ENVE-4820 (-) Hydrogeological Engineering
-Section 1 3.00 LEC TTH 01:00 PM 02:20 PM
+Section 1 3.00 LEC TTH 01:00 PM
+
+02:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Bolisetti,
 Tirupati
 
-W 12:30 PM 02:20 PM
+W 12:30 PM
+02:20 
+PM
+
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Bolisetti,
 Tirupati
 
 ENVE-8500 (-) Sustainability:Princs & Practs
-Section 1 3.00 LEC W 01:00 PM 03:50 PM
+Section 1 3.00 LEC W 01:00 PM
+
+03:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online Tam,Edwin
+08-11
+
+Online Tam,Edwin
 
 ENVE-8595 (-) Graduate Seminar
-Section 1 3.00 LEC T 05:30 PM 06:20 PM
+Section 1 3.00 LEC T 05:30 PM
+
+06:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Bolisetti,
 Tirupati
 
@@ -2289,9 +2865,11 @@ Date
 Bldg/Room Professor
 
 ENVE-8900 (-) GIS Data Modeling
-Section 21 3.00 LEC M 02:30 PM 05:20 
+Section 21 3.00 LEC M 02:30 PM
 
+05:20 
 PM
+
 2021-
 05-10
 
@@ -2301,16 +2879,19 @@ PM
 Online Maoh,Hanna
 
 ENVE-8900 (-) Hydrogeological Engineering
-Section 4 3.00 LEC TTH 01:00 PM 02:20 
+Section 4 3.00 LEC TTH 01:00 PM
 
+02:20 
 PM
+
 2021-
 05-10
 
 2021-
 08-11
 
-Online Bolisetti,
+Online
+Bolisetti,
 Tirupati
 
 W 12:30 PM
@@ -2321,8 +2902,9 @@ PM
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Bolisetti,
 Tirupati
 
@@ -2336,29 +2918,45 @@ PM
 05-10
 
 2021-
-08-11 Online Xu,Iris
+08-11
+
+Online Xu,Iris
 
 ENVE-8960 (-) Major Paper
-Section 1 6.00 LEC 2021-05-10
-
-2021-
-08-11 Online Xu,Iris
-
-ENVE-8970 (-) Thesis
-Section 1 18.00 LEC 2021-05-10
-
-2021-
-08-11 Online Xu,Iris
-
-ENVE-9595 (-) PhD Graduate Seminar
-Section 1 3.00 LEC T 05:30 PM 06:20 PM
+Section 1 6.00 LEC
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online Xu,Iris
+
+ENVE-8970 (-) Thesis
+Section 1 18.00 LEC
+
+2021-
+05-10
+
+2021-
+08-11
+
+Online Xu,Iris
+
+ENVE-9595 (-) PhD Graduate Seminar
+Section 1 3.00 LEC T 05:30 PM
+
+06:20 
+PM
+
+2021-
+05-10
+
+2021-
+08-11
+
+Online
 Bolisetti,
 Tirupati
 
@@ -2369,67 +2967,97 @@ Section 1 12.00 LEC
 05-10
 
 2021-
-08-11 Online Xu,Iris
+08-11
+
+Online Xu,Iris
 
 Elec.l and Comptr Engineering
 
 ELEC-2250 (-) Laboratory
-F 01:00 PM 02:50 PM
+F 01:00 PM
+
+02:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 ELEC-2250 (-) Physical Electronics
-Section 91 3.00 LEC TF 11:30 AM 12:50 PM
+Section 91 3.00 LEC TF 11:30 AM
+
+12:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 ELEC-3240 (-) Control Systems I
-Section 1 Full 3.00 LEC MW 11:30 AM 12:50 PM
+Section 1 Full 3.00 LEC MW 11:30 AM
+
+12:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online Chen,Xiang
+08-11
+
+Online Chen,Xiang
 
 ELEC-3240 (-) Laboratory
-Section 51 Full LAB TH 11:30 AM 02:20 PM
+Section 51 Full LAB TH 11:30 AM
+
+02:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online Chen,Xiang
+08-11
+
+Online Chen,Xiang
 
 ELEC-3270 (-) Microprocessors
-Section 1 Full 3.00 LEC MW 10:00 AM 11:20 AM
+Section 1 Full 3.00 LEC MW 10:00 AM
+
+11:20 
+AM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Muscedere,
 Roberto
 
 ELEC-3270 (-) Laboratory
-Section 51 Full LAB M 01:00 PM 03:50 PM
+Section 51 Full LAB M 01:00 PM
+
+03:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Muscedere,
 Roberto
 
@@ -2456,72 +3084,91 @@ Date
 Bldg/Room Professor
 
 ELEC-3290 (-) Laboratory
-W 01:00 PM 03:50 
+W 01:00 PM
 
+03:50 
 PM
+
 2021-
 05-10
 
 2021-
 08-11
 
-Online Sakr,Ahmed 
+Online
+Sakr,Ahmed 
 Hamdi
 
 ELEC-3290 (-) Analog Communications
-Section 91 3.00 LEC TTH 10:00 AM 11:20 
+Section 91 3.00 LEC TTH 10:00 AM
 
+11:20 
 AM
+
 2021-
 05-10
 
 2021-
 08-11
 
-Online Sakr,Ahmed 
+Online
+Sakr,Ahmed 
 Hamdi
 
 ELEC-4000B (-) Laboratory
-F 10:00 AM 12:50 
+F 10:00 AM
 
+12:50 
 PM
+
 2021-
 05-10
 
 2021-
 08-11
 
-Online Muscedere,
+Online
+Muscedere,
 Roberto
 
 ELEC-4000B (-) Capstone Design Project
-Section 91 3.00 LEC F 08:30 AM 09:50 AM
+Section 91 3.00 LEC F 08:30 AM
+
+09:50 
+AM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Muscedere,
 Roberto
 
 ELEC-4100 (-) Engineering Project Management
-Section 40 3.00 LEC W 09:00 AM 11:50 AM
+Section 40 3.00 LEC W 09:00 AM
+
+11:50 
+AM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Naderi,
 Bahman
 
 ELEC-4100 (-) Automotive Sensor Systems
-Section 85 3.00 LEC TTH 01:00 PM 02:20 
+Section 85 3.00 LEC TTH 01:00 PM
 
+02:20 
 PM
+
 2021-
 05-10
 
@@ -2540,86 +3187,117 @@ PM
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Shahrrava,
 Behnam
 
 ELEC-4320 (-) EM Waves & Radiating Systems
-Section 91 3.00 LEC TTH 01:00 PM 02:20 PM
+Section 91 3.00 LEC TTH 01:00 PM
+
+02:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Shahrrava,
 Behnam
 
 ELEC-4330 (-) Laboratory
-Section 51 LAB M 03:00 PM 04:50 PM
+Section 51 LAB M 03:00 PM
+
+04:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Chen,
 Chunhong
 
 ELEC-4330 (-) Digl Integrated Circuit Desgn
-Section 91 3.00 LEC MW 11:30 AM 12:50 PM
+Section 91 3.00 LEC MW 11:30 AM
+
+12:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Chen,
 Chunhong
 
 ELEC-4390 (-) Multimedia Systems
-Section 1 Full 3.00 LEC TTH 10:00 AM 11:20 AM
+Section 1 Full 3.00 LEC TTH 10:00 AM
+
+11:20 
+AM
 
 2021-
 05-10
 
 2021-
-08-11 Online Kwan,Hon K
+08-11
+
+Online Kwan,Hon K
 
 ELEC-4390 (-) Laboratory
-Section 51 Full LAB W 01:00 PM 02:50 PM
+Section 51 Full LAB W 01:00 PM
+
+02:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online Kwan,Hon K
+08-11
+
+Online Kwan,Hon K
 
 ELEC-4400 (-) Laboratory
-Section 51 Full LAB T 05:30 PM 07:20 PM
+Section 51 Full LAB T 05:30 PM
+
+07:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Sakr,Ahmed 
 Hamdi
 
 ELEC-4400 (-) Wireless Communications
-Section 91 Full 3.00 LEC MW 10:00 AM 11:20 AM
+Section 91 Full 3.00 LEC MW 10:00 AM
+
+11:20 
+AM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Sakr,Ahmed 
 Hamdi
 
@@ -2646,79 +3324,99 @@ Date
 Bldg/Room Professor
 
 ELEC-4470 (-) Laboratory
-Section 51 Full LAB TTH 08:30 AM 09:50 
+Section 51 Full LAB TTH 08:30 AM
 
+09:50 
 AM
+
 2021-
 05-10
 
 2021-
 08-11
 
-Online Erfani,
+Online
+Erfani,
 Shervin
 
 ELEC-4470 (-) Computer Networks Security
-Section 91 Full 3.00 LEC MW 08:30 AM 09:50 
+Section 91 Full 3.00 LEC MW 08:30 AM
 
+09:50 
 AM
+
 2021-
 05-10
 
 2021-
 08-11
 
-Online Erfani,
+Online
+Erfani,
 Shervin
 
 ELEC-4480 (-) Digital Computer Architecture
-Section 1 3.00 LEC TTH 11:30 AM 12:50 
+Section 1 3.00 LEC TTH 11:30 AM
 
+12:50 
 PM
+
 2021-
 05-10
 
 2021-
 08-11
 
-Online Muscedere,
+Online
+Muscedere,
 Roberto
 
 ELEC-4480 (-) Laboratory
-Section 51 LAB F 01:00 PM 03:50 PM
+Section 51 LAB F 01:00 PM
+
+03:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Muscedere,
 Roberto
 
 ELEC-4490 (-) Sensor and Vision Systems
-Section 60 3.00 LEC F 05:30 PM 08:20 PM
+Section 60 3.00 LEC F 05:30 PM
 
-2021-
-05-10
-
-2021-
-08-11 Online
-
-Alirezaee,
-Shahpour
-
-ELEC-4600 (-) Power Systems II
-Section 1 3.00 LEC TTH 04:00 PM 05:20 
-
+08:20 
 PM
+
 2021-
 05-10
 
 2021-
 08-11
 
-Online Azzouz,
+Online
+Alirezaee,
+Shahpour
+
+ELEC-4600 (-) Power Systems II
+Section 1 3.00 LEC TTH 04:00 PM
+
+05:20 
+PM
+
+2021-
+05-10
+
+2021-
+08-11
+
+Online
+Azzouz,
 Maher
 
 ELEC-4600 (-) Laboratory
@@ -2731,79 +3429,109 @@ PM
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Azzouz,
 Maher
 
 ELEC-8540 (-) Automotive Sensor Systems
-Section 1 3.00 LEC TTH 01:00 PM 02:20 PM
+Section 1 3.00 LEC TTH 01:00 PM
+
+02:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online Wu,Jonathan
+08-11
+
+Online Wu,Jonathan
 
 ELEC-8630 (-) Wireless Communication Systems
-Section 1 3.00 LEC MW 10:00 AM 11:20 AM
+Section 1 3.00 LEC MW 10:00 AM
+
+11:20 
+AM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Sakr,Ahmed 
 Hamdi
 
 ELEC-8900 (-) Secure Electronic Commerce
-Section 14 3.00 LEC MW 02:30 PM 03:50 PM
+Section 14 3.00 LEC MW 02:30 PM
+
+03:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Erfani,
 Shervin
 
 ELEC-8900 (-) Digital Integrated Circuit Des
-Section 42 3.00 LEC MW 11:30 AM 12:50 PM
+Section 42 3.00 LEC MW 11:30 AM
+
+12:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Chen,
 Chunhong
 
 ELEC-8900 (-) Multimedia Systems
-Section 49 3.00 LEC TTH 10:00 AM 11:20 AM
+Section 49 3.00 LEC TTH 10:00 AM
+
+11:20 
+AM
 
 2021-
 05-10
 
 2021-
-08-11 Online Kwan,Hon K
+08-11
+
+Online Kwan,Hon K
 
 ELEC-8900 (-) Computer Network Security
-Section 70 3.00 LEC MW 08:30 AM 09:50 AM
+Section 70 3.00 LEC MW 08:30 AM
+
+09:50 
+AM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Erfani,
 Shervin
 
 ELEC-8970 (-) Thesis
-Section 1 18.00 LEC 2021-05-10
+Section 1 18.00 LEC
+
+2021-
+05-10
 
 2021-
 08-11
@@ -2834,9 +3562,11 @@ Date
 Bldg/Room Professor
 
 ELEC-9980 (-) Dissertation
-Section 1 Full 12.00 LEC 2021-
+Section 1 Full 12.00 LEC
 
+2021-
 05-10
+
 2021-
 08-11
 
@@ -2855,7 +3585,9 @@ PM
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 GENG-1200 (-) Engineering Thermofluids
 Section 1 3.00 LEC MW 05:30 PM
@@ -2872,18 +3604,25 @@ PM
 Online Zhou,Biao
 
 GENG-1200 (-) Laboratory
-Section 51 LAB W 02:30 PM 04:20 PM
+Section 51 LAB W 02:30 PM
+
+04:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online Zhou,Biao
+08-11
+
+Online Zhou,Biao
 
 GENG-2180 (-) Mechanics of Deformable Bodies
-Section 1 3.00 LEC TTH 02:30 PM 03:50 
+Section 1 3.00 LEC TTH 02:30 PM
 
+03:50 
 PM
+
 2021-
 05-10
 
@@ -2902,70 +3641,105 @@ PM
 05-10
 
 2021-
-08-11 Online Lee,Chris
+08-11
+
+Online Lee,Chris
 
 GENG-2500 (-) Engineering & the Environment
-Section 1 3.00 LEC T 01:00 PM 03:50 PM
+Section 1 3.00 LEC T 01:00 PM
+
+03:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 GENG-2500 (-) Laboratory
-Section 51 LAB TH 02:30 PM 04:20 PM
+Section 51 LAB TH 02:30 PM
+
+04:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 GENG-2980 (-) Work Term I
-Section 1 3.00 LEC 2021-05-10
+Section 1 3.00 LEC
 
 2021-
-08-11 TBA
+05-10
+
+2021-
+08-11
+
+TBA
 
 GENG-3300 (-) Applied Engg Mathematics
-Section 60 3.00 LEC W 05:30 PM 08:20 PM
+Section 60 3.00 LEC W 05:30 PM
+
+08:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 GENG-3400 (-) Mechatronic Sys Design & Prjct
-Section 60 3.00 LEC TH 05:30 PM 08:20 PM
+Section 60 3.00 LEC TH 05:30 PM
+
+08:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Alirezaee,
 Shahpour
 
 GENG-3500 (-) Signals and Systems Analysis
-Section 60 3.00 LEC T 05:30 PM 08:20 PM
+Section 60 3.00 LEC T 05:30 PM
+
+08:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Alirezaee,
 Shahpour
 
 GENG-3980 (-) Work Term II
-Section 1 3.00 LEC 2021-05-10
+Section 1 3.00 LEC
 
 2021-
-08-11 TBA
+05-10
+
+2021-
+08-11
+
+TBA
 
 GENG-4210 (-) Engineering & Society
 
@@ -2999,7 +3773,9 @@ PM
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 Section 2 3.00 LEC TTH 02:30 PM
 03:50 
@@ -3014,9 +3790,11 @@ PM
 Online TBA
 
 GENG-4980 (-) Work Term III
-Section 1 3.00 LEC 2021-
+Section 1 3.00 LEC
 
+2021-
 05-10
+
 2021-
 08-11
 
@@ -3027,7 +3805,9 @@ Section 2 3.00 LEC
 05-10
 
 2021-
-08-11 TBA
+08-11
+
+TBA
 
 GENG-8000 (-) Engg Technical Communications
 Section 1 3.00 LEC W 08:30 AM
@@ -3039,12 +3819,14 @@ AM
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Abboud,
 Victoria M
 
-Section 2 3.00 LEC W 10:00 AM 11:20 
+Section 2 3.00 LEC W 10:00 AM
+11:20 
 AM
 
 2021-
@@ -3053,29 +3835,45 @@ AM
 2021-
 08-11
 
-Online Bourne,Don 
+Online
+Bourne,Don 
 V
 
-Section 3 3.00 LEC TH 08:30 AM 09:50 AM
+Section 3 3.00 LEC TH 08:30 AM
+09:50 
+AM
+
 2021-
 05-10
 
 2021-
-08-11 Online Salfi,Lisa M.
+08-11
 
-Section 4 3.00 LEC TH 10:00 AM 11:20 AM
+Online Salfi,Lisa M.
+
+Section 4 3.00 LEC TH 10:00 AM
+11:20 
+AM
+
 2021-
 05-10
 
 2021-
-08-11 Online Salfi,Lisa M.
+08-11
 
-Section 5 3.00 LEC M 08:30 AM 09:50 AM
+Online Salfi,Lisa M.
+
+Section 5 3.00 LEC M 08:30 AM
+09:50 
+AM
+
 2021-
 05-10
 
 2021-
-08-11 Online Ziter,Jesse S
+08-11
+
+Online Ziter,Jesse S
 
 GENG-8010 (-) Engineering Mathematics
 
@@ -3087,105 +3885,148 @@ PM
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Hassanzade
 h,
 Mohammad
 
-Section 31 3.00 LEC F 10:00 AM 01:00 PM
+Section 31 3.00 LEC F 10:00 AM
+01:00 
+PM
+
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Hassanzade
 h,
 Mohammad
 
 GENG-8020 (-) Engineering Project Management
-Section 30 3.00 LEC T 09:00 AM 11:50 AM
+Section 30 3.00 LEC T 09:00 AM
+
+11:50 
+AM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Naderi,
 Bahman
 
-Section 31 3.00 LEC M 09:00 AM 11:50 AM
+Section 31 3.00 LEC M 09:00 AM
+11:50 
+AM
+
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Abdulhussei
 n,Ali
 
-Section 33 3.00 LEC W 09:00 AM 11:50 AM
+Section 33 3.00 LEC W 09:00 AM
+11:50 
+AM
+
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Naderi,
 Bahman
 
 GENG-8030 (-) Comp. Meth. & Modlng for Eng.
-Section 1 3.00 LEC TH 08:30 AM 11:20 AM
+Section 1 3.00 LEC TH 08:30 AM
+
+11:20 
+AM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Rashidzadeh
 ,Rashid
 
-Section 2 3.00 LEC F 08:30 AM 11:20 AM
+Section 2 3.00 LEC F 08:30 AM
+11:20 
+AM
+
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Rashidzadeh
 ,Rashid
 
-Section 3 3.00 LEC M 08:30 AM 11:20 AM
+Section 3 3.00 LEC M 08:30 AM
+11:20 
+AM
+
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 GENG-8040 (-) Engg Management Capstone
-Section 1 6.00 LEC 2021-05-10
+Section 1 6.00 LEC
 
 2021-
-08-11 Frise,Peter
+05-10
+
+2021-
+08-11
+
+Frise,Peter
 
 GENG-8071 (-) Work Term/Internship
-Section 1 3.00 LEC 2021-05-10
+Section 1 3.00 LEC
 
 2021-
-08-11 Online
+05-10
 
+2021-
+08-11
+
+Online
 Ahmadi,
 Majid
 
 GENX-   8XXX (-) International Exchange
-Section 1 6.00 LEC 2021-05-10
+Section 1 6.00 LEC
 
 2021-
-08-11 Online
+05-10
 
+2021-
+08-11
+
+Online
 Johrendt,
 Jennifer L.
 
@@ -3223,8 +4064,9 @@ PM
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Naderi,
 Bahman
 
@@ -3242,7 +4084,8 @@ PM
 
 Online Baki,Fouzia
 
-SA 01:30 PM 05:20 
+SA 01:30 PM
+05:20 
 PM
 
 2021-
@@ -3263,37 +4106,56 @@ PM
 05-10
 
 2021-
-08-11 Online TBA
+08-11
 
-Section 2 3.00 LEC W 05:30 PM 08:20 PM
+Online TBA
+
+Section 2 3.00 LEC W 05:30 PM
+08:20 
+PM
+
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 INDE-8900 (-) Robotics Fundamentals and Prog
-Section 1 3.00 LEC F 04:30 PM 07:20 PM
+Section 1 3.00 LEC F 04:30 PM
+
+07:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 INDE-8900 (-) Production Analysis
-Section 30 3.00 LEC M 05:30 PM 08:20 PM
+Section 30 3.00 LEC M 05:30 PM
+
+08:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 INDE-8900 (-) Product, Process & Business In
-Section 33 3.00 LEC TH 01:00 PM 03:50 
+Section 33 3.00 LEC TH 01:00 PM
 
+03:50 
 PM
+
 2021-
 05-10
 
@@ -3312,7 +4174,9 @@ PM
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 INDE-8900 (-) Industrial Fluid Power
 Section 37 3.00 LEC T 05:30 PM
@@ -3324,53 +4188,76 @@ PM
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 INDE-8900 (-) Statistical Quality Control
-Section 80 3.00 LEC T 04:00 PM 06:50 PM
+Section 80 3.00 LEC T 04:00 PM
+
+06:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online Baki,Fouzia
+08-11
+
+Online Baki,Fouzia
 
 INDE-8960 (-) Major Paper
-Section 1 6.00 LEC 2021-05-10
+Section 1 6.00 LEC
 
 2021-
-08-11 Online
+05-10
 
+2021-
+08-11
+
+Online
 Elmaraghy,
 Hoda A
 
 INDE-8970 (-) Thesis
-Section 1 18.00 LEC 2021-05-10
-
-2021-
-08-11 Online
-
-Elmaraghy,
-Hoda A
-
-INDE-9980 (-) Dissertation
-Section 1 12.00 LEC 2021-05-10
-
-2021-
-08-11 Online
-
-Elmaraghy,
-Hoda A
-
-MATL-8813 (-) Tribology: Matls & Mfg Aspects
-Section 1 3.00 LEC MW 02:30 PM 03:50 PM
+Section 1 18.00 LEC
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
+Elmaraghy,
+Hoda A
+
+INDE-9980 (-) Dissertation
+Section 1 12.00 LEC
+
+2021-
+05-10
+
+2021-
+08-11
+
+Online
+Elmaraghy,
+Hoda A
+
+MATL-8813 (-) Tribology: Matls & Mfg Aspects
+Section 1 3.00 LEC MW 02:30 PM
+
+03:50 
+PM
+
+2021-
+05-10
+
+2021-
+08-11
+
+Online
 Alpas,Ahmet 
 T
 
@@ -3404,8 +4291,9 @@ PM
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Alpas,Ahmet 
 T
 
@@ -3419,7 +4307,9 @@ PM
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 MATL-8890 (-) Surface Engineering
 Section 22 3.00 LEC T 11:30 AM
@@ -3431,7 +4321,9 @@ PM
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 MATL-8970 (-) Thesis
 Section 1 18.00 LEC
@@ -3440,175 +4332,248 @@ Section 1 18.00 LEC
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Green,Daniel
 E.
 
 MATL-9980 (-) Dissertation
-Section 1 12.00 LEC 2021-05-10
+Section 1 12.00 LEC
 
 2021-
-08-11 Online
+05-10
 
+2021-
+08-11
+
+Online
 Green,Daniel
 E.
 
 MECH-3217 (-) Applied Thermodynamics
-Section 1 3.00 LEC F 01:30 PM 03:20 PM
+Section 1 3.00 LEC F 01:30 PM
+
+03:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Stoilov,
 Vesselin
 
-TTH 10:00 AM 11:20 AM
+TTH 10:00 AM
+11:20 
+AM
+
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Stoilov,
 Vesselin
 
-Section 2 3.00 LEC TTH 08:30 AM 09:50 AM
+Section 2 3.00 LEC TTH 08:30 AM
+09:50 
+AM
+
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Stoilov,
 Vesselin
 
-F 09:30 AM 11:20 AM
+F 09:30 AM
+11:20 
+AM
+
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Stoilov,
 Vesselin
 
 MECH-3220 (-) Fluid Mechanics II
-Section 1 3.00 LEC MW 08:30 AM 09:50 AM
+Section 1 3.00 LEC MW 08:30 AM
+
+09:50 
+AM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Roussinova,
 Vesselina
 
-W 05:30 PM 07:20 PM
+W 05:30 PM
+07:20 
+PM
+
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Roussinova,
 Vesselina
 
-Section 2 3.00 LEC MW 10:00 AM 11:20 AM
+Section 2 3.00 LEC MW 10:00 AM
+11:20 
+AM
+
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Roussinova,
 Vesselina
 
-W 03:30 PM 05:20 PM
+W 03:30 PM
+05:20 
+PM
+
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Roussinova,
 Vesselina
 
 MECH-3221 (-) Control Theory
-Section 1 3.00 LEC T 05:30 PM 06:50 PM
+Section 1 3.00 LEC T 05:30 PM
+
+06:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Rahimi,
 Afshin
 
-TTH 11:30 AM 12:50 PM
+TTH 11:30 AM
+12:50 
+PM
+
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Rahimi,
 Afshin
 
-Section 2 3.00 LEC TH 05:30 PM 06:50 PM
+Section 2 3.00 LEC TH 05:30 PM
+06:50 
+PM
+
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Rahimi,
 Afshin
 
-TTH 11:30 AM 12:50 PM
+TTH 11:30 AM
+12:50 
+PM
+
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Rahimi,
 Afshin
 
 MECH-3224 (-) Engineering Measurements
-Section 1 3.00 LEC TH 05:30 PM 06:50 PM
+Section 1 3.00 LEC TH 05:30 PM
+
+06:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
 
-TTH 10:00 AM 11:20 AM
+Online TBA
+
+TTH 10:00 AM
+11:20 
+AM
+
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
 
-Section 2 Full 3.00 LEC TH 07:00 PM 08:20 PM
+Online TBA
+
+Section 2 Full 3.00 LEC TH 07:00 PM
+08:20 
+PM
+
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
 
-TTH 01:00 PM 02:20 PM
+Online TBA
+
+TTH 01:00 PM
+02:20 
+PM
+
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 
 
@@ -3656,8 +4621,9 @@ PM
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Jianu,Ofelia 
 A
 
@@ -3675,7 +4641,8 @@ Online
 Jianu,Ofelia 
 A
 
-W 01:00 PM 02:50 
+W 01:00 PM
+02:50 
 PM
 
 2021-
@@ -3684,7 +4651,8 @@ PM
 2021-
 08-11
 
-Online Jianu,Ofelia 
+Online
+Jianu,Ofelia 
 A
 
 MECH-3430 (-) Automotive Engg Fundamentals
@@ -3697,12 +4665,16 @@ PM
 05-10
 
 2021-
-08-11 Online Eaves,Nick
+08-11
+
+Online Eaves,Nick
 
 MECH-3430 (-) Laboratory
-Section 51 LAB M 11:30 AM 02:20 
+Section 51 LAB M 11:30 AM
 
+02:20 
 PM
+
 2021-
 05-10
 
@@ -3711,7 +4683,8 @@ PM
 
 Online Eaves,Nick
 
-Section 52 LAB M 02:30 PM 05:20 
+Section 52 LAB M 02:30 PM
+05:20 
 PM
 
 2021-
@@ -3732,49 +4705,69 @@ PM
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 MECH-3670 (-) Laboratory
-Section 51 LAB M 03:00 PM 04:50 PM
+Section 51 LAB M 03:00 PM
+
+04:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 MECH-3830 (-) Materials and Their Properties
-Section 1 3.00 LEC TTH 11:30 AM 12:50 PM
+Section 1 3.00 LEC TTH 11:30 AM
+
+12:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Edrisy,
 Afsaneh
 
 MECH-3830 (-) Laboratory
-Section 51 LAB M 02:30 PM 04:20 PM
+Section 51 LAB M 02:30 PM
+
+04:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Edrisy,
 Afsaneh
 
 MECH-4200B (-) Capstone Design
 
-Section 1 3.00 LEC F 08:30 AM 10:20 AM
+Section 1 3.00 LEC F 08:30 AM
+10:20 
+AM
+
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
+
+Online
 
 Defoe,Jeff J
 Eaves,Nick
@@ -3782,48 +4775,78 @@ Stoilov,
 Vesselin
 
 MECH-4200B (-) Laboratory
-Section 51 Full LAB 2021-05-10
+Section 51 Full LAB
 
 2021-
-08-11 Eaves,Nick
+05-10
 
-Section 52 LAB 2021-05-10
 2021-
-08-11 Eaves,Nick
+08-11
 
-Section 53 LAB 2021-05-10
+Eaves,Nick
+
+Section 52 LAB
+2021-
+05-10
+
+2021-
+08-11
+
+Eaves,Nick
+
+Section 53 LAB
+2021-
+05-10
+
 2021-
 08-11
 
 Sobiesiak,
 Andrzej
 
-Section 54 LAB 2021-05-10
+Section 54 LAB
+2021-
+05-10
+
 2021-
 08-11
 
 Stoilov,
 Vesselin
 
-Section 55 LAB 2021-05-10
+Section 55 LAB
+2021-
+05-10
+
 2021-
 08-11
 
 Sobiesiak,
 Andrzej
 
-Section 56 LAB 2021-05-10
+Section 56 LAB
+2021-
+05-10
+
 2021-
 08-11
 
 Sobiesiak,
 Andrzej
 
-Section 57 Full LAB 2021-05-10
+Section 57 Full LAB
 2021-
-08-11 Eaves,Nick
+05-10
 
-Section 58 Full LAB 2021-05-10
+2021-
+08-11
+
+Eaves,Nick
+
+Section 58 Full LAB
+2021-
+05-10
+
 2021-
 08-11
 
@@ -3871,7 +4894,8 @@ Section 60 LAB
 
 Riahi,Reza R
 
-Section 61 Full LAB 2021-
+Section 61 Full LAB
+2021-
 05-10
 
 2021-
@@ -3889,7 +4913,8 @@ Section 62 Full LAB
 
 Eaves,Nick
 
-Section 63 LAB 2021-
+Section 63 LAB
+2021-
 05-10
 
 2021-
@@ -3899,7 +4924,8 @@ Stoilov,
 Vesselin
 Ting,David S
 
-Section 64 Full LAB 2021-
+Section 64 Full LAB
+2021-
 05-10
 
 2021-
@@ -3927,25 +4953,39 @@ Section 66 Full LAB
 
 Riahi,Reza R
 
-Section 67 Full LAB 2021-05-10
+Section 67 Full LAB
 2021-
-08-11 Riahi,Reza R
+05-10
 
-Section 68 Full LAB 2021-05-10
+2021-
+08-11
+
+Riahi,Reza R
+
+Section 68 Full LAB
+2021-
+05-10
+
 2021-
 08-11
 
 Stoilov,
 Vesselin
 
-Section 69 LAB 2021-05-10
+Section 69 LAB
+2021-
+05-10
+
 2021-
 08-11
 
 Stoilov,
 Vesselin
 
-Section 70 LAB 2021-05-10
+Section 70 LAB
+2021-
+05-10
+
 2021-
 08-11
 
@@ -3982,7 +5022,8 @@ Section 73 Full LAB
 Stoilov,
 Vesselin
 
-Section 74 Full LAB 2021-
+Section 74 Full LAB
+2021-
 05-10
 
 2021-
@@ -3991,7 +5032,8 @@ Section 74 Full LAB 2021-
 Stoilov,
 Vesselin
 
-Section 75 LAB 2021-
+Section 75 LAB
+2021-
 05-10
 
 2021-
@@ -4000,7 +5042,8 @@ Section 75 LAB 2021-
 Jianu,Ofelia 
 A
 
-Section 76 Full LAB 2021-
+Section 76 Full LAB
+2021-
 05-10
 
 2021-
@@ -4009,51 +5052,86 @@ Section 76 Full LAB 2021-
 Stoilov,
 Vesselin
 
-Section 77 LAB 2021-05-10
+Section 77 LAB
 2021-
-08-11 Eaves,Nick
+05-10
 
-Section 78 Full LAB 2021-05-10
+2021-
+08-11
+
+Eaves,Nick
+
+Section 78 Full LAB
+2021-
+05-10
+
 2021-
 08-11
 
 Sobiesiak,
 Andrzej
 
-Section 79 Full LAB 2021-05-10
+Section 79 Full LAB
+2021-
+05-10
+
 2021-
 08-11
 
 Rahimi,
 Afshin
 
-Section 80 Full LAB 2021-05-10
+Section 80 Full LAB
 2021-
-08-11 Eaves,Nick
+05-10
 
-Section 81 LAB 2021-05-10
 2021-
-08-11 Eaves,Nick
+08-11
 
-Section 82 LAB 2021-05-10
+Eaves,Nick
+
+Section 81 LAB
 2021-
-08-11 Eaves,Nick
+05-10
 
-Section 83 LAB 2021-05-10
+2021-
+08-11
+
+Eaves,Nick
+
+Section 82 LAB
+2021-
+05-10
+
+2021-
+08-11
+
+Eaves,Nick
+
+Section 83 LAB
+2021-
+05-10
+
 2021-
 08-11
 
 Stoilov,
 Vesselin
 
-Section 84 LAB 2021-05-10
+Section 84 LAB
+2021-
+05-10
+
 2021-
 08-11
 
 Stoilov,
 Vesselin
 
-Section 85 Full LAB 2021-05-10
+Section 85 Full LAB
+2021-
+05-10
+
 2021-
 08-11
 
@@ -4061,24 +5139,32 @@ Al-Zaher,
 Abdo
 
 MECH-4212 (-) Mechatronics
-Section 1 Full 3.00 LEC W 12:30 PM 02:20 PM
+Section 1 Full 3.00 LEC W 12:30 PM
+
+02:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Ahamed,
 Jalal J
 
-Section 60 3.00 LEC M 05:30 PM 08:20 PM
+Section 60 3.00 LEC M 05:30 PM
+08:20 
+PM
+
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Ahamed,
 Jalal J
 
@@ -4114,8 +5200,9 @@ PM
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Ahamed,
 Jalal J
 
@@ -4129,9 +5216,12 @@ PM
 05-10
 
 2021-
-08-11 Online Oriet,Leo
+08-11
 
-M 05:30 PM 08:20 
+Online Oriet,Leo
+
+M 05:30 PM
+08:20 
 PM
 
 2021-
@@ -4143,9 +5233,11 @@ PM
 Online Oriet,Leo
 
 MECH-4228 (-) Sustainability in Engineering
-Section 1 Full 3.00 LEC MWF 11:30 AM 12:20 
+Section 1 Full 3.00 LEC MWF 11:30 AM
 
+12:20 
 PM
+
 2021-
 05-10
 
@@ -4164,35 +5256,46 @@ PM
 05-10
 
 2021-
-08-11 Online Tam,Edwin
+08-11
+
+Online Tam,Edwin
 
 MECH-4255 (-) Envl Effects/Control of Noise
-Section 1 3.00 LEC MW 02:30 PM 03:50 PM
+Section 1 3.00 LEC MW 02:30 PM
+
+03:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Novak,Colin 
 J
 
 MECH-4255 (-) Laboratory
-Section 51 LAB W 04:00 PM 04:50 PM
+Section 51 LAB W 04:00 PM
+
+04:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Novak,Colin 
 J
 
 MECH-4259 (-) Computer Aided Engg - CAE
 
-Section 1 3.00 LEC TTH 01:00 PM 01:50 
+Section 1 3.00 LEC TTH 01:00 PM
+01:50 
 PM
 
 2021-
@@ -4206,18 +5309,23 @@ Zamani-
 Kashani,
 Nader G
 
-Section 2 3.00 LEC T 04:00 PM 04:50 PM
+Section 2 3.00 LEC T 04:00 PM
+04:50 
+PM
+
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Zamani-
 Kashani,
 Nader G
 
-F 10:30 AM 11:20 
+F 10:30 AM
+11:20 
 AM
 
 2021-
@@ -4233,67 +5341,93 @@ Nader G
 
 MECH-4259 (-) Laboratory
 
-Section 51 3.00 LAB F 08:30 AM 11:20 AM
+Section 51 3.00 LAB F 08:30 AM
+11:20 
+AM
+
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Zamani-
 Kashani,
 Nader G
 
-Section 52 3.00 LAB F 01:30 PM 04:20 PM
+Section 52 3.00 LAB F 01:30 PM
+04:20 
+PM
+
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Zamani-
 Kashani,
 Nader G
 
-Section 53 3.00 LAB M 04:00 PM 06:50 PM
+Section 53 3.00 LAB M 04:00 PM
+06:50 
+PM
+
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Zamani-
 Kashani,
 Nader G
 
-Section 54 3.00 LAB T 08:30 AM 11:20 AM
+Section 54 3.00 LAB T 08:30 AM
+11:20 
+AM
+
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Zamani-
 Kashani,
 Nader G
 
 MECH-4467 (-) Vehicle Thermal Management
-Section 1 3.00 LEC MW 10:00 AM 11:20 AM
+Section 1 3.00 LEC MW 10:00 AM
+
+11:20 
+AM
 
 2021-
 05-10
 
 2021-
-08-11 Online Fartaj,Amir
+08-11
+
+Online Fartaj,Amir
 
 MECH-4467 (-) Laboratory
-Section 51 LAB M 11:30 AM 12:50 PM
+Section 51 LAB M 11:30 AM
+
+12:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online Fartaj,Amir
+08-11
+
+Online Fartaj,Amir
 
 MECH-4469 (-) Diesel Engine Fundamentals
 
@@ -4327,7 +5461,9 @@ AM
 05-10
 
 2021-
-08-11 Online Zheng,Ming
+08-11
+
+Online Zheng,Ming
 
 MECH-4469 (-) Laboratory
 Section 51 LAB TH 09:00 AM
@@ -4339,7 +5475,9 @@ AM
 05-10
 
 2021-
-08-11 Online Zheng,Ming
+08-11
+
+Online Zheng,Ming
 
 MECH-4670 (-) Aerospace Propulsion
 Section 1 3.00 LEC MW 08:30 AM
@@ -4351,7 +5489,9 @@ AM
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 MECH-4670 (-) Laboratory
 Section 51 LAB M 01:00 PM
@@ -4363,65 +5503,86 @@ PM
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 MECH-4672 (-) Flight Dynamcs&Ctrl-Unman Veh
-Section 1 3.00 LEC MW 10:00 AM 11:20 AM
+Section 1 3.00 LEC MW 10:00 AM
 
-2021-
-05-10
+11:20 
+AM
 
-2021-
-08-11 Online
-
-Rahimi,
-Afshin
-
-MECH-4672 (-) Laboratory
-Section 51 LAB W 02:30 PM 04:20 PM
-
-2021-
-05-10
-
-2021-
-08-11 Online
-
-Rahimi,
-Afshin
-
-MECH-4840 (-) Tribology: Matls& Mfg Aspects
-Section 8 3.00 LEC MW 02:30 PM 03:50 PM
-
-2021-
-05-10
-
-2021-
-08-11 Online
-
-Alpas,Ahmet 
-T
-
-TH 04:30 PM 06:50 PM
-2021-
-05-10
-
-2021-
-08-11 Online
-
-Alpas,Ahmet 
-T
-
-MECH-8000 (-) Auto. Materials and Manufactur
-Section 1 3.00 LEC T 05:30 PM 08:20 
-
-PM
 2021-
 05-10
 
 2021-
 08-11
 
-Online Sari Sarraf,
+Online
+Rahimi,
+Afshin
+
+MECH-4672 (-) Laboratory
+Section 51 LAB W 02:30 PM
+
+04:20 
+PM
+
+2021-
+05-10
+
+2021-
+08-11
+
+Online
+Rahimi,
+Afshin
+
+MECH-4840 (-) Tribology: Matls& Mfg Aspects
+Section 8 3.00 LEC MW 02:30 PM
+
+03:50 
+PM
+
+2021-
+05-10
+
+2021-
+08-11
+
+Online
+Alpas,Ahmet 
+T
+
+TH 04:30 PM
+06:50 
+PM
+
+2021-
+05-10
+
+2021-
+08-11
+
+Online
+Alpas,Ahmet 
+T
+
+MECH-8000 (-) Auto. Materials and Manufactur
+Section 1 3.00 LEC T 05:30 PM
+
+08:20 
+PM
+
+2021-
+05-10
+
+2021-
+08-11
+
+Online
+Sari Sarraf,
 Iman
 
 MECH-8030 (-) Fundamentals of Auto Engg
@@ -4434,7 +5595,9 @@ AM
 05-10
 
 2021-
-08-11 Online Eaves,Nick
+08-11
+
+Online Eaves,Nick
 
 Section 2 3.00 LEC TH 08:00 AM
 10:50 
@@ -4444,46 +5607,67 @@ AM
 05-10
 
 2021-
-08-11 Online Eaves,Nick
+08-11
+
+Online Eaves,Nick
 
 MECH-8067 (-) Vehicle Thermal Management
-Section 1 3.00 LEC T 10:00 AM 12:50 PM
+Section 1 3.00 LEC T 10:00 AM
+
+12:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online Fartaj,Amir
+08-11
+
+Online Fartaj,Amir
 
 MECH-8290 (-) Robotics Fundamentals and Prog
-Section 1 3.00 LEC F 04:30 PM 07:20 PM
+Section 1 3.00 LEC F 04:30 PM
+
+07:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 MECH-8290 (-) Noise Dsgn; Arch & Auto Apps
-Section 33 3.00 LEC W 08:30 AM 11:20 AM
+Section 33 3.00 LEC W 08:30 AM
+
+11:20 
+AM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Novak,Colin 
 J
 
 MECH-8290 (-)  Lean Manufacturing &Process I
-Section 34 3.00 LEC TH 05:30 PM 08:20 PM
+Section 34 3.00 LEC TH 05:30 PM
+
+08:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 MECH-8290 (-) Industrial Fluid Power
 
@@ -4517,7 +5701,9 @@ PM
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 MECH-8290 (-) Advanced Vehicle Thermal Manag
 Section 67 3.00 LEC M 01:00 PM
@@ -4529,7 +5715,9 @@ PM
 05-10
 
 2021-
-08-11 Online Fartaj,Amir
+08-11
+
+Online Fartaj,Amir
 
 MECH-8290 (-) Industrial Exp. And Applied St
 Section 7 3.00 LEC F 11:30 AM
@@ -4541,8 +5729,9 @@ PM
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Naderi,
 Bahman
 
@@ -4556,46 +5745,70 @@ PM
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 MECH-8290 (-) Statistical Quality Control
-Section 80 3.00 LEC T 04:00 PM 06:50 PM
+Section 80 3.00 LEC T 04:00 PM
+
+06:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online Baki,Fouzia
+08-11
+
+Online Baki,Fouzia
 
 MECH-8290 (-) Product, Process & Business In
-Section 83 3.00 LEC TH 01:00 PM 03:50 PM
+Section 83 3.00 LEC TH 01:00 PM
+
+03:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online Baki,Fouzia
+08-11
+
+Online Baki,Fouzia
 
 MECH-8290 (-) Computer-Aided Design
-Section 9 3.00 LEC T 02:30 PM 05:20 PM
+Section 9 3.00 LEC T 02:30 PM
+
+05:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
 
-Section 90 3.00 LEC W 05:30 PM 08:20 PM
+Online TBA
+
+Section 90 3.00 LEC W 05:30 PM
+08:20 
+PM
+
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 MECH-8290 (-) Surface Engineering
-Section 92 3.00 LEC T 11:30 AM 02:20 
+Section 92 3.00 LEC T 11:30 AM
 
+02:20 
 PM
+
 2021-
 05-10
 
@@ -4614,47 +5827,64 @@ PM
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Stoilov,
 Vesselin
 
 MECH-8960 (-) Major Paper
-Section 1 3.00 LEC 2021-05-10
-
-2021-
-08-11 Online
-
-Stoilov,
-Vesselin
-
-MECH-8970 (-) Thesis
-Section 1 18.00 LEC 2021-05-10
-
-2021-
-08-11 Online
-
-Stoilov,
-Vesselin
-
-MECH-9295 (-) PHD Graduate Seminar
-Section 1 3.00 LEC F 11:30 AM 12:20 PM
+Section 1 3.00 LEC
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
+Stoilov,
+Vesselin
+
+MECH-8970 (-) Thesis
+Section 1 18.00 LEC
+
+2021-
+05-10
+
+2021-
+08-11
+
+Online
+Stoilov,
+Vesselin
+
+MECH-9295 (-) PHD Graduate Seminar
+Section 1 3.00 LEC F 11:30 AM
+
+12:20 
+PM
+
+2021-
+05-10
+
+2021-
+08-11
+
+Online
 Stoilov,
 Vesselin
 
 MECH-9980 (-) Dissertation
-Section 1 12.00 LEC 2021-05-10
+Section 1 12.00 LEC
 
 2021-
-08-11 Online
+05-10
 
+2021-
+08-11
+
+Online
 Stoilov,
 Vesselin
 
@@ -4691,41 +5921,52 @@ Section 4 3.00 LEC
 05-10
 
 2021-
-08-11 TBA
+08-11
+
+TBA
 
 Faculty of Human Kinetics
 
 Faculty of Human Kinetics
 
 KINE-2100 (-) Human Performance
-Section 1 3.00 LEC MTWTH 10:00 AM 11:20 
+Section 1 3.00 LEC MTWTH 10:00 AM
 
+11:20 
 AM
+
 2021-
 06-28
 
 2021-
 08-10
 
-Online Horne,
+Online
+Horne,
 Sharon E
 
 KINE-2300 (-) Soci Sport & Physical Activity
-Section 1 3.00 LEC MTWTH 08:30 AM 09:50 
+Section 1 3.00 LEC MTWTH 08:30 AM
 
+09:50 
 AM
+
 2021-
 05-10
 
 2021-
 06-21
 
-Online Horne,
+Online
+Horne,
 Sharon E
 
 KINE-2850 (-) Human Growth & Development
 
-Section 1 3.00 LEC MTWTH 12:00 PM 01:20 PM
+Section 1 3.00 LEC MTWTH 12:00 PM
+01:20 
+PM
+
 2021-
 05-10
 
@@ -4737,7 +5978,10 @@ Sharon E
 Horton,Sean
 
 KINE-2990 (-) Co-op Work Experience I
-Section 1 3.00 LEC 2021-05-10
+Section 1 3.00 LEC
+
+2021-
+05-10
 
 2021-
 08-11
@@ -4746,16 +5990,19 @@ Horne,
 Sharon E
 
 KINE-3500 (-) Organizational Behaviour
-Section 1 3.00 LEC MTWTH 08:30 AM 09:50 
+Section 1 3.00 LEC MTWTH 08:30 AM
 
+09:50 
 AM
+
 2021-
 06-28
 
 2021-
 08-10
 
-Online Horne,
+Online
+Horne,
 Sharon E
 
 KINE-3990 (-) Co-op Work Experience II
@@ -4771,12 +6018,20 @@ Horne,
 Sharon E
 
 KINE-4750 (-) Individual Studies
-Section 1 3.00 LEC 2021-05-10
+Section 1 3.00 LEC
 
 2021-
-08-11 TBA
+05-10
 
-Section 2 3.00 LEC 2021-05-10
+2021-
+08-11
+
+TBA
+
+Section 2 3.00 LEC
+2021-
+05-10
+
 2021-
 08-11
 
@@ -4786,34 +6041,47 @@ Horne,
 Sharon E
 
 KINE-4770 (-) Outdoor Recreation
-Section 1 3.00 LEC 2021-06-28
-
-2021-
-08-10 Online
-
-Paraschak,
-Victoria A
-
-KINE-4890 (-) E-Sport Management
-Section 1 3.00 LEC MTWTH 10:00 AM 11:20 AM
-
-2021-
-05-10
-
-2021-
-06-21 Online
-
-Horne,
-Sharon E
-
-KINE-4890 (-) Race in Sport
-Section 2 3.00 LEC MTWTH 12:00 PM 01:20 PM
+Section 1 3.00 LEC
 
 2021-
 06-28
 
 2021-
-08-10 Online TBA
+08-10
+
+Online
+Paraschak,
+Victoria A
+
+KINE-4890 (-) E-Sport Management
+Section 1 3.00 LEC MTWTH 10:00 AM
+
+11:20 
+AM
+
+2021-
+05-10
+
+2021-
+06-21
+
+Online
+Horne,
+Sharon E
+
+KINE-4890 (-) Race in Sport
+Section 2 3.00 LEC MTWTH 12:00 PM
+
+01:20 
+PM
+
+2021-
+06-28
+
+2021-
+08-10
+
+Online TBA
 
 
 
@@ -4879,7 +6147,8 @@ Sharon E
 
 KINE-8100 (-) Special Problems
 
-Section 1 3.00 LEC 2021-
+Section 1 3.00 LEC
+2021-
 05-10
 
 2021-
@@ -4892,7 +6161,8 @@ Cheri L
 
 KINE-8950 (-) Internship
 
-Section 1 3.00 LEC 2021-
+Section 1 3.00 LEC
+2021-
 05-10
 
 2021-
@@ -4905,7 +6175,8 @@ Cheri L
 
 KINE-8970 (-) Thesis
 
-Section 1 12.00 LEC 2021-
+Section 1 12.00 LEC
+2021-
 05-10
 
 2021-
@@ -4932,7 +6203,10 @@ Cheri L
 
 KINE-9920 (-) Independent Study
 
-Section 1 3.00 LEC 2021-05-10
+Section 1 3.00 LEC
+2021-
+05-10
+
 2021-
 08-11
 
@@ -4943,7 +6217,10 @@ Cheri L
 
 KINE-9950 (-) Doctoral Seminar
 
-Section 1 3.00 LEC 2021-05-10
+Section 1 3.00 LEC
+2021-
+05-10
+
 2021-
 08-11
 
@@ -4954,7 +6231,10 @@ Cheri L
 
 KINE-9980 (-) Dissertation Research
 
-Section 1 12.00 LEC 2021-05-10
+Section 1 12.00 LEC
+2021-
+05-10
+
 2021-
 08-11
 
@@ -5006,7 +6286,8 @@ Faculty of Nursing
 
 NURS-2902 (-) Indiv Clinical Nursing Exp
 
-Section 1 3.00 LEC 2021-
+Section 1 3.00 LEC
+2021-
 05-10
 
 2021-
@@ -5033,7 +6314,10 @@ Dept
 Dobson,
 Kimberley A
 
-Section 3 Full 3.00 LEC 2021-05-10
+Section 3 Full 3.00 LEC
+2021-
+05-10
+
 2021-
 05-23
 
@@ -5060,7 +6344,10 @@ Mirza,
 Noeman
 
 NURS-3750 (-) Nurs Care-Complex Hlth Prob II
-Section 95 3.00 LEC MW 08:30 AM 11:20 AM
+Section 95 3.00 LEC MW 08:30 AM
+
+11:20 
+AM
 
 2021-
 06-28
@@ -5073,7 +6360,8 @@ Debbie L
 
 NURS-3782 (-) Clinical Nursing Experience
 
-Section 1 3.00 LEC 2021-
+Section 1 3.00 LEC
+2021-
 05-10
 
 2021-
@@ -5099,20 +6387,27 @@ Dept
 TBA
 
 NURS-3830 (-) Adult Health & Health Alt. III
-Section 1 Full 3.00 LEC TTH 08:30 AM 11:50 AM
+Section 1 Full 3.00 LEC TTH 08:30 AM
+
+11:50 
+AM
 
 2021-
 06-28
 
 2021-
-08-10 Online
+08-10
 
+Online
 Rickeard,
 Debbie L
 
 NURS-3902 (-) Indiv Clinical Nursing Exper
 
-Section 1 3.00 LEC 2021-05-10
+Section 1 3.00 LEC
+2021-
+05-10
+
 2021-
 05-23
 
@@ -5122,7 +6417,10 @@ Dept
 
 TBA
 
-Section 2 3.00 LEC 2021-05-10
+Section 2 3.00 LEC
+2021-
+05-10
+
 2021-
 05-23
 
@@ -5133,7 +6431,10 @@ Dept
 Di Sabato,
 Christina M
 
-Section 3 3.00 LEC 2021-05-10
+Section 3 3.00 LEC
+2021-
+05-10
+
 2021-
 05-23
 
@@ -5144,7 +6445,10 @@ Dept
 Rajaratnam,
 Jayne
 
-Section 4 3.00 LEC 2021-05-10
+Section 4 3.00 LEC
+2021-
+05-10
+
 2021-
 05-23
 
@@ -5177,7 +6481,8 @@ Date
 
 Bldg/Room Professor
 
-Section 5 3.00 LEC 2021-
+Section 5 3.00 LEC
+2021-
 05-10
 
 2021-
@@ -5217,7 +6522,8 @@ Dept
 Rajaratnam,
 Jayne
 
-Section 8 3.00 LEC 2021-
+Section 8 3.00 LEC
+2021-
 05-10
 
 2021-
@@ -5261,40 +6567,51 @@ Mclaughlin,
 Brenda E
 
 NURS-8360 (-) Relatnl Prac./FamiliesOncology
-Section 1 3.00 LEC TH 01:00 PM 02:30 PM
+Section 1 3.00 LEC TH 01:00 PM
 
-2021-
-05-10
-
-2021-
-08-11 Online
-
-Morrell,
-Sherry
-
-NURS-8370 (-) Sexual Hlth/Counselling Cancer
-Section 1 Full 3.00 LEC TTH 09:00 AM 10:20 AM
-
-2021-
-05-10
-
-2021-
-06-21 Online
-
-Morrell,
-Sherry
-
-NURS-8500 (-) Pathophysio-Nurse Practitioner
-Section 1 3.00 LEC W 06:00 PM 08:50 
-
+02:30 
 PM
+
 2021-
 05-10
 
 2021-
 08-11
 
-Online Morrell,
+Online
+Morrell,
+Sherry
+
+NURS-8370 (-) Sexual Hlth/Counselling Cancer
+Section 1 Full 3.00 LEC TTH 09:00 AM
+
+10:20 
+AM
+
+2021-
+05-10
+
+2021-
+06-21
+
+Online
+Morrell,
+Sherry
+
+NURS-8500 (-) Pathophysio-Nurse Practitioner
+Section 1 3.00 LEC W 06:00 PM
+
+08:50 
+PM
+
+2021-
+05-10
+
+2021-
+08-11
+
+Online
+Morrell,
 Sherry
 
 NURS-8520 (-) Primary Care NP Roles & Respon
@@ -5307,8 +6624,9 @@ PM
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Morrell,
 Sherry
 
@@ -5319,25 +6637,33 @@ Section 95 3.00 LEC
 06-28
 
 2021-
-08-10 Online
+08-10
 
+Online
 Wellington,
 Chris M.
 
 NURS-8800 (-) Writing for Publication
-Section 1 3.00 LEC MW 01:00 PM 03:50 PM
+Section 1 3.00 LEC MW 01:00 PM
+
+03:50 
+PM
 
 2021-
 05-10
 
 2021-
-06-21 Online
+06-21
 
+Online
 De Witt,
 Lorna
 
 NURS-8830 (-) Research Methods in Nursing
-Section 1 3.00 LEC MW 09:00 AM 11:50 AM
+Section 1 3.00 LEC MW 09:00 AM
+
+11:50 
+AM
 
 2021-
 05-10
@@ -5349,32 +6675,45 @@ Kane,Debbie
 J
 
 NURS-8870 (-) Integratv Pract Prim Hlth Care
-Section 1 Full 12.00 LEC W 06:00 PM 08:50 PM
+Section 1 Full 12.00 LEC W 06:00 PM
+
+08:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Brothers,
 Lourdes
 
-Section 2 12.00 LEC W 06:00 PM 08:50 PM
+Section 2 12.00 LEC W 06:00 PM
+08:50 
+PM
+
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Mcalpine,
 Kimberly
 
 NURS-8970 (-) Thesis Option
-Section 1 12.00 LEC 2021-05-10
+Section 1 12.00 LEC
 
 2021-
-08-11 Online Ralph,Jody
+05-10
+
+2021-
+08-11
+
+Online Ralph,Jody
 
 
 
@@ -5415,7 +6754,8 @@ Chemistry and Biochemistry
 
 BIOC-2010 (-) Organic Chem of Biomolecules
 
-Section 1 3.00 LEC TTH 08:30 AM 11:20 
+Section 1 3.00 LEC TTH 08:30 AM
+11:20 
 AM
 
 2021-
@@ -5430,35 +6770,44 @@ Nedhal
 Tong,Yufeng
 
 BIOC-2010 (-) Laboratory
-Section 51 LAB TTH 12:30 PM 03:20 
+Section 51 LAB TTH 12:30 PM
 
+03:20 
 PM
+
 2021-
 06-28
 
 2021-
 08-10
 
-Online Al-Nidawy,
+Online
+Al-Nidawy,
 Nedhal
 
 BIOC-2015 (-) Organic Chem of Biomolecules
 
-Section 1 3.00 LEC TTH 08:30 AM 11:20 AM
+Section 1 3.00 LEC TTH 08:30 AM
+11:20 
+AM
+
 2021-
 06-28
 
 2021-
-08-10 Online
+08-10
 
+Online
 Al-Nidawy,
 Nedhal
 Tong,Yufeng
 
 BIOC-3130 (-) Protein&Nucleic Acid Chemistry
-Section 91 3.00 LEC W 10:00 AM 12:00 
+Section 91 3.00 LEC W 10:00 AM
 
+12:00 
 PM
+
 2021-
 05-10
 
@@ -5477,41 +6826,55 @@ AM
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Amtul,
 Zareen
 
 BIOC-8790 (-) Laboratory
-Section 51 Full LAB M 11:30 AM 02:20 PM
+Section 51 Full LAB M 11:30 AM
+
+02:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Amtul,
 Zareen
 
-Section 52 LAB T 09:30 AM 12:20 PM
+Section 52 LAB T 09:30 AM
+12:20 
+PM
+
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Amtul,
 Zareen
 
 CHEM-1103 (-) Topics in General Chemistry
 
-Section 1 3.00 LEC TTH 11:30 AM 12:50 PM
+Section 1 3.00 LEC TTH 11:30 AM
+12:50 
+PM
+
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
+
+Online
 
 Al-Nidawy,
 Nedhal
@@ -5520,24 +6883,34 @@ E
 
 CHEM-1103 (-) Laboratory
 
-Section 51 LAB T 08:30 AM 11:20 AM
+Section 51 LAB T 08:30 AM
+11:20 
+AM
+
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
+
+Online
 
 Al-Nidawy,
 Nedhal
 Taylor,Keith 
 E
 
-Section 53 LAB TH 08:30 AM 11:20 AM
+Section 53 LAB TH 08:30 AM
+11:20 
+AM
+
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
+
+Online
 
 Al-Nidawy,
 Nedhal
@@ -5546,13 +6919,17 @@ E
 
 CHEM-2300 (-) Introductory Organic Chemistry
 
-Section 1 Full 3.00 LEC TTH 08:30 AM 11:20 AM
+Section 1 Full 3.00 LEC TTH 08:30 AM
+11:20 
+AM
+
 2021-
 05-10
 
 2021-
-06-21 Online
+06-21
 
+Online
 Al-Nidawy,
 Nedhal
 Wang,Zhuo
@@ -5579,7 +6956,8 @@ Date
 
 Bldg/Room Professor
 
-Section 2 Full 3.00 LEC TTH 08:30 AM 11:20 
+Section 2 Full 3.00 LEC TTH 08:30 AM
+11:20 
 AM
 
 2021-
@@ -5609,7 +6987,8 @@ Online
 Al-Nidawy,
 Nedhal
 
-Section 52 Full LAB TTH 04:30 PM 07:20 
+Section 52 Full LAB TTH 04:30 PM
+07:20 
 PM
 
 2021-
@@ -5618,12 +6997,14 @@ PM
 2021-
 06-21
 
-Online Al-Nidawy,
+Online
+Al-Nidawy,
 Nedhal
 
 CHEM-2305 (-) Introductory Organic Chemistry
 
-Section 1 3.00 LEC TTH 08:30 AM 11:20 
+Section 1 3.00 LEC TTH 08:30 AM
+11:20 
 AM
 
 2021-
@@ -5652,7 +7033,8 @@ Simon
 
 CHEM-4908 (-) Internship Work Term II
 
-Section 2 3.00 LEC 2021-
+Section 2 3.00 LEC
+2021-
 05-10
 
 2021-
@@ -5664,27 +7046,36 @@ Simon
 
 CHEM-8900 (-) Seminar
 
-Section 91 3.00 LEC 2021-05-10
+Section 91 3.00 LEC
 2021-
-08-11 Online
+05-10
 
+2021-
+08-11
+
+Online
 Rondeau-
 Gagne,
 Simon
 
 CHEM-8970 (-) Master's Thesis
 
-Section 91 12.00 LEC 2021-05-10
+Section 91 12.00 LEC
 2021-
-08-11 Online
+05-10
 
+2021-
+08-11
+
+Online
 Rondeau-
 Gagne,
 Simon
 
 CHEM-9900 (-) The Research Proposal
 
-Section 91 LEC 2021-
+Section 91 LEC
+2021-
 05-10
 
 2021-
@@ -5697,10 +7088,14 @@ Simon
 
 CHEM-9980 (-) Doctoral Dissertation
 
-Section 91 12.00 LEC 2021-05-10
+Section 91 12.00 LEC
 2021-
-08-11 Online
+05-10
 
+2021-
+08-11
+
+Online
 Rondeau-
 Gagne,
 Simon
@@ -5708,39 +7103,58 @@ Simon
 Computer Science
 
 COMP-1000 (-) Key Concepts in Computer Scie
-Section 1 3.00 LEC TTH 11:30 AM 12:50 PM
+Section 1 3.00 LEC TTH 11:30 AM
+
+12:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Jiang,
 Shaoquan
 
 COMP-1000 (-) Laboratory
-Section 51 LAB T 01:00 PM 02:20 PM
+Section 51 LAB T 01:00 PM
+
+02:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
 
-Section 52 LAB TH 01:00 PM 02:20 PM
+Online TBA
+
+Section 52 LAB TH 01:00 PM
+02:20 
+PM
+
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
 
-Section 53 LAB T 02:30 PM 03:50 PM
+Online TBA
+
+Section 53 LAB T 02:30 PM
+03:50 
+PM
+
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 
 
@@ -5772,7 +7186,9 @@ PM
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 COMP-1047 (-) Computer Concepts - End-Users
 Section 91 3.00 LEC
@@ -5796,8 +7212,9 @@ AM
 05-10
 
 2021-
-06-21 Online
+06-21
 
+Online
 Ngom,
 Alioune
 
@@ -5811,7 +7228,9 @@ AM
 05-10
 
 2021-
-06-21 Online TBA
+06-21
+
+Online TBA
 
 Section 52 LAB TH 08:30 AM
 11:20 
@@ -5821,9 +7240,12 @@ AM
 05-10
 
 2021-
-06-21 Online TBA
+06-21
 
-Section 53 LAB M 11:30 AM 02:20 
+Online TBA
+
+Section 53 LAB M 11:30 AM
+02:20 
 PM
 
 2021-
@@ -5834,7 +7256,8 @@ PM
 
 Online TBA
 
-Section 54 LAB W 11:30 AM 02:20 
+Section 54 LAB W 11:30 AM
+02:20 
 PM
 
 2021-
@@ -5847,30 +7270,25 @@ Online TBA
 
 COMP-1410 (-) Intro: Algorithms & Prog II
 
-Section 1 3.00 LEC MW 10:00 AM 12:50 PM
+Section 1 3.00 LEC MW 10:00 AM
+12:50 
+PM
+
 2021-
 06-28
 
 2021-
-08-10 Online
+08-10
 
+Online
 Saad 
 Ahmed,
 Sherif
 
 COMP-1410 (-) Laboratory
-Section 51 LAB M 01:00 PM 03:50 
+Section 51 LAB M 01:00 PM
 
-PM
-2021-
-06-28
-
-2021-
-08-10
-
-Online TBA
-
-Section 52 LAB W 01:00 PM 03:50 
+03:50 
 PM
 
 2021-
@@ -5881,24 +7299,48 @@ PM
 
 Online TBA
 
-Section 53 LAB M 05:30 PM 08:20 PM
+Section 52 LAB W 01:00 PM
+03:50 
+PM
+
 2021-
 06-28
 
 2021-
-08-10 Online TBA
+08-10
 
-Section 54 LAB W 05:30 PM 08:20 PM
+Online TBA
+
+Section 53 LAB M 05:30 PM
+08:20 
+PM
+
 2021-
 06-28
 
 2021-
-08-10 Online TBA
+08-10
+
+Online TBA
+
+Section 54 LAB W 05:30 PM
+08:20 
+PM
+
+2021-
+06-28
+
+2021-
+08-10
+
+Online TBA
 
 COMP-2057 (-) Introduction to the Internet
-Section 91 3.00 LEC 2021-
+Section 91 3.00 LEC
 
+2021-
 05-10
+
 2021-
 08-11
 
@@ -5906,7 +7348,10 @@ Al Mamoori,
 Saja K
 
 COMP-2067 (-) Programming for Beginners
-Section 91 3.00 LEC 2021-05-10
+Section 91 3.00 LEC
+
+2021-
+05-10
 
 2021-
 08-11
@@ -5915,13 +7360,21 @@ Chitte,Sanjay
 P
 
 COMP-2077 (-) Problem Solving&Info: Internet
-Section 91 3.00 LEC 2021-05-10
+Section 91 3.00 LEC
 
 2021-
-08-11 Kobti,Ziad
+05-10
+
+2021-
+08-11
+
+Kobti,Ziad
 
 COMP-2097 (-) Soc Media&Mobile Tech-End User
-Section 91 3.00 LEC 2021-05-10
+Section 91 3.00 LEC
+
+2021-
+05-10
 
 2021-
 08-11
@@ -5930,14 +7383,18 @@ Moradian
 Zadeh,Pooya
 
 COMP-2120 (-) Obj-Orientd Progrmg Using Java
-Section 1 3.00 LEC TTH 04:00 PM 05:20 PM
+Section 1 3.00 LEC TTH 04:00 PM
+
+05:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Samet,
 Saeed
 
@@ -5973,7 +7430,9 @@ PM
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 Section 52 LAB TH 05:30 PM
 06:50 
@@ -5987,7 +7446,8 @@ PM
 
 Online TBA
 
-Section 53 LAB T 07:00 PM 08:20 
+Section 53 LAB T 07:00 PM
+08:20 
 PM
 
 2021-
@@ -6027,9 +7487,11 @@ Mukhopadhy
 ay,Asish
 
 COMP-2540 (-) Laboratory
-Section 51 LAB M 01:00 PM 02:20 
+Section 51 LAB M 01:00 PM
 
+02:20 
 PM
+
 2021-
 05-10
 
@@ -6038,31 +7500,48 @@ PM
 
 Online TBA
 
-Section 52 LAB W 01:00 PM 02:20 PM
+Section 52 LAB W 01:00 PM
+02:20 
+PM
+
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
 
-Section 53 LAB M 02:30 PM 03:50 PM
+Online TBA
+
+Section 53 LAB M 02:30 PM
+03:50 
+PM
+
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
 
-Section 54 LAB W 02:30 PM 03:50 PM
+Online TBA
+
+Section 54 LAB W 02:30 PM
+03:50 
+PM
+
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 COMP-2560 (-) System Programming
-Section 1 3.00 LEC MW 04:00 PM 05:20 
+Section 1 3.00 LEC MW 04:00 PM
 
+05:20 
 PM
+
 2021-
 05-10
 
@@ -6072,18 +7551,9 @@ PM
 Online Wu,Dan
 
 COMP-2560 (-) Laboratory
-Section 51 LAB M 05:30 PM 06:50 
+Section 51 LAB M 05:30 PM
 
-PM
-2021-
-05-10
-
-2021-
-08-11
-
-Online TBA
-
-Section 52 LAB W 05:30 PM 06:50 
+06:50 
 PM
 
 2021-
@@ -6094,66 +7564,114 @@ PM
 
 Online TBA
 
-Section 53 LAB M 07:00 PM 08:20 PM
+Section 52 LAB W 05:30 PM
+06:50 
+PM
+
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
 
-Section 54 LAB W 07:00 PM 08:20 PM
+Online TBA
+
+Section 53 LAB M 07:00 PM
+08:20 
+PM
+
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
+
+Section 54 LAB W 07:00 PM
+08:20 
+PM
+
+2021-
+05-10
+
+2021-
+08-11
+
+Online TBA
 
 COMP-2650 (-) Comp Architre I:Digital Design
-Section 1 3.00 LEC TTH 05:30 PM 06:50 
+Section 1 3.00 LEC TTH 05:30 PM
 
+06:50 
 PM
+
 2021-
 05-10
 
 2021-
 08-11
 
-Online Alkhateeb,
+Online
+Alkhateeb,
 Abedalrhman
 
 COMP-2650 (-) Laboratory
-Section 51 LAB T 07:00 PM 08:20 PM
+Section 51 LAB T 07:00 PM
+
+08:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
 
-Section 52 LAB TH 07:00 PM 08:20 PM
+Online TBA
+
+Section 52 LAB TH 07:00 PM
+08:20 
+PM
+
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
 
-Section 53 LAB F 11:30 AM 12:50 PM
+Online TBA
+
+Section 53 LAB F 11:30 AM
+12:50 
+PM
+
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
 
-Section 54 LAB F 01:00 PM 02:20 PM
+Online TBA
+
+Section 54 LAB F 01:00 PM
+02:20 
+PM
+
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 COMP-2707 (-) Advanced Website Design
 
-Section 91 3.00 LEC 2021-05-10
+Section 91 3.00 LEC
+2021-
+05-10
+
 2021-
 08-11
 
@@ -6162,10 +7680,15 @@ Mahreen
 Nasir
 
 COMP-2980 (-) Co-op Work Term I
-Section 1 3.00 LEC 2021-05-10
+Section 1 3.00 LEC
 
 2021-
-08-11 Online TBA
+05-10
+
+2021-
+08-11
+
+Online TBA
 
 
 
@@ -6201,9 +7724,11 @@ Section 91 3.00 LEC
 Kobti,Ziad
 
 COMP-3220 (-) Obj-Oriented Software Anal/Des
-Section 1 3.00 LEC TTH 10:00 AM 11:20 
+Section 1 3.00 LEC TTH 10:00 AM
 
+11:20 
 AM
+
 2021-
 05-10
 
@@ -6213,22 +7738,27 @@ AM
 Online Yuan,Xiaobu
 
 COMP-3300 (-) Operating Systems Fundamentals
-Section 1 3.00 LEC TTH 01:00 PM 02:20 
+Section 1 3.00 LEC TTH 01:00 PM
 
+02:20 
 PM
+
 2021-
 05-10
 
 2021-
 08-11
 
-Online Alhadidi,
+Online
+Alhadidi,
 Dima
 
 COMP-3340 (-) World Wide Web Info System Dev
-Section 1 3.00 LEC W 07:00 PM 09:50 
+Section 1 3.00 LEC W 07:00 PM
 
+09:50 
 PM
+
 2021-
 05-10
 
@@ -6239,7 +7769,8 @@ Online TBA
 
 COMP-3670 (-) Computer Networks
 
-Section 1 3.00 LEC F 10:00 AM 12:50 
+Section 1 3.00 LEC F 10:00 AM
+12:50 
 PM
 
 2021-
@@ -6254,76 +7785,120 @@ Ahmed,
 Sherif
 
 COMP-3750 (-) Selected Topics
-Section 1 3.00 LEC 2021-05-10
+Section 1 3.00 LEC
 
 2021-
-08-11 Online Kobti,Ziad
+05-10
+
+2021-
+08-11
+
+Online Kobti,Ziad
 
 COMP-3980 (-) Co-op Work Term II
-Section 1 3.00 LEC 2021-05-10
+Section 1 3.00 LEC
 
 2021-
-08-11 Online TBA
+05-10
+
+2021-
+08-11
+
+Online TBA
 
 COMP-4970 (-) Co-op Work Term III
-Section 1 3.00 LEC 2021-05-10
+Section 1 3.00 LEC
 
 2021-
-08-11 Online Yuan,Xiaobu
-
-COMP-4980 (-) Co-op Work Term IV
-Section 1 3.00 LEC 2021-
-
 05-10
+
 2021-
 08-11
 
 Online Yuan,Xiaobu
 
-Section 2 3.00 LEC 2021-05-10
+COMP-4980 (-) Co-op Work Term IV
+Section 1 3.00 LEC
+
 2021-
-08-11 Online Yuan,Xiaobu
+05-10
+
+2021-
+08-11
+
+Online Yuan,Xiaobu
+
+Section 2 3.00 LEC
+2021-
+05-10
+
+2021-
+08-11
+
+Online Yuan,Xiaobu
 
 COMP-4990B (-) Project Mgmt: Techniques&Tools
-Section 1 3.00 LEC 2021-05-10
+Section 1 3.00 LEC
 
 2021-
-08-11 Online Kobti,Ziad
+05-10
+
+2021-
+08-11
+
+Online Kobti,Ziad
 
 COMP-8010 (-) Work Term
-Section 1 3.00 LEC 2021-05-10
+Section 1 3.00 LEC
 
 2021-
-08-11 Online
+05-10
 
+2021-
+08-11
+
+Online
 Ngom,
 Alioune
 
-Section 2 3.00 LEC 2021-05-10
+Section 2 3.00 LEC
 2021-
-08-11 Online
+05-10
 
+2021-
+08-11
+
+Online
 Ngom,
 Alioune
 
 COMP-8110 (-) Advanced Software Engineering
-Section 1 Full 3.00 LEC M 10:00 AM 12:50 PM
+Section 1 Full 3.00 LEC M 10:00 AM
+
+12:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online Yuan,Xiaobu
+08-11
+
+Online Yuan,Xiaobu
 
 COMP-8117 (-) Advanced Software Eng. Topics
-Section 1 3.00 LEC M 11:30 AM 02:20 PM
+Section 1 3.00 LEC M 11:30 AM
+
+02:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Yacoub,
 Aznam
 
@@ -6357,8 +7932,9 @@ PM
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Yacoub,
 Aznam
 
@@ -6375,16 +7951,19 @@ PM
 Online TBA
 
 COMP-8157 (-) Advanced Database Topics
-Section 1 3.00 LEC M 08:30 AM 11:20 
+Section 1 3.00 LEC M 08:30 AM
 
+11:20 
 AM
+
 2021-
 05-10
 
 2021-
 08-11
 
-Online Selvarajah,
+Online
+Selvarajah,
 Kalyani
 
 Section 2 3.00 LEC W 08:30 AM
@@ -6395,8 +7974,9 @@ AM
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Selvarajah,
 Kalyani
 
@@ -6410,25 +7990,30 @@ PM
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Abboud,
 Victoria M
 
 COMP-8347 (-) Internet Appl/ Distributed Sys
-Section 1 3.00 LEC T 01:00 PM 03:50 
+Section 1 3.00 LEC T 01:00 PM
 
+03:50 
 PM
+
 2021-
 05-10
 
 2021-
 08-11
 
-Online Al Mamoori,
+Online
+Al Mamoori,
 Saja K
 
-Section 2 3.00 LEC TH 01:00 PM 03:50 
+Section 2 3.00 LEC TH 01:00 PM
+03:50 
 PM
 
 2021-
@@ -6437,7 +8022,8 @@ PM
 2021-
 08-11
 
-Online Al Mamoori,
+Online
+Al Mamoori,
 Saja K
 
 COMP-8510 (-) Visual Processing
@@ -6450,55 +8036,83 @@ PM
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Boufama,
 Boubakeur
 
 COMP-8547 (-) Advanced Computing Concepts
-Section 1 3.00 LEC T 08:30 AM 11:20 AM
+Section 1 3.00 LEC T 08:30 AM
+
+11:20 
+AM
 
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
 
-Section 2 3.00 LEC TH 08:30 AM 11:20 AM
+Online TBA
+
+Section 2 3.00 LEC TH 08:30 AM
+11:20 
+AM
+
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
 
-Section 3 3.00 LEC TH 11:30 AM 02:20 PM
+Online TBA
+
+Section 3 3.00 LEC TH 11:30 AM
+02:20 
+PM
+
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 COMP-8567 (-) Advanced Systems Programming
-Section 1 3.00 LEC T 08:30 AM 11:20 AM
+Section 1 3.00 LEC T 08:30 AM
+
+11:20 
+AM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Boufama,
 Boubakeur
 
-Section 2 3.00 LEC TH 08:30 AM 11:20 AM
+Section 2 3.00 LEC TH 08:30 AM
+11:20 
+AM
+
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 COMP-8590 (-) Statistical Learning
-Section 1 Full 3.00 LEC F 08:30 AM 11:20 AM
+Section 1 Full 3.00 LEC F 08:30 AM
+
+11:20 
+AM
 
 2021-
 05-10
@@ -6510,51 +8124,76 @@ Ngom,
 Alioune
 
 COMP-8677 (-) Networking and Data Security
-Section 1 3.00 LEC M 01:00 PM 03:50 PM
+Section 1 3.00 LEC M 01:00 PM
+
+03:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Jiang,
 Shaoquan
 
-Section 2 3.00 LEC W 01:00 PM 03:50 PM
+Section 2 3.00 LEC W 01:00 PM
+03:50 
+PM
+
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Jiang,
 Shaoquan
 
 COMP-8900 (-) Directed Special Studies
-Section 1 Full 3.00 LEC 2021-05-10
+Section 1 Full 3.00 LEC
 
 2021-
-08-11 Online
+05-10
 
+2021-
+08-11
+
+Online
 Samet,
 Saeed
 
-Section 2 Full 3.00 LEC 2021-05-10
+Section 2 Full 3.00 LEC
 2021-
-08-11 Online
+05-10
 
+2021-
+08-11
+
+Online
 Moradian 
 Zadeh,Pooya
 
-Section 3 Full 3.00 LEC 2021-05-10
+Section 3 Full 3.00 LEC
 2021-
-08-11 Kobti,Ziad
+05-10
 
-Section 4 Full 3.00 LEC 2021-05-10
 2021-
-08-11 Online
+08-11
 
+Kobti,Ziad
+
+Section 4 Full 3.00 LEC
+2021-
+05-10
+
+2021-
+08-11
+
+Online
 Rueda,Luis 
 G.
 
@@ -6585,8 +8224,9 @@ Section 5 Full 3.00 LEC
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Jaekel,
 Arunita
 
@@ -6602,26 +8242,32 @@ Ngom,
 Alioune
 
 COMP-8967 (-) Internship Project I
-Section 1 3.00 LEC F 08:30 AM 11:20 
+Section 1 3.00 LEC F 08:30 AM
 
+11:20 
 AM
+
 2021-
 05-10
 
 2021-
 08-11
 
-Online Selvarajah,
+Online
+Selvarajah,
 Kalyani
 
 COMP-8970 (-) M.Sc. Thesis
-Section 1 12.00 LEC 2021-
+Section 1 12.00 LEC
 
+2021-
 05-10
+
 2021-
 08-11
 
-Online Ngom,
+Online
+Ngom,
 Alioune
 
 COMP-8977 (-) Internship/Project II
@@ -6631,21 +8277,30 @@ Section 3 3.00 LEC
 05-10
 
 2021-
-08-11 Online Wu,Dan
+08-11
+
+Online Wu,Dan
 
 COMP-9980 (-) Doctoral Dissertation Research
-Section 1 12.00 LEC 2021-05-10
+Section 1 12.00 LEC
 
 2021-
-08-11 Online
+05-10
 
+2021-
+08-11
+
+Online
 Ngom,
 Alioune
 
 Dept of Biomedical Sciences
 
 BIOM-2021 (-) Laboratory
-Section 51 Full LAB MWF 09:00 AM 11:20 AM
+Section 51 Full LAB MWF 09:00 AM
+
+11:20 
+AM
 
 2021-
 05-10
@@ -6656,7 +8311,10 @@ Section 51 Full LAB MWF 09:00 AM 11:20 AM
 Mcnorton,
 Sara
 
-Section 52 Full LAB MWF 01:00 PM 03:20 PM
+Section 52 Full LAB MWF 01:00 PM
+03:20 
+PM
+
 2021-
 05-10
 
@@ -6667,9 +8325,11 @@ Mcnorton,
 Sara
 
 BIOM-2021 (-) Human Anatomy
-Section 95 Full 3.00 LEC 2021-
+Section 95 Full 3.00 LEC
 
+2021-
 05-10
+
 2021-
 08-11
 
@@ -6694,7 +8354,10 @@ Latvenas,
 Jurate
 
 ECON-1110 (-) Introduction to Economics II
-Section 95 3.00 LEC MW 11:30 AM 02:20 PM
+Section 95 3.00 LEC MW 11:30 AM
+
+02:20 
+PM
 
 2021-
 05-10
@@ -6706,24 +8369,37 @@ Latvenas,
 Jurate
 
 ECON-8260 (-) Business Communication
-Section 3 3.00 LEC T 05:00 PM 07:50 PM
+Section 3 3.00 LEC T 05:00 PM
+
+07:50 
+PM
 
 2021-
 05-10
 
 2021-
-06-21 Brunet,Tim A
+06-21
+
+Brunet,Tim A
 
 ECON-8960 (-) Major Paper
-Section 91 3.00 LEC 2021-05-10
+Section 91 3.00 LEC
 
 2021-
-08-11 Online TBA
+05-10
+
+2021-
+08-11
+
+Online TBA
 
 Faculty of Science
 
 FRSC-1107 (-) Intro Crime Scene Investig
-Section 91 3.00 LEC 2021-05-10
+Section 91 3.00 LEC
+
+2021-
+05-10
 
 2021-
 08-11
@@ -6754,22 +8430,27 @@ Date
 Bldg/Room Professor
 
 FRSC-3105 (-) Forensic Identification
-Section 1 3.00 LEC WF 09:30 AM 12:20 
+Section 1 3.00 LEC WF 09:30 AM
 
+12:20 
 PM
+
 2021-
 05-10
 
 2021-
 06-21
 
-Online Scoyne,Gary
+Online
+Scoyne,Gary
 M
 
 FRSC-4002 (-) Practicum in Forensic Sciences
-Section 91 3.00 LEC 2021-
+Section 91 3.00 LEC
 
+2021-
 05-10
+
 2021-
 08-11
 
@@ -6777,9 +8458,11 @@ Cioppa,Maria
 T
 
 SCIE-3800 (-) Service Learning
-Section 1 3.00 LEC 2021-
+Section 1 3.00 LEC
 
+2021-
 05-10
+
 2021-
 08-11
 
@@ -6787,16 +8470,23 @@ Bondy,
 Michelle E
 
 SCIE-3900 (-) Undergrad Research Experience
-Section 1 3.00 LEC 2021-05-10
+Section 1 3.00 LEC
 
 2021-
-08-11 Online
+05-10
 
+2021-
+08-11
+
+Online
 Bondy,
 Michelle E
 
 SCIE-3990 (-) Internship
-Section 1 3.00 LEC 2021-05-10
+Section 1 3.00 LEC
+
+2021-
+05-10
 
 2021-
 08-11
@@ -6819,13 +8509,21 @@ Barrette-Ng,
 Isabelle
 
 BIOL-2040 (-) Human Physiology I
-Section 91 3.00 LEC 2021-05-10
+Section 91 3.00 LEC
 
 2021-
-08-11 TBA
+05-10
+
+2021-
+08-11
+
+TBA
 
 BIOL-8018 (-) Techniques: Molecular Biology
-Section 91 3.00 LEC 2021-06-28
+Section 91 3.00 LEC
+
+2021-
+06-28
 
 2021-
 08-10
@@ -6834,46 +8532,70 @@ Karpowicz,
 Phillip  A
 
 BIOL-8970 (-) Thesis Research
-Section 1 12.00 LEC 2021-05-10
+Section 1 12.00 LEC
 
 2021-
-08-11 Online TBA
+05-10
+
+2021-
+08-11
+
+Online TBA
 
 BIOL-9980 (-) Dissertation Research
-Section 1 12.00 LEC 2021-05-10
+Section 1 12.00 LEC
 
 2021-
-08-11 Online TBA
+05-10
+
+2021-
+08-11
+
+Online TBA
 
 Mathematics and Statistics
 
 ACSC-8040 (-) Derivatives Markets II
-Section 1 3.00 LEC MW 02:30 PM 03:50 PM
+Section 1 3.00 LEC MW 02:30 PM
+
+03:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 ACSC-8070 (-) Short Term Actuarial Models
-Section 1 3.00 LEC TTH 02:30 PM 03:50 PM
+Section 1 3.00 LEC TTH 02:30 PM
+
+03:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 ACSC-8200 (-) Regression and Time Series
-Section 1 3.00 LEC W 10:00 AM 12:50 PM
+Section 1 3.00 LEC W 10:00 AM
+
+12:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Mian,Rajibul 
 R
 
@@ -6900,16 +8622,19 @@ Date
 Bldg/Room Professor
 
 MATH-1020 (-) Mathematical Foundations
-Section 1 3.00 LEC MW 02:30 PM 03:20 
+Section 1 3.00 LEC MW 02:30 PM
 
+03:20 
 PM
+
 2021-
 05-10
 
 2021-
 08-11
 
-Online Sarker,
+Online
+Sarker,
 Animesh
 
 MW 03:30 PM
@@ -6920,8 +8645,9 @@ PM
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Sarker,
 Animesh
 
@@ -6935,9 +8661,12 @@ PM
 05-10
 
 2021-
-08-11 Online Wang,Jing
+08-11
 
-F 02:30 PM 03:20 
+Online Wang,Jing
+
+F 02:30 PM
+03:20 
 PM
 
 2021-
@@ -6958,9 +8687,12 @@ PM
 05-10
 
 2021-
-08-11 Online Wang,Jing
+08-11
 
-F 12:30 PM 01:20 
+Online Wang,Jing
+
+F 12:30 PM
+01:20 
 PM
 
 2021-
@@ -6972,14 +8704,18 @@ PM
 Online Wang,Jing
 
 MATH-1980 (-) Mathematics for Business
-Section 1 3.00 LEC MW 11:30 AM 12:50 PM
+Section 1 3.00 LEC MW 11:30 AM
+
+12:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Battaglia,
 John
 
@@ -6991,107 +8727,150 @@ PM
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Battaglia,
 John
 
 MATH-2780 (-) Vector Calculus
-Section 1 3.00 LEC TTH 10:00 AM 11:20 AM
+Section 1 3.00 LEC TTH 10:00 AM
+
+11:20 
+AM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Mansoora,
 Abida
 
-F 10:30 AM 11:20 AM
+F 10:30 AM
+11:20 
+AM
+
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Mansoora,
 Abida
 
 MATH-2790 (-) Differential Equations
-Section 1 3.00 LEC TTH 11:30 AM 12:50 PM
+Section 1 3.00 LEC TTH 11:30 AM
+
+12:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Mansoora,
 Abida
 
-F 11:30 AM 12:20 PM
+F 11:30 AM
+12:20 
+PM
+
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Mansoora,
 Abida
 
 MATH-8960 (-) Major Paper
-Section 1 3.00 LEC 2021-05-10
+Section 1 3.00 LEC
 
 2021-
-08-11 Online
+05-10
 
+2021-
+08-11
+
+Online
 Borisov,
 Dennis
 
 MATH-8970 (-) Thesis
-Section 1 6.00 LEC 2021-05-10
+Section 1 6.00 LEC
 
 2021-
-08-11 Online
+05-10
 
+2021-
+08-11
+
+Online
 Borisov,
 Dennis
 
 MATH-9980 (-) Dissertation (Phd)
-Section 1 12.00 LEC 2021-05-10
+Section 1 12.00 LEC
 
 2021-
-08-11 Online
+05-10
 
+2021-
+08-11
+
+Online
 Borisov,
 Dennis
 
 STAT-2910 (-) Statistics for the Sciences
-Section 1 3.00 LEC TTH 01:00 PM 02:20 PM
+Section 1 3.00 LEC TTH 01:00 PM
+
+02:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online Azad,Kazi
+08-11
 
-F 01:30 PM 02:20 PM
+Online Azad,Kazi
+
+F 01:30 PM
+02:20 
+PM
+
 2021-
 05-10
 
 2021-
-08-11 Online Azad,Kazi
+08-11
+
+Online Azad,Kazi
 
 STAT-4200 (-) Actuarial Regression and Time
-Section 1 3.00 LEC W 10:00 AM 12:50 PM
+Section 1 3.00 LEC W 10:00 AM
+
+12:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Mian,Rajibul 
 R
 
@@ -7118,9 +8897,11 @@ Date
 Bldg/Room Professor
 
 STAT-4410 (-) Stochastic Processes
-Section 1 Full 3.00 LEC 2021-
+Section 1 Full 3.00 LEC
 
+2021-
 05-10
+
 2021-
 08-11
 
@@ -7128,40 +8909,52 @@ Hlynka,
 Myron
 
 STAT-8960 (-) Major Paper
-Section 1 3.00 LEC 2021-
+Section 1 3.00 LEC
 
+2021-
 05-10
+
 2021-
 08-11
 
-Online Borisov,
+Online
+Borisov,
 Dennis
 
 STAT-8970 (-) Thesis (M.Sc.)
-Section 1 6.00 LEC 2021-
+Section 1 6.00 LEC
 
+2021-
 05-10
+
 2021-
 08-11
 
-Online Borisov,
+Online
+Borisov,
 Dennis
 
 STAT-9980 (-) Dissertation (Ph.D.)
-Section 1 12.00 LEC 2021-05-10
+Section 1 12.00 LEC
 
 2021-
-08-11 Online
+05-10
 
+2021-
+08-11
+
+Online
 Borisov,
 Dennis
 
 Physics
 
 PHYS-1000 (-) Introduction to Astronomy I
-Section 91 3.00 LEC 2021-
+Section 91 3.00 LEC
 
+2021-
 05-10
+
 2021-
 08-11
 
@@ -7177,26 +8970,37 @@ PM
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Pantea,
 Mircea
 
 PHYS-1410 (-) Laboratory
-Section 51 LAB T 02:30 PM 05:20 PM
+Section 51 LAB T 02:30 PM
+
+05:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
 
-Section 52 LAB TH 08:30 AM 11:20 AM
+Online TBA
+
+Section 52 LAB TH 08:30 AM
+11:20 
+AM
+
 2021-
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 Section 53 LAB W 02:30 PM
 05:20 
@@ -7206,7 +9010,9 @@ PM
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 Section 54 LAB T 02:30 PM
 05:20 
@@ -7216,7 +9022,9 @@ PM
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 Section 55 LAB W 08:30 AM
 11:20 
@@ -7226,31 +9034,53 @@ AM
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 PHYS-2980 (-) Co-op Work Term I
-Section 1 3.00 LEC 2021-05-10
+Section 1 3.00 LEC
 
 2021-
-08-11 Online TBA
+05-10
+
+2021-
+08-11
+
+Online TBA
 
 PHYS-3980 (-) Co-op Work Term II
-Section 91 3.00 LEC 2021-05-10
+Section 91 3.00 LEC
 
 2021-
-08-11 Online TBA
+05-10
+
+2021-
+08-11
+
+Online TBA
 
 PHYS-4980 (-) Co-op Work Term III
-Section 1 3.00 LEC 2021-05-10
+Section 1 3.00 LEC
 
 2021-
-08-11 Online TBA
+05-10
+
+2021-
+08-11
+
+Online TBA
 
 PHYS-8960 (-) M.Sc. Major Paper
-Section 91 6.00 LEC 2021-05-10
+Section 91 6.00 LEC
 
 2021-
-08-11 Online TBA
+05-10
+
+2021-
+08-11
+
+Online TBA
 
 PHYS-8970 (-) M.Sc. Thesis
 
@@ -7281,7 +9111,9 @@ Section 91 12.00 LEC
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 PHYS-9980 (-) Ph.D. Dissertation
 Section 91 12.00 LEC
@@ -7290,14 +9122,18 @@ Section 91 12.00 LEC
 05-10
 
 2021-
-08-11 TBA
+08-11
+
+TBA
 
 School of the Environment
 
 ESCI-1000 (-) Natural Hazards and Disasters
-Section 91 3.00 LEC 2021-
+Section 91 3.00 LEC
 
+2021-
 05-10
+
 2021-
 08-11
 
@@ -7305,24 +9141,36 @@ Moscicki,
 Mark
 
 ESCI-1020 (-) Intro to Planetary Science
-Section 91 3.00 LEC 2021-05-10
+Section 91 3.00 LEC
 
 2021-
-08-11 Hart,Janet
+05-10
+
+2021-
+08-11
+
+Hart,Janet
 
 ESCI-1100 (-) Intro to Environmental Science
-Section 1 3.00 LEC TTH 10:00 AM 12:00 PM
+Section 1 3.00 LEC TTH 10:00 AM
+
+12:00 
+PM
 
 2021-
 05-10
 
 2021-
-06-21 Online Hart,Janet
+06-21
+
+Online Hart,Janet
 
 ESCI-1130 (-) Atmosphere and Climate
-Section 91 3.00 LEC 2021-
+Section 91 3.00 LEC
 
+2021-
 05-10
+
 2021-
 08-11
 
@@ -7336,10 +9184,15 @@ Section 91 3.00 LEC
 05-10
 
 2021-
-08-11 Baker,Nick
+08-11
+
+Baker,Nick
 
 ESCI-2010 (-) Geology and the Environment
-Section 91 3.00 LEC 2021-05-10
+Section 91 3.00 LEC
+
+2021-
+05-10
 
 2021-
 08-11
@@ -7348,8 +9201,12 @@ Simpson,
 Frank
 
 ESCI-3755 (-) Meth./Great Lakes Geomicrobiol
-Section 1 3.00 LEC MTWTHF 09:00 AM
+Section 1 3.00 LEC
 
+MTWTH
+F
+
+09:00 AM
 04:00 
 PM
 
@@ -7363,7 +9220,10 @@ Weisener,
 Chris G
 
 ESCI-4900B (-) Thesis Research in Environ Sci
-Section 91 3.00 LEC 2021-05-10
+Section 91 3.00 LEC
+
+2021-
+05-10
 
 2021-
 08-11
@@ -7372,28 +9232,48 @@ Gagnon,Joel
 E
 
 ESCI-8800 (-) Graduate Seminar
-Section 91 3.00 LEC 2021-05-10
+Section 91 3.00 LEC
 
 2021-
-08-11 Polat,Ali
+05-10
+
+2021-
+08-11
+
+Polat,Ali
 
 ESCI-8900 (-) Masters Thesis Proposal
-Section 91 3.00 LEC 2021-05-10
+Section 91 3.00 LEC
 
 2021-
-08-11 Polat,Ali
+05-10
+
+2021-
+08-11
+
+Polat,Ali
 
 ESCI-8970 (-) Master's Thesis
-Section 91 12.00 LEC 2021-05-10
+Section 91 12.00 LEC
 
 2021-
-08-11 Polat,Ali
+05-10
+
+2021-
+08-11
+
+Polat,Ali
 
 ESCI-9900 (-) Doctoral Research Proposal
-Section 91 3.00 LEC 2021-05-10
+Section 91 3.00 LEC
 
 2021-
-08-11 Polat,Ali
+05-10
+
+2021-
+08-11
+
+Polat,Ali
 
 
 
@@ -7418,18 +9298,22 @@ Date
 Bldg/Room Professor
 
 ESCI-9980 (-) Doctoral Dissertation
-Section 91 12.00 LEC 2021-
+Section 91 12.00 LEC
 
+2021-
 05-10
+
 2021-
 08-11
 
 Polat,Ali
 
 ESTU-4910 (-) Environ Res/Leadership Exp
-Section 1 3.00 LEC 2021-
+Section 1 3.00 LEC
 
+2021-
 05-10
+
 2021-
 06-21
 
@@ -7453,13 +9337,20 @@ Section 1 12.00 LEC
 05-10
 
 2021-
-08-11 Mckay,Mike
+08-11
+
+Mckay,Mike
 
 GLIE-9980 (-) Doctoral Dissertation
-Section 1 18.00 LEC 2021-05-10
+Section 1 18.00 LEC
 
 2021-
-08-11 Mckay,Mike
+05-10
+
+2021-
+08-11
+
+Mckay,Mike
 
 Odette School of Business
 
@@ -7496,7 +9387,10 @@ Lan,George
 P
 
 ACCT-2520 (-) Accounting Theory I
-Section 91 3.00 LEC TTH 02:30 PM 03:50 PM
+Section 91 3.00 LEC TTH 02:30 PM
+
+03:50 
+PM
 
 2021-
 05-10
@@ -7508,7 +9402,10 @@ Shih,Michael
 S
 
 ACCT-2550 (-) Principles of Managerial Acctg
-Section 91 3.00 LEC M 07:00 PM 09:50 PM
+Section 91 3.00 LEC M 07:00 PM
+
+09:50 
+PM
 
 2021-
 05-10
@@ -7520,19 +9417,26 @@ Orawski,Bill
 M
 
 ACCT-3520 (-) Accounting Theory II
-Section 91 3.00 LEC TTH 02:30 PM 03:50 PM
+Section 91 3.00 LEC TTH 02:30 PM
+
+03:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Lan,George 
 P
 
 ACCT-3560 (-) Adv Mmgt Accounting & Analysis
-Section 91 3.00 LEC T 07:00 PM 09:50 PM
+Section 91 3.00 LEC T 07:00 PM
+
+09:50 
+PM
 
 2021-
 05-10
@@ -7544,7 +9448,10 @@ Orawski,Bill
 M
 
 ACCT-3580 (-) Accounting Information Systems
-Section 91 3.00 LEC MW 04:00 PM 05:20 PM
+Section 91 3.00 LEC MW 04:00 PM
+
+05:20 
+PM
 
 2021-
 05-10
@@ -7556,7 +9463,10 @@ Van Rijt,
 David
 
 ACCT-3600 (-) Auditing I
-Section 91 3.00 LEC MW 08:30 PM 09:50 PM
+Section 91 3.00 LEC MW 08:30 PM
+
+09:50 
+PM
 
 2021-
 05-10
@@ -7606,22 +9516,27 @@ Van Rijt,
 David
 
 ACCT-4570 (-) Advanced Accounting I
-Section 91 3.00 LEC TTH 04:00 PM 05:20 
+Section 91 3.00 LEC TTH 04:00 PM
 
+05:20 
 PM
+
 2021-
 05-10
 
 2021-
 08-11
 
-Online Jones,
+Online
+Jones,
 Donald
 
 ACCT-4590 (-) Adv Topics: Managerial Acctg
-Section 91 Full 3.00 LEC MW 04:00 PM 06:50 
+Section 91 Full 3.00 LEC MW 04:00 PM
 
+06:50 
 PM
+
 2021-
 05-10
 
@@ -7632,9 +9547,11 @@ Sterling,
 Maureen P.
 
 ACCT-4600 (-) Auditing II
-Section 91 3.00 LEC TTH 02:30 PM 03:50 
+Section 91 3.00 LEC TTH 02:30 PM
 
+03:50 
 PM
+
 2021-
 05-10
 
@@ -7645,28 +9562,35 @@ Pathak,
 Jagdish P.
 
 ACCT-4610 (-) Taxation II
-Section 91 3.00 LEC TTH 07:00 PM 08:20 PM
+Section 91 3.00 LEC TTH 07:00 PM
 
-2021-
-05-10
-
-2021-
-08-11 Online
-
-Jones,
-Donald
-
-ACCT-8070 (-) Integration and Team Building
-Section 91 3.00 LEC M 06:00 PM 08:50 
-
+08:20 
 PM
+
 2021-
 05-10
 
 2021-
 08-11
 
-Online Jones,
+Online
+Jones,
+Donald
+
+ACCT-8070 (-) Integration and Team Building
+Section 91 3.00 LEC M 06:00 PM
+
+08:50 
+PM
+
+2021-
+05-10
+
+2021-
+08-11
+
+Online
+Jones,
 Donald
 
 ACCT-8080 (-) Integrative Case Analysis
@@ -7679,20 +9603,25 @@ PM
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Waghorn,
 Ainslie
 
 BSMM-8000A (-) Business Communications
-Section 5 Full 1.50 LEC F 08:00 AM 09:50 AM
+Section 5 Full 1.50 LEC F 08:00 AM
+
+09:50 
+AM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Mcfadyen,
 Trevor
 
@@ -7704,80 +9633,111 @@ PM
 05-10
 
 2021-
-08-11 Online Mullen,Anne
+08-11
+
+Online Mullen,Anne
 
 BSMM-8000B (-) Business Communications
-Section 3 1.50 LEC F 08:00 AM 09:50 AM
+Section 3 1.50 LEC F 08:00 AM
+
+09:50 
+AM
 
 2021-
 05-25
 
 2021-
-07-19 Online Sarkis,Diana
+07-19
 
-Section 4 1.50 LEC F 08:00 AM 09:50 AM
+Online Sarkis,Diana
+
+Section 4 1.50 LEC F 08:00 AM
+09:50 
+AM
+
 2021-
 05-25
 
 2021-
-07-19 Online
+07-19
 
+Online
 Mcfadyen,
 Trevor
 
 BSMM-8110 (-) Acctg Concepts and Techniques
-Section 1 3.00 LEC TTH 08:00 AM 09:50 AM
+Section 1 3.00 LEC TTH 08:00 AM
+
+09:50 
+AM
 
 2021-
 05-25
 
 2021-
-07-19 Online
+07-19
 
+Online
 Savoni,Peter
 C.
 
 BSMM-8120 (-) Finance: Global Perspective
 
-Section 1 Full 3.00 LEC TTH 12:00 PM 01:50 PM
+Section 1 Full 3.00 LEC TTH 12:00 PM
+01:50 
+PM
+
 2021-
 05-25
 
 2021-
-07-19 Online
+07-19
 
+Online
 Mohebshahe
 din,
 Mahmood
 
-Section 2 3.00 LEC TTH 02:00 PM 03:50 PM
+Section 2 3.00 LEC TTH 02:00 PM
+03:50 
+PM
+
 2021-
 05-25
 
 2021-
-07-19 Online
+07-19
 
+Online
 Mohebshahe
 din,
 Mahmood
 
-Section 3 3.00 LEC TTH 02:00 PM 03:50 PM
+Section 3 3.00 LEC TTH 02:00 PM
+03:50 
+PM
+
 2021-
 05-25
 
 2021-
-07-19 Online
+07-19
 
+Online
 Mougoue,
 Mbodja
 
-Section 4 3.00 LEC TTH 02:00 PM 03:50 PM
+Section 4 3.00 LEC TTH 02:00 PM
+03:50 
+PM
+
 2021-
 05-25
 
 2021-
-07-19 Online
+07-19
 
+Online
 Mougoue,
 Mbodja
 
@@ -7813,8 +9773,9 @@ AM
 05-25
 
 2021-
-07-19 Online
+07-19
 
+Online
 Song,Young 
 Ho
 
@@ -7833,16 +9794,19 @@ Song,Young
 Ho
 
 BSMM-8310 (-) International Business
-Section 1 Full 3.00 LEC MW 08:00 AM 09:50 
+Section 1 Full 3.00 LEC MW 08:00 AM
 
+09:50 
 AM
+
 2021-
 05-25
 
 2021-
 07-19
 
-Online Lee,
+Online
+Lee,
 Jonathan
 
 Section 2 Full 3.00 LEC MW 10:00 AM
@@ -7853,8 +9817,9 @@ AM
 05-25
 
 2021-
-07-19 Online
+07-19
 
+Online
 Lee,
 Jonathan
 
@@ -7872,7 +9837,8 @@ Online
 Lee,
 Jonathan
 
-Section 4 3.00 LEC TTH 06:00 PM 07:50 
+Section 4 3.00 LEC TTH 06:00 PM
+07:50 
 PM
 
 2021-
@@ -7881,7 +9847,8 @@ PM
 2021-
 07-19
 
-Online Kosciuw,
+Online
+Kosciuw,
 Reinold F
 
 Section 5 Full 3.00 LEC MW 10:00 AM
@@ -7898,68 +9865,93 @@ Online
 Lee,
 Jonathan
 
-Section 6 Full 3.00 LEC MW 10:00 AM 11:50 AM
+Section 6 Full 3.00 LEC MW 10:00 AM
+11:50 
+AM
+
 2021-
 05-25
 
 2021-
-07-19 Online
+07-19
 
+Online
 Lee,
 Jonathan
 
 BSMM-8340 (-) Leadership and Organ Change
-Section 1 3.00 LEC MW 08:00 PM 09:50 PM
+Section 1 3.00 LEC MW 08:00 PM
+
+09:50 
+PM
 
 2021-
 05-25
 
 2021-
-07-19 Online
+07-19
 
+Online
 Sassine,
 Leann
 
-Section 2 Full 3.00 LEC MW 08:00 PM 09:50 PM
+Section 2 Full 3.00 LEC MW 08:00 PM
+09:50 
+PM
+
 2021-
 05-25
 
 2021-
-07-19 Online
+07-19
 
+Online
 Sassine,
 Leann
 
-Section 3 3.00 LEC MW 08:00 PM 09:50 PM
+Section 3 3.00 LEC MW 08:00 PM
+09:50 
+PM
+
 2021-
 05-25
 
 2021-
-07-19 Online
+07-19
 
+Online
 Sassine,
 Leann
 
 BSMM-8360 (-) Intl Financial Reporting
-Section 1 3.00 LEC TTH 06:00 PM 07:50 PM
+Section 1 3.00 LEC TTH 06:00 PM
+
+07:50 
+PM
 
 2021-
 05-25
 
 2021-
-07-19 Online
+07-19
 
+Online
 Mitra,
 Santanu
 
 BSMM-8370 (-) International Financial Mgmt
-Section 1 Full 3.00 LEC TTH 10:00 AM 11:50 AM
+Section 1 Full 3.00 LEC TTH 10:00 AM
+
+11:50 
+AM
 
 2021-
 05-25
 
 2021-
-07-19 Online An,Yunbi
+07-19
+
+Online An,Yunbi
 
 BSMM-8380 (-) Human Resources Management
 Section 1 3.00 LEC 06:00 PM
@@ -7971,75 +9963,107 @@ PM
 05-25
 
 2021-
-07-19 Online Sarkis,Diana
+07-19
+
+Online Sarkis,Diana
 
 BSMM-8550 (-) Dom Transportn & Intl Shipping
-Section 1 Full 3.00 LEC TTH 02:00 PM 03:50 PM
+Section 1 Full 3.00 LEC TTH 02:00 PM
+
+03:50 
+PM
 
 2021-
 05-25
 
 2021-
-07-19 Online
+07-19
 
+Online
 Higginson,
 James K.
 
-Section 2 3.00 LEC TTH 10:00 AM 11:50 AM
+Section 2 3.00 LEC TTH 10:00 AM
+11:50 
+AM
+
 2021-
 05-25
 
 2021-
-07-19 Online
+07-19
 
+Online
 Higginson,
 James K.
 
-Section 3 Full 3.00 LEC MW 02:00 PM 03:50 PM
+Section 3 Full 3.00 LEC MW 02:00 PM
+03:50 
+PM
+
 2021-
 05-25
 
 2021-
-07-19 Online
+07-19
 
+Online
 Higginson,
 James K.
 
-Section 4 Full 3.00 LEC TTH 10:00 AM 11:50 AM
+Section 4 Full 3.00 LEC TTH 10:00 AM
+11:50 
+AM
+
 2021-
 05-25
 
 2021-
-07-19 Online
+07-19
 
+Online
 Higginson,
 James K.
 
 BSMM-8560 (-) Quant Anal Logstcs/Sup Chn Mgt
-Section 1 3.00 LEC TTH 10:00 AM 11:50 AM
+Section 1 3.00 LEC TTH 10:00 AM
+
+11:50 
+AM
 
 2021-
 05-25
 
 2021-
-07-19 Online Guo,Xiaolei
+07-19
 
-Section 2 3.00 LEC TTH 12:00 PM 01:50 PM
+Online Guo,Xiaolei
+
+Section 2 3.00 LEC TTH 12:00 PM
+01:50 
+PM
+
 2021-
 05-25
 
 2021-
-07-19 Online Guo,Xiaolei
+07-19
+
+Online Guo,Xiaolei
 
 BSMM-8620 (-) Acctg Systems Control & Audit
-Section 1 3.00 LEC TTH 08:00 AM 09:50 AM
+Section 1 3.00 LEC TTH 08:00 AM
+
+09:50 
+AM
 
 2021-
 05-25
 
 2021-
-07-19 Online
+07-19
 
+Online
 Jones,
 Donald
 
@@ -8082,22 +10106,27 @@ Keller,
 Werner H
 
 BSMM-8650 (-) International Management
-Section 1 3.00 LEC 06:00 PM 07:50 
+Section 1 3.00 LEC 06:00 PM
 
+07:50 
 PM
+
 2021-
 05-25
 
 2021-
 07-19
 
-Online Mahajan,
+Online
+Mahajan,
 Ashish
 
 BUSI-8140 (-) Digital Business Systems
-Section 91 3.00 LEC W 09:00 AM 01:00 
+Section 91 3.00 LEC W 09:00 AM
 
+01:00 
 PM
+
 2021-
 06-14
 
@@ -8107,9 +10136,11 @@ PM
 Online Shahi,Shashi
 
 BUSI-8300 (-) Finance for Eng. Managers
-Section 91 3.00 LEC F 06:00 PM 07:20 
+Section 91 3.00 LEC F 06:00 PM
 
+07:20 
 PM
+
 2021-
 05-10
 
@@ -8118,16 +10149,25 @@ PM
 
 Online Abdool,Imran
 
-SA 08:30 AM 12:20 PM
+SA 08:30 AM
+12:20 
+PM
+
 2021-
 05-10
 
 2021-
-08-11 Online Abdool,Imran
+08-11
+
+Online Abdool,Imran
 
 BUSI-8673 (-) Special Topics in Business
-Section 91 3.00 LEC WTHFSA 09:00 AM
+Section 91 3.00 LEC
 
+WTHFS
+A
+
+09:00 AM
 05:00 
 PM
 
@@ -8135,17 +10175,22 @@ PM
 05-10
 
 2021-
-06-21 Online
+06-21
 
+Online
 Waghorn,
 Ainslie
 
 BUSI-8960 (-) Major Paper
-Section 20 6.00 LEC 2021-06-14
+Section 20 6.00 LEC
 
 2021-
-08-17 Online
+06-14
 
+2021-
+08-17
+
+Online
 Walker,Kent 
 R
 
@@ -8164,7 +10209,8 @@ Mahmood
 
 FINA-2710 (-) Business Finance II
 
-Section 91 3.00 LEC 2021-
+Section 91 3.00 LEC
+2021-
 05-10
 
 2021-
@@ -8175,26 +10221,39 @@ din,
 Mahmood
 
 FINA-3710 (-) Intermediate Finance
-Section 91 3.00 LEC MW 10:00 AM 11:20 AM
+Section 91 3.00 LEC MW 10:00 AM
+
+11:20 
+AM
 
 2021-
 05-10
 
 2021-
-06-21 An,Yunbi
+06-21
+
+An,Yunbi
 
 FINA-3730 (-) Working Capital Management
-Section 91 3.00 LEC TH 07:00 PM 09:50 PM
+Section 91 3.00 LEC TH 07:00 PM
+
+09:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online Fenn,Garnet
+08-11
+
+Online Fenn,Garnet
 
 FINA-3790 (-) International Financial Mgmt
 
-Section 91 3.00 LEC 2021-05-10
+Section 91 3.00 LEC
+2021-
+05-10
+
 2021-
 08-11
 
@@ -8203,22 +10262,32 @@ din,
 Mahmood
 
 FINA-4740 (-) Corporate Financial Strategy
-Section 91 3.00 LEC MW 01:00 PM 02:20 PM
+Section 91 3.00 LEC MW 01:00 PM
+
+02:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 An,Yunbi
+08-11
+
+An,Yunbi
 
 MGMT-1000 (-) Business Communications
-Section 91 3.00 LEC M 07:00 PM 09:50 PM
+Section 91 3.00 LEC M 07:00 PM
+
+09:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online Sarkis,Diana
+08-11
+
+Online Sarkis,Diana
 
 
 
@@ -8258,60 +10327,75 @@ Mcfadyen,
 Trevor
 
 MGMT-2430 (-) Human Resources Management
-Section 91 3.00 LEC TH 07:00 PM 09:50 
+Section 91 3.00 LEC TH 07:00 PM
 
+09:50 
 PM
+
 2021-
 05-10
 
 2021-
 08-11
 
-Online Sassine,
+Online
+Sassine,
 Leann
 
 MGMT-3000 (-) Bus Ethics in a Global Context
-Section 91 3.00 LEC M 07:00 PM 09:50 
+Section 91 3.00 LEC M 07:00 PM
 
+09:50 
 PM
+
 2021-
 05-10
 
 2021-
 08-11
 
-Online Keller,
+Online
+Keller,
 Werner H
 
 MGMT-3830 (-) Intl Human Resources Mgmt
-Section 1 3.00 LEC TTH 05:30 PM 06:50 
+Section 1 3.00 LEC TTH 05:30 PM
 
+06:50 
 PM
+
 2021-
 05-10
 
 2021-
 08-11
 
-Online Christmas,
+Online
+Christmas,
 Jaimie
 
 MGMT-4410 (-) Training and Development
-Section 91 3.00 LEC W 07:00 PM 09:50 PM
+Section 91 3.00 LEC W 07:00 PM
+
+09:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Merritt,Jody 
 L
 
 MGMT-8460 (-) Bus Negotiatn &Problem Solving
-Section 91 3.00 LEC TTH 10:00 AM 12:00 
+Section 91 3.00 LEC TTH 10:00 AM
 
+12:00 
 PM
+
 2021-
 06-14
 
@@ -8330,13 +10414,17 @@ PM
 05-10
 
 2021-
-06-21 Online
+06-21
 
+Online
 Robson,
 Karen
 
 MKTG-2320 (-) Mktg Problems-Applns & Decisns
-Section 91 3.00 LEC 2021-06-28
+Section 91 3.00 LEC
+
+2021-
+06-28
 
 2021-
 08-10
@@ -8345,7 +10433,10 @@ Oliveira,
 Celso
 
 MKTG-3390 (-) Logistics & Supply Chain Mgmt
-Section 91 3.00 LEC MW 01:00 PM 03:50 PM
+Section 91 3.00 LEC MW 01:00 PM
+
+03:50 
+PM
 
 2021-
 05-10
@@ -8357,55 +10448,77 @@ Higginson,
 James K.
 
 MKTG-4350 (-) International Marketing
-Section 91 3.00 LEC TTH 02:30 PM 05:20 PM
+Section 91 3.00 LEC TTH 02:30 PM
+
+05:20 
+PM
 
 2021-
 05-10
 
 2021-
-06-21 Online
+06-21
 
+Online
 Georgie,
 Vincent
 
 MKTG-4360 (-) Advertising Management
-Section 91 3.00 LEC 2021-05-10
+Section 91 3.00 LEC
 
 2021-
-06-21 Online
+05-10
 
+2021-
+06-21
+
+Online
 Robson,
 Karen
 
 MSCI-1000 (-) Intro - Business Data Analysis
-Section 91 3.00 LEC W 07:00 PM 09:50 PM
+Section 91 3.00 LEC W 07:00 PM
+
+09:50 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Pulcer,
 Marcin
 
 MSCI-2020 (-) Business Data Analysis
-Section 91 3.00 LEC MW 04:00 PM 05:20 PM
+Section 91 3.00 LEC MW 04:00 PM
+
+05:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online Shahi,Shashi
+08-11
+
+Online Shahi,Shashi
 
 MSCI-2130 (-) Intro to Mgmt Info Systems
-Section 91 3.00 LEC MW 04:00 PM 05:20 PM
+Section 91 3.00 LEC MW 04:00 PM
+
+05:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Shahi,Shashi
+08-11
+
+Shahi,Shashi
 
 
 
@@ -8439,8 +10552,9 @@ PM
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Hassanzade
 h,
 Mohammad
@@ -8455,8 +10569,9 @@ PM
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Azimian,
 Alireza
 
@@ -8470,19 +10585,24 @@ PM
 05-10
 
 2021-
-08-11 Online TBA
+08-11
+
+Online TBA
 
 STEN-1000 (-) Introduction to Business
-Section 91 3.00 LEC T 07:00 PM 09:50 
+Section 91 3.00 LEC T 07:00 PM
 
+09:50 
 PM
+
 2021-
 05-10
 
 2021-
 08-11
 
-Online Abdulhussei
+Online
+Abdulhussei
 n,Ali
 
 STEN-2050 (-) B. Comm. Co-op Work Term I
@@ -8492,10 +10612,15 @@ Section 1 Full 3.00 LEC
 05-10
 
 2021-
-08-11 Online Baki,Fazle F.
+08-11
+
+Online Baki,Fazle F.
 
 STEN-2900 (-) Fundamentals of Entrepreneur
-Section 91 3.00 LEC 2021-05-10
+Section 91 3.00 LEC
+
+2021-
+05-10
 
 2021-
 06-21
@@ -8504,13 +10629,21 @@ Lee,
 Jonathan
 
 STEN-3050 (-) B. Comm. Co-op Work Term II
-Section 1 Full 3.00 LEC 2021-05-10
+Section 1 Full 3.00 LEC
 
 2021-
-08-11 Online Baki,Fazle F.
+05-10
+
+2021-
+08-11
+
+Online Baki,Fazle F.
 
 STEN-3930 (-) International Business
-Section 91 3.00 LEC 2021-05-10
+Section 91 3.00 LEC
+
+2021-
+05-10
 
 2021-
 06-21
@@ -8519,9 +10652,11 @@ Lee,
 Jonathan
 
 STEN-3970 (-) Law & Business Administration
-Section 91 Full 3.00 LEC MW 05:30 PM 06:50 
+Section 91 Full 3.00 LEC MW 05:30 PM
 
+06:50 
 PM
+
 2021-
 05-10
 
@@ -8531,47 +10666,71 @@ PM
 Online Allen,Craig J.
 
 STEN-4050 (-) B. Comm. Co-op Work Term III
-Section 1 3.00 LEC 2021-05-10
+Section 1 3.00 LEC
 
 2021-
-08-11 Online Baki,Fazle F.
+05-10
+
+2021-
+08-11
+
+Online Baki,Fazle F.
 
 STEN-4980 (-) Strategic Management
-Section 91 Full 3.00 LEC TTH 04:00 PM 05:20 PM
+Section 91 Full 3.00 LEC TTH 04:00 PM
+
+05:20 
+PM
 
 2021-
 05-10
 
 2021-
-08-11 Online Mao,Tony C
+08-11
 
-Section 92 3.00 LEC T 07:00 PM 09:50 PM
+Online Mao,Tony C
+
+Section 92 3.00 LEC T 07:00 PM
+09:50 
+PM
+
 2021-
 05-10
 
 2021-
-08-11 Online
+08-11
 
+Online
 Wang,
 Huanglin
 
 STEN-8120 (-) Project Management II
-Section 91 3.00 LEC M 09:00 AM 01:00 PM
+Section 91 3.00 LEC M 09:00 AM
+
+01:00 
+PM
 
 2021-
 06-14
 
 2021-
-08-17 Online Mao,Tony C
+08-17
+
+Online Mao,Tony C
 
 STEN-8980 (-) Strategic Management for MBA
-Section 91 3.00 LEC F 09:00 AM 01:00 PM
+Section 91 3.00 LEC F 09:00 AM
+
+01:00 
+PM
 
 2021-
 06-14
 
 2021-
-08-17 Online Kerr,Gerry J.
+08-17
+
+Online Kerr,Gerry J.
 
 
 
