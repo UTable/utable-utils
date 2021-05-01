@@ -323,7 +323,7 @@ class DictToDB:
     def make_connection(self, db_id):
         if db_id == DBs['psql']:
             self.conn = psycopg2.connect(
-                dbname='utable_beta', 
+                dbname='utable', 
                 host='localhost', 
                 port='5432', 
                 user='utable_auth', 
