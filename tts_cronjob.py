@@ -11,8 +11,6 @@
 import os
 import sys
 
-import tts_env as env
-
 # get_newest_date: gets the newest date in the dates json list, and returns it
 def get_newest_date():
     from datetime import datetime
