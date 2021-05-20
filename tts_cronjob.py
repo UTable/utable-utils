@@ -38,10 +38,11 @@ def script_glue():
 
     os.chdir('web-fetch')
     print("current working directory is: ", os.getcwd())
-    os.system(f'{env.PYTHON_VER} checkdate.py')
+    os.system(f'python checkdate.py')
     os.chdir('../pdf-mod')
-    os.system(f"{env.PYTHON_VER} pdf2txt.py {date}.pdf > ../local-data/{date}.txt")
-    os.system(f"{env.PYTHON_VER} tts.py {date}.txt -gd -dj -sd -c")
+    os.system(f"python pdf2txt.py {date}.pdf > ../local-data/{date}.txt")
+    os.chdir('../../backend/')
+    os.system(f"python manage.py pdf-scrape --filename={date}")
 
 if __name__ == "__main__":
     script_glue()
