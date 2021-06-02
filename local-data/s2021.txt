@@ -44,9 +44,9 @@ Note: These applications must be submitted by the end of the fourth week of clas
 courses).
 
 InterSummer 2021 Course Offerings
-Monday, April 19, 2021
+Monday, May 17, 2021
 
-02:30:45 AM
+02:30:42 AM
 Page 1
 
 Course Section Credits Act Days Start 
@@ -81,7 +81,7 @@ Boulos,
 Pierre J
 
 GART-1500 (-) Effective Writing I
-Section 1 3.00 LEC
+Section 1 Full 3.00 LEC
 
 2021-
 05-10
@@ -93,7 +93,7 @@ Reaume,
 Marissa
 
 GART-1510 (-) Effective Writing II
-Section 1 3.00 LEC
+Section 1 Full 3.00 LEC
 
 2021-
 06-28
@@ -116,7 +116,23 @@ PM
 2021-
 08-10
 
-Online TBA
+Online
+Macisaac,
+Janet
+
+Section 31 3.00 LEC MW 07:00 PM
+09:50 
+PM
+
+2021-
+06-28
+
+2021-
+08-10
+
+Online
+Hoyda,
+Joseph J
 
 SOSC-2500 (-) Laboratory
 Section 51 Full LAB T 10:00 AM
@@ -130,7 +146,7 @@ AM
 2021-
 08-10
 
-TBA
+Online TBA
 
 Section 52 Full LAB T 11:00 AM
 12:00 
@@ -142,9 +158,9 @@ PM
 2021-
 08-10
 
-TBA
+Online TBA
 
-Section 53 Full LAB TH 09:30 AM
+Section 53 LAB TH 09:30 AM
 10:30 
 AM
 
@@ -154,9 +170,9 @@ AM
 2021-
 08-10
 
-TBA
+Online TBA
 
-Section 54 Full LAB TH 10:30 AM
+Section 54 LAB TH 10:30 AM
 11:30 
 AM
 
@@ -166,7 +182,7 @@ AM
 2021-
 08-10
 
-TBA
+Online TBA
 
 Section 55 Full LAB W 01:30 PM
 02:30 
@@ -178,7 +194,89 @@ PM
 2021-
 08-10
 
-TBA
+Online TBA
+
+Section 56 LAB T 10:00 AM
+11:00 
+AM
+
+2021-
+06-28
+
+2021-
+08-10
+
+Online TBA
+
+Section 57 LAB T 11:00 AM
+12:00 
+PM
+
+2021-
+06-28
+
+2021-
+08-10
+
+Online TBA
+
+Section 58 LAB W 01:30 PM
+02:30 
+PM
+
+2021-
+06-28
+
+2021-
+08-10
+
+Online TBA
+
+Section 59 LAB TH 09:30 AM
+10:30 
+AM
+
+2021-
+06-28
+
+2021-
+08-10
+
+Online TBA
+
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 2
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
+
+Section 60 LAB TH 10:30 AM
+11:30 
+AM
+
+2021-
+06-28
+
+2021-
+08-10
+
+Online TBA
 
 WORK-2600 (-) Women and Globalization
 Section 1 Full 3.00 LEC MW 10:00 AM
@@ -199,30 +297,8 @@ Urvashi
 Communication, Media, Film
 
 CASJ-8960 (-) Major Paper
-
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 2
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
-
 Section 1 9.00 LEC
+
 2021-
 05-10
 
@@ -247,7 +323,7 @@ Papador,
 Johanna
 
 CMAF-1010 (-) Intro: Media and Society
-Section 1 3.00 LEC TTH 04:00 PM
+Section 1 Full 3.00 LEC TTH 04:00 PM
 
 06:50 
 PM
@@ -327,6 +403,17 @@ Online
 Hartley,
 Heather
 
+Section 3 6.00 LEC
+2021-
+05-10
+
+2021-
+08-11
+
+Online
+Hartley,
+Heather
+
 Creative Arts
 
 MACS-2450 (-) Modern Art
@@ -340,6 +427,34 @@ Section 91 3.00 LEC
 
 Meloche,
 Jaclyn
+
+VABE-3200 (-) Architectural Design VI
+Section 1 3.00 LEC MW 01:00 PM
+
+06:00 
+PM
+
+2021-
+06-28
+
+2021-
+08-10
+
+Grossi,Jason
+M
+
+F 02:00 PM
+06:00 
+PM
+
+2021-
+06-28
+
+2021-
+08-10
+
+Grossi,Jason
+M
 
 VSAR-1060 (-) Studio Practice & Ideas /Image
 Section 1 3.00 LEC MTH 12:00 PM
@@ -356,6 +471,28 @@ PM
 Online
 Heard,
 Catherine
+
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 3
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
 
 VSAR-3800 (-) Visual Arts Internship
 Section 1 3.00 LEC
@@ -413,28 +550,6 @@ PM
 
 Online Brunet,Tim A
 
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 3
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
-
 DRAM-2720 (-) The Creative Process
 Section 1 3.00 LEC TTH 05:30 PM
 
@@ -479,7 +594,7 @@ Pugliese,
 Tina M
 
 DRAM-3520 (-) Production Problems
-Section 4 3.00 LEC
+Section 4 Full 3.00 LEC
 
 2021-
 05-10
@@ -562,8 +677,30 @@ Campbell,
 Rebecca A
 
 ENGL-2530 (-) Shakespeare in Performance
-Section 1 3.00 LEC
 
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 4
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
+
+Section 1 3.00 LEC
 2021-
 05-10
 
@@ -618,30 +755,8 @@ L
 History
 
 HIST-2080 (-) Modern Britain, 1714 - Present
+Section 1 Full 3.00 LEC TTH 10:00 AM
 
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 4
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
-
-Section 1 3.00 LEC TTH 10:00 AM
 11:20 
 AM
 
@@ -685,6 +800,18 @@ Online
 Hrynyk,Nick 
 A
 
+HIST-8590 (-) Selected Topics in History
+Section 1 Full 3.00 LEC
+
+2021-
+05-10
+
+2021-
+08-11
+
+Teasdale,
+Guillaume
+
 HIST-8960 (-) Major Paper
 Section 1 6.00 LEC
 
@@ -717,7 +844,7 @@ Online Toronyi,Anita
 Philosophy
 
 PHIL-1290 (-) Contemporary Moral Issues
-Section 91 Full 3.00 LEC
+Section 91 3.00 LEC
 
 2021-
 05-10
@@ -751,6 +878,28 @@ Section 91 Full 3.00 LEC
 
 Macpherson,
 Brian P
+
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 5
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
 
 PHIL-8960 (-) Major Paper
 Section 1 6.00 LEC
@@ -816,27 +965,31 @@ Section 91 3.00 LEC
 Gecelovsky,
 Paul
 
+POLS-4990 (-) Human Rights in Contemporary I
+Section 1 3.00 LEC
 
+2021-
+05-10
 
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
+2021-
+08-11
 
-02:30:45 AM
-Page 5
+Online
+Brooks,
+Stephen R
 
-Course Section Credits Act Days Start 
-Time
+POLS-4990 (-) Application/ Responsibility to
+Section 2 Full 3.00 LEC
 
-Stop 
-Time
+2021-
+05-10
 
-Start 
-Date
+2021-
+08-11
 
-End 
-Date
-
-Bldg/Room Professor
+Online
+Najem,Tom 
+P
 
 POLS-8950 (-) Political Scie MA Internship
 Section 1 6.00 LEC
@@ -880,7 +1033,7 @@ Jesse
 Psychology
 
 PSYC-1070 (-) Positive Psychology
-Section 30 3.00 LEC T 07:00 PM
+Section 30 Full 3.00 LEC TTH 07:00 PM
 
 09:50 
 PM
@@ -923,6 +1076,28 @@ PM
 Online
 Vokes,
 Edward M
+
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 6
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
 
 PSYC-2230 (-) Devl Psychology: The Child
 Section 30 Full 3.00 LEC
@@ -1006,6 +1181,19 @@ Online
 Mattson,
 Scott R
 
+PSYC-4000 (-) Women's Health & Advocacy
+Section 1 Full 3.00 LEC
+
+2021-
+05-10
+
+2021-
+06-21
+
+Online
+Soucie,
+Kendall M
+
 PSYC-8688 (-) Intro Pract: Clinical Neuropsy
 Section 1 3.00 LEC
 
@@ -1018,30 +1206,8 @@ Section 1 3.00 LEC
 Online Biss,Renee
 
 PSYC-8689 (-) Intensive Pract: Clin Neuropsy
-
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 6
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
-
 Section 1 3.00 LEC
+
 2021-
 05-10
 
@@ -1051,8 +1217,8 @@ Section 1 3.00 LEC
 Online Biss,Renee
 
 PSYC-8701 (-) Clinical Practicum: MA Level
-
 Section 1 3.00 LEC
+
 2021-
 05-10
 
@@ -1060,11 +1226,8 @@ Section 1 3.00 LEC
 08-11
 
 Online
-
 Boroughs,
 Michael
-Harrington,
-Shawn
 
 Section 2 3.00 LEC
 2021-
@@ -1085,6 +1248,17 @@ Section 3 3.00 LEC
 08-11
 
 Online Picard,Erin
+
+Section 4 3.00 LEC
+2021-
+05-10
+
+2021-
+08-11
+
+Online
+Harrington,
+Shawn
 
 PSYC-8721 (-) Applied Social Psyc Practicum
 Section 1 3.00 LEC
@@ -1111,8 +1285,30 @@ Section 1 12.00 LEC
 Online Fritz,Patti
 
 PSYC-9020 (-) Clinical Practicum: PhD Level
-Section 1 3.00 LEC
 
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 7
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
+
+Section 1 3.00 LEC
 2021-
 05-10
 
@@ -1237,28 +1433,6 @@ Section 91 3.00 LEC
 Brisebois,
 Kimberly
 
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 7
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
-
 SWRK-8523 (-) Challenges in Human Behaviour
 Section 1 3.00 LEC T 09:00 AM
 
@@ -1347,6 +1521,28 @@ Section 22 3.00 LEC
 Ambrose-
 Miller,Wayne
 A
+
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 8
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
 
 SWRK-8534 (-) Social Work Prac With Org Comm
 Section 20 3.00 LEC
@@ -1485,7 +1681,7 @@ Section 91 3.00 LEC
 
 TBA
 
-Section 92 3.00 LEC F 09:00 AM
+Section 92 Full 3.00 LEC F 09:00 AM
 11:00 
 AM
 
@@ -1497,7 +1693,7 @@ AM
 
 Carter,Irene
 
-Section 93 3.00 LEC F 09:00 AM
+Section 93 Full 3.00 LEC F 09:00 AM
 11:00 
 AM
 
@@ -1510,28 +1706,6 @@ AM
 Ambrose-
 Miller,Wayne
 A
-
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 8
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
 
 SWRK-8571 (-) Master of SW Fdn Year Practicm
 Section 1 6.00 LEC
@@ -1554,7 +1728,8 @@ Section 25 3.00 LEC
 2021-
 06-29
 
-TBA
+Ghelani,
+Amar
 
 Section 910 3.00 LEC
 2021-
@@ -1615,6 +1790,28 @@ Section 24 3.00 LEC
 
 Bennett,
 Michael
+
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 9
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
 
 SWRK-8622 (-) Adv Social Polcy Analysis &Dev
 Section 25 3.00 LEC
@@ -1706,7 +1903,7 @@ Sociolgy, Anthroplgy, Crimlgy
 
 SACR-2620 (-) Intro to Criminal Justice
 
-Section 1 Full 3.00 LEC TTH 06:30 PM
+Section 1 3.00 LEC TTH 06:30 PM
 09:20 
 PM
 
@@ -1733,11 +1930,13 @@ PM
 2021-
 08-10
 
-Online TBA
+Online
+Munsterhjel
+m,Mark E
 
 SACR-3080 (-) Intermediate Statistics
-
 Section 1 Full 3.00 LEC MW 06:30 PM
+
 08:20 
 PM
 
@@ -1749,34 +1948,11 @@ PM
 
 Online
 Iafrate,
-Anthony 
-Vincenzo
-
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 9
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
+Anthony
 
 SACR-3080 (-) Laboratory
-
 Section 51 Full LAB MW 08:30 PM
+
 09:20 
 PM
 
@@ -1788,8 +1964,7 @@ PM
 
 Online
 Iafrate,
-Anthony 
-Vincenzo
+Anthony
 
 SACR-8870 (-) Research Practices in Sociolog
 Section 1 3.00 LEC TTH 08:30 AM
@@ -1845,10 +2020,32 @@ Online
 George,
 Glynis
 
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 10
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
+
 Women and Gender Studies
 
 WGST-1200 (-) Gal Pals: Women and Friendship
-Section 1 Full 3.00 LEC TTH 01:00 PM
+Section 1 3.00 LEC TTH 01:00 PM
 
 03:50 
 PM
@@ -1911,7 +2108,8 @@ PM
 2021-
 06-21
 
-TBA
+Adeyemi,
+Atinuke Y
 
 EDUC-8330 (-) Survey Design and Research
 Section 1 3.00 LEC TTH 05:00 PM
@@ -1925,7 +2123,8 @@ PM
 2021-
 06-21
 
-TBA
+Bayley,
+Jonathan
 
 EDUC-8350 (-) Organ Behaviour in Educ Inst
 Section 1 3.00 LEC W 09:00 AM
@@ -1939,7 +2138,8 @@ AM
 2021-
 08-11
 
-TBA
+Tabrizi,
+Sirous
 
 Section 91 Full 3.00 LEC
 2021-
@@ -1948,15 +2148,105 @@ Section 91 Full 3.00 LEC
 2021-
 08-11
 
-TBA
+Tabrizi,
+Sirous
+
+EDUC-8360 (-) Intro: Educl Policy Analysis
+Section 1 3.00 LEC M 09:00 AM
+
+11:50 
+AM
+
+2021-
+05-10
+
+2021-
+08-11
+
+Cobb,Cam
+
+Section 91 Full 3.00 LEC
+2021-
+05-10
+
+2021-
+08-11
+
+Cobb,Cam
+
+EDUC-8430 (-) Special Educn&Language Acquisn
+Section 91 3.00 LEC MW 05:00 PM
+
+07:50 
+PM
+
+2021-
+05-10
+
+2021-
+06-21
+
+Cobb,Cam
+
+EDUC-8500 (-) Issues in Education
+Section 1 3.00 LEC MW 10:00 AM
+
+12:50 
+PM
+
+2021-
+05-10
+
+2021-
+06-21
+
+Parker,Lana
+
+EDUC-8510 (-) Info&Comm Tech-Tching/Learning
+Section 01 3.00 LEC TTH 10:00 AM
+
+12:50 
+PM
+
+2021-
+05-10
+
+2021-
+06-21
+
+Teeuwen,
+Justin
+
+EDUC-8560 (-) Approaches to Literacy Dev
+Section 1 Full 3.00 LEC T 05:00 PM
+
+07:50 
+PM
+
+2021-
+05-10
+
+2021-
+08-11
+
+Pollard,Barb
+
+Section 91 Full 3.00 LEC
+2021-
+05-10
+
+2021-
+08-11
+
+Pollard,Barb
 
 
 
 InterSummer 2021 Course Offerings
-Monday, April 19, 2021
+Monday, May 17, 2021
 
-02:30:45 AM
-Page 10
+02:30:42 AM
+Page 11
 
 Course Section Credits Act Days Start 
 Time
@@ -1972,91 +2262,6 @@ Date
 
 Bldg/Room Professor
 
-EDUC-8360 (-) Intro: Educl Policy Analysis
-Section 1 3.00 LEC M 09:00 AM
-
-11:50 
-AM
-
-2021-
-05-10
-
-2021-
-08-11
-
-TBA
-
-Section 91 Full 3.00 LEC
-2021-
-05-10
-
-2021-
-08-11
-
-TBA
-
-EDUC-8430 (-) Special Educn&Language Acquisn
-Section 91 3.00 LEC MW 05:00 PM
-
-07:50 
-PM
-
-2021-
-05-10
-
-2021-
-06-21
-
-TBA
-
-EDUC-8500 (-) Issues in Education
-Section 1 3.00 LEC MW 10:00 AM
-
-12:50 
-PM
-
-2021-
-05-10
-
-2021-
-06-21
-
-TBA
-
-EDUC-8510 (-) Info&Comm Tech-Tching/Learning
-Section 01 3.00 LEC
-
-2021-
-05-10
-
-2021-
-06-21
-
-TBA
-
-EDUC-8560 (-) Approaches to Literacy Dev
-Section 1 Full 3.00 LEC T 05:00 PM
-
-07:50 
-PM
-
-2021-
-05-10
-
-2021-
-08-11
-
-TBA
-
-Section 91 Full 3.00 LEC
-2021-
-05-10
-
-2021-
-08-11
-
-TBA
-
 EDUC-8795 (-) Final Project Seminar
 Section 1 3.00 LEC MTWTH 05:00 PM
 
@@ -2069,10 +2274,10 @@ PM
 2021-
 07-19
 
-TBA
+Cobb,Cam
 
 EDUC-8910 (-) Language Assessment
-Section 32 3.00 LEC MTWTH 09:00 AM
+Section 32 Full 3.00 LEC MTWTH 09:00 AM
 
 11:50 
 AM
@@ -2117,7 +2322,7 @@ Section 1 12.00 LEC
 2021-
 08-11
 
-TBA
+Smith,Kara A
 
 EDUC-9020 (-) Doctoral Seminar 1
 Section 1 6.00 LEC
@@ -2153,37 +2358,15 @@ Section 1 9.00 LEC
 TBA
 
 EDUC-9980 (-) Doctoral Dissertation
-
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 11
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
-
 Section 1 30.00 LEC
+
 2021-
 05-10
 
 2021-
 08-11
 
-TBA
+Smith,Kara A
 
 Faculty of Engineering
 
@@ -2234,12 +2417,34 @@ PM
 08-11
 
 Online
-Van 
-Engelen,Niel
+Tape,William
+D
 
 CIVL-3620 (-) Laboratory
-Section 51 LAB T 05:30 PM
 
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 12
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
+
+Section 51 LAB T 05:30 PM
 07:20 
 PM
 
@@ -2250,8 +2455,8 @@ PM
 08-11
 
 Online
-Van 
-Engelen,Niel
+Tape,William
+D
 
 CIVL-3630 (-) Geotechnical Engineering II
 Section 1 3.00 LEC MW 08:30 AM
@@ -2373,28 +2578,6 @@ AM
 
 Online Lee,Chris
 
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 12
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
-
 CIVL-4810 (-) Laboratory
 Section 51 LAB F 12:30 PM
 
@@ -2440,7 +2623,7 @@ Ruparathna,
 Rajeev
 
 CIVL-4910 (-) Foundation Engineering
-Section 1 3.00 LEC MW 10:00 AM
+Section 1 Full 3.00 LEC MW 10:00 AM
 
 11:20 
 AM
@@ -2454,7 +2637,7 @@ AM
 Online Polies,Wafa
 
 CIVL-4910 (-) Laboratory
-Section 51 LAB W 05:30 PM
+Section 51 Full LAB W 05:30 PM
 
 07:20 
 PM
@@ -2468,8 +2651,30 @@ PM
 Online Polies,Wafa
 
 CIVL-4920 (-) Adv Topics: Structural Design
-Section 1 3.00 LEC TTH 04:00 PM
 
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 13
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
+
+Section 1 3.00 LEC TTH 04:00 PM
 05:20 
 PM
 
@@ -2528,7 +2733,7 @@ PM
 Online Maoh,Hanna
 
 CIVL-8020 (-) Building Information Modelling
-Section 1 3.00 LEC TH 11:30 AM
+Section 1 Full 3.00 LEC TH 11:30 AM
 
 02:20 
 PM
@@ -2602,28 +2807,6 @@ AM
 08-11
 
 Online Polies,Wafa
-
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 13
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
 
 CIVL-8900 (-) Structures Using Modern Tools/
 Section 41 3.00 LEC T 10:00 AM
@@ -2699,8 +2882,30 @@ Bolisetti,
 Tirupati
 
 CIVL-8970 (-) Thesis
-Section 1 18.00 LEC
 
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 14
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
+
+Section 1 18.00 LEC
 2021-
 05-10
 
@@ -2842,28 +3047,6 @@ Online
 Bolisetti,
 Tirupati
 
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 14
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
-
 ENVE-8900 (-) GIS Data Modeling
 Section 21 3.00 LEC M 02:30 PM
 
@@ -2934,8 +3117,30 @@ Section 1 6.00 LEC
 Online Xu,Iris
 
 ENVE-8970 (-) Thesis
-Section 1 18.00 LEC
 
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 15
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
+
+Section 1 18.00 LEC
 2021-
 05-10
 
@@ -2985,7 +3190,9 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+Ahmadi,
+Arash
 
 ELEC-2250 (-) Physical Electronics
 Section 91 3.00 LEC TF 11:30 AM
@@ -2999,10 +3206,12 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+Ahmadi,
+Arash
 
 ELEC-3240 (-) Control Systems I
-Section 1 Full 3.00 LEC MW 11:30 AM
+Section 1 3.00 LEC MW 11:30 AM
 
 12:50 
 PM
@@ -3030,7 +3239,7 @@ PM
 Online Chen,Xiang
 
 ELEC-3270 (-) Microprocessors
-Section 1 Full 3.00 LEC MW 10:00 AM
+Section 1 3.00 LEC MW 10:00 AM
 
 11:20 
 AM
@@ -3061,28 +3270,6 @@ Online
 Muscedere,
 Roberto
 
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 15
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
-
 ELEC-3290 (-) Laboratory
 W 01:00 PM
 
@@ -3100,7 +3287,7 @@ Sakr,Ahmed
 Hamdi
 
 ELEC-3290 (-) Analog Communications
-Section 91 3.00 LEC TTH 10:00 AM
+Section 91 Full 3.00 LEC TTH 10:00 AM
 
 11:20 
 AM
@@ -3162,6 +3349,44 @@ AM
 Online
 Naderi,
 Bahman
+
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 16
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
+
+ELEC-4100 (-) Industrial Control Systems
+Section 60 3.00 LEC F 05:30 PM
+
+08:20 
+PM
+
+2021-
+05-10
+
+2021-
+08-11
+
+Online
+Alirezaee,
+Shahpour
 
 ELEC-4100 (-) Automotive Sensor Systems
 Section 85 3.00 LEC TTH 01:00 PM
@@ -3242,7 +3467,7 @@ Chen,
 Chunhong
 
 ELEC-4390 (-) Multimedia Systems
-Section 1 Full 3.00 LEC TTH 10:00 AM
+Section 1 3.00 LEC TTH 10:00 AM
 
 11:20 
 AM
@@ -3270,7 +3495,7 @@ PM
 Online Kwan,Hon K
 
 ELEC-4400 (-) Laboratory
-Section 51 Full LAB T 05:30 PM
+Section 51 LAB T 05:30 PM
 
 07:20 
 PM
@@ -3286,7 +3511,7 @@ Sakr,Ahmed
 Hamdi
 
 ELEC-4400 (-) Wireless Communications
-Section 91 Full 3.00 LEC MW 10:00 AM
+Section 91 3.00 LEC MW 10:00 AM
 
 11:20 
 AM
@@ -3301,30 +3526,8 @@ Online
 Sakr,Ahmed 
 Hamdi
 
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 16
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
-
 ELEC-4470 (-) Laboratory
-Section 51 Full LAB TTH 08:30 AM
+Section 51 LAB TTH 08:30 AM
 
 09:50 
 AM
@@ -3340,7 +3543,7 @@ Erfani,
 Shervin
 
 ELEC-4470 (-) Computer Networks Security
-Section 91 Full 3.00 LEC MW 08:30 AM
+Section 91 3.00 LEC MW 08:30 AM
 
 09:50 
 AM
@@ -3387,21 +3590,27 @@ Online
 Muscedere,
 Roberto
 
-ELEC-4490 (-) Sensor and Vision Systems
-Section 60 3.00 LEC F 05:30 PM
 
-08:20 
-PM
 
-2021-
-05-10
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
 
-2021-
-08-11
+02:30:42 AM
+Page 17
 
-Online
-Alirezaee,
-Shahpour
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
 
 ELEC-4600 (-) Power Systems II
 Section 1 3.00 LEC TTH 04:00 PM
@@ -3539,30 +3748,8 @@ Section 1 18.00 LEC
 Emadi,
 Arezoo
 
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 17
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
-
 ELEC-9980 (-) Dissertation
-Section 1 Full 12.00 LEC
+Section 1 12.00 LEC
 
 2021-
 05-10
@@ -3576,8 +3763,8 @@ Arezoo
 Faculty of Engineering
 
 GENG-1190 (-) Technical Communications
-Section 1 3.00 LEC TTH 01:00 PM
 
+Section 1 3.00 LEC TTH 01:00 PM
 02:20 
 PM
 
@@ -3587,7 +3774,10 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+Miller-
+Branovacki,
+Lindsay
 
 GENG-1200 (-) Engineering Thermofluids
 Section 1 3.00 LEC MW 05:30 PM
@@ -3616,6 +3806,28 @@ PM
 08-11
 
 Online Zhou,Biao
+
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 18
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
 
 GENG-2180 (-) Mechanics of Deformable Bodies
 Section 1 3.00 LEC TTH 02:30 PM
@@ -3646,8 +3858,8 @@ PM
 Online Lee,Chris
 
 GENG-2500 (-) Engineering & the Environment
-Section 1 3.00 LEC T 01:00 PM
 
+Section 1 3.00 LEC T 01:00 PM
 03:50 
 PM
 
@@ -3657,11 +3869,14 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+Miller-
+Branovacki,
+Lindsay
 
 GENG-2500 (-) Laboratory
-Section 51 LAB TH 02:30 PM
 
+Section 51 LAB TH 02:30 PM
 04:20 
 PM
 
@@ -3671,7 +3886,10 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+Miller-
+Branovacki,
+Lindsay
 
 GENG-2980 (-) Work Term I
 Section 1 3.00 LEC
@@ -3683,20 +3901,6 @@ Section 1 3.00 LEC
 08-11
 
 TBA
-
-GENG-3300 (-) Applied Engg Mathematics
-Section 60 3.00 LEC W 05:30 PM
-
-08:20 
-PM
-
-2021-
-05-10
-
-2021-
-08-11
-
-Online TBA
 
 GENG-3400 (-) Mechatronic Sys Design & Prjct
 Section 60 3.00 LEC TH 05:30 PM
@@ -3743,28 +3947,6 @@ TBA
 
 GENG-4210 (-) Engineering & Society
 
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 18
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
-
 Section 1 Full 3.00 LEC TTH 02:30 PM
 03:50 
 PM
@@ -3775,7 +3957,10 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+Miller-
+Branovacki,
+Lindsay
 
 Section 2 3.00 LEC TTH 02:30 PM
 03:50 
@@ -3787,7 +3972,10 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+Miller-
+Branovacki,
+Lindsay
 
 GENG-4980 (-) Work Term III
 Section 1 3.00 LEC
@@ -3825,7 +4013,7 @@ Online
 Abboud,
 Victoria M
 
-Section 2 3.00 LEC W 10:00 AM
+Section 2 Full 3.00 LEC W 10:00 AM
 11:20 
 AM
 
@@ -3875,9 +4063,59 @@ AM
 
 Online Ziter,Jesse S
 
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 19
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
+
+Section 6 3.00 LEC T 10:00 AM
+11:00 
+AM
+
+2021-
+05-10
+
+2021-
+08-11
+
+Online
+Bourne,Don 
+V
+
+Section 7 Full 3.00 LEC T 08:30 AM
+09:50 
+AM
+
+2021-
+05-10
+
+2021-
+08-11
+
+Online
+Bourne,Don 
+V
+
 GENG-8010 (-) Engineering Mathematics
 
-Section 30 3.00 LEC M 10:00 AM
+Section 30 Full 3.00 LEC M 10:00 AM
 01:00 
 PM
 
@@ -3892,7 +4130,7 @@ Hassanzade
 h,
 Mohammad
 
-Section 31 3.00 LEC F 10:00 AM
+Section 31 Full 3.00 LEC F 10:00 AM
 01:00 
 PM
 
@@ -3923,7 +4161,7 @@ Online
 Naderi,
 Bahman
 
-Section 31 3.00 LEC M 09:00 AM
+Section 31 Full 3.00 LEC M 09:00 AM
 11:50 
 AM
 
@@ -3952,7 +4190,7 @@ Naderi,
 Bahman
 
 GENG-8030 (-) Comp. Meth. & Modlng for Eng.
-Section 1 3.00 LEC TH 08:30 AM
+Section 1 Full 3.00 LEC TH 08:30 AM
 
 11:20 
 AM
@@ -3967,7 +4205,7 @@ Online
 Rashidzadeh
 ,Rashid
 
-Section 2 3.00 LEC F 08:30 AM
+Section 2 Full 3.00 LEC F 08:30 AM
 11:20 
 AM
 
@@ -3991,7 +4229,10 @@ AM
 2021-
 08-11
 
-Online TBA
+Online
+Toulabi,
+Mohammad 
+Sedigh
 
 GENG-8040 (-) Engg Management Capstone
 Section 1 6.00 LEC
@@ -4029,28 +4270,6 @@ Section 1 6.00 LEC
 Online
 Johrendt,
 Jennifer L.
-
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 19
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
 
 Mech, Auto, Materials Eng
 
@@ -4108,7 +4327,9 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+Saqib,
+Mohammad
 
 Section 2 3.00 LEC W 05:30 PM
 08:20 
@@ -4120,7 +4341,31 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+Saqib,
+Mohammad
+
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 20
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
 
 INDE-8900 (-) Robotics Fundamentals and Prog
 Section 1 3.00 LEC F 04:30 PM
@@ -4134,7 +4379,9 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+Al-Zaher,
+Abdo
 
 INDE-8900 (-) Production Analysis
 Section 30 3.00 LEC M 05:30 PM
@@ -4148,7 +4395,9 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+Alami,
+Darwish
 
 INDE-8900 (-) Product, Process & Business In
 Section 33 3.00 LEC TH 01:00 PM
@@ -4176,7 +4425,9 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+Khan,Sardar 
+Asif A
 
 INDE-8900 (-) Industrial Fluid Power
 Section 37 3.00 LEC T 05:30 PM
@@ -4190,10 +4441,26 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+El Sayed,
+Mohammed
+
+INDE-8900 (-) Cyber Systems and Ethics
+
+Section 50 3.00 LEC
+2021-
+05-10
+
+2021-
+08-11
+
+Online
+Schuelke-
+Leech,Beth-
+Anne
 
 INDE-8900 (-) Statistical Quality Control
-Section 80 3.00 LEC T 04:00 PM
+Section 80 Full 3.00 LEC T 04:00 PM
 
 06:50 
 PM
@@ -4261,28 +4528,6 @@ Online
 Alpas,Ahmet 
 T
 
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 20
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
-
 TH 04:30 PM
 06:50 
 PM
@@ -4309,7 +4554,9 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+Khan,Sardar 
+Asif A
 
 MATL-8890 (-) Surface Engineering
 Section 22 3.00 LEC T 11:30 AM
@@ -4323,11 +4570,35 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+Bhattacharya
+,Sandeep
 
 MATL-8970 (-) Thesis
-Section 1 18.00 LEC
 
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 21
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
+
+Section 1 18.00 LEC
 2021-
 05-10
 
@@ -4537,7 +4808,7 @@ PM
 2021-
 08-11
 
-Online TBA
+Online Lang,Edward
 
 TTH 10:00 AM
 11:20 
@@ -4549,7 +4820,7 @@ AM
 2021-
 08-11
 
-Online TBA
+Online Lang,Edward
 
 Section 2 Full 3.00 LEC TH 07:00 PM
 08:20 
@@ -4561,7 +4832,7 @@ PM
 2021-
 08-11
 
-Online TBA
+Online Lang,Edward
 
 TTH 01:00 PM
 02:20 
@@ -4573,32 +4844,10 @@ PM
 2021-
 08-11
 
-Online TBA
-
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 21
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
+Online Lang,Edward
 
 MECH-3228 (-) Heat Transfer
-Section 1 3.00 LEC MW 10:00 AM
+Section 1 Full 3.00 LEC MW 10:00 AM
 
 11:20 
 AM
@@ -4668,6 +4917,28 @@ PM
 08-11
 
 Online Eaves,Nick
+
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 22
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
 
 MECH-3430 (-) Laboratory
 Section 51 LAB M 11:30 AM
@@ -4785,7 +5056,7 @@ Section 51 Full LAB
 
 Eaves,Nick
 
-Section 52 LAB
+Section 52 Full LAB
 2021-
 05-10
 
@@ -4794,7 +5065,7 @@ Section 52 LAB
 
 Eaves,Nick
 
-Section 53 LAB
+Section 53 Full LAB
 2021-
 05-10
 
@@ -4852,28 +5123,6 @@ Section 58 Full LAB
 
 Stoilov,
 Vesselin
-
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 22
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
 
 Section 59 Full LAB
 2021-
@@ -4934,6 +5183,28 @@ Section 64 Full LAB
 Jianu,Ofelia 
 A
 
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 23
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
+
 Section 65 Full LAB
 2021-
 05-10
@@ -4972,7 +5243,7 @@ Section 68 Full LAB
 Stoilov,
 Vesselin
 
-Section 69 LAB
+Section 69 Full LAB
 2021-
 05-10
 
@@ -4982,7 +5253,7 @@ Section 69 LAB
 Stoilov,
 Vesselin
 
-Section 70 LAB
+Section 70 Full LAB
 2021-
 05-10
 
@@ -5052,7 +5323,7 @@ Section 76 Full LAB
 Stoilov,
 Vesselin
 
-Section 77 LAB
+Section 77 Full LAB
 2021-
 05-10
 
@@ -5099,7 +5370,7 @@ Section 81 LAB
 
 Eaves,Nick
 
-Section 82 LAB
+Section 82 Full LAB
 2021-
 05-10
 
@@ -5108,7 +5379,7 @@ Section 82 LAB
 
 Eaves,Nick
 
-Section 83 LAB
+Section 83 Full LAB
 2021-
 05-10
 
@@ -5169,30 +5440,8 @@ Ahamed,
 Jalal J
 
 MECH-4212 (-) Laboratory
-
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 23
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
-
 Section 51 Full LAB W 05:30 PM
+
 08:20 
 PM
 
@@ -5233,7 +5482,7 @@ PM
 Online Oriet,Leo
 
 MECH-4228 (-) Sustainability in Engineering
-Section 1 Full 3.00 LEC MWF 11:30 AM
+Section 1 3.00 LEC MWF 11:30 AM
 
 12:20 
 PM
@@ -5246,8 +5495,30 @@ PM
 
 Online Tam,Edwin
 
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 24
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
+
 MECH-4228 (-) Laboratory
-Section 51 Full LAB M 12:30 PM
+Section 51 LAB M 12:30 PM
 
 02:20 
 PM
@@ -5371,7 +5642,7 @@ Zamani-
 Kashani,
 Nader G
 
-Section 53 3.00 LAB M 04:00 PM
+Section 53 Full 3.00 LAB M 04:00 PM
 06:50 
 PM
 
@@ -5430,30 +5701,8 @@ PM
 Online Fartaj,Amir
 
 MECH-4469 (-) Diesel Engine Fundamentals
-
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 24
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
-
 Section 1 3.00 LEC MW 08:30 AM
+
 09:50 
 AM
 
@@ -5491,7 +5740,31 @@ AM
 2021-
 08-11
 
-Online TBA
+Online
+Etemadi,
+Majed
+
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 25
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
 
 MECH-4670 (-) Laboratory
 Section 51 LAB M 01:00 PM
@@ -5505,7 +5778,9 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+Etemadi,
+Majed
 
 MECH-4672 (-) Flight Dynamcs&Ctrl-Unman Veh
 Section 1 3.00 LEC MW 10:00 AM
@@ -5586,7 +5861,7 @@ Sari Sarraf,
 Iman
 
 MECH-8030 (-) Fundamentals of Auto Engg
-Section 1 3.00 LEC W 08:00 AM
+Section 1 Full 3.00 LEC W 08:00 AM
 
 10:50 
 AM
@@ -5599,7 +5874,7 @@ AM
 
 Online Eaves,Nick
 
-Section 2 3.00 LEC TH 08:00 AM
+Section 2 Full 3.00 LEC TH 08:00 AM
 10:50 
 AM
 
@@ -5637,7 +5912,9 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+Al-Zaher,
+Abdo
 
 MECH-8290 (-) Noise Dsgn; Arch & Auto Apps
 Section 33 3.00 LEC W 08:30 AM
@@ -5656,7 +5933,7 @@ Novak,Colin
 J
 
 MECH-8290 (-)  Lean Manufacturing &Process I
-Section 34 3.00 LEC TH 05:30 PM
+Section 34 Full 3.00 LEC TH 05:30 PM
 
 08:20 
 PM
@@ -5667,33 +5944,13 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+Khan,Sardar 
+Asif A
 
 MECH-8290 (-) Industrial Fluid Power
-
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 25
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
-
 Section 37 3.00 LEC T 05:30 PM
+
 08:20 
 PM
 
@@ -5703,7 +5960,9 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+El Sayed,
+Mohammed
 
 MECH-8290 (-) Advanced Vehicle Thermal Manag
 Section 67 3.00 LEC M 01:00 PM
@@ -5736,8 +5995,30 @@ Naderi,
 Bahman
 
 MECH-8290 (-) Production Analysis
-Section 74 3.00 LEC M 05:30 PM
 
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 26
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
+
+Section 74 3.00 LEC M 05:30 PM
 08:20 
 PM
 
@@ -5747,10 +6028,12 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+Alami,
+Darwish
 
 MECH-8290 (-) Statistical Quality Control
-Section 80 3.00 LEC T 04:00 PM
+Section 80 Full 3.00 LEC T 04:00 PM
 
 06:50 
 PM
@@ -5789,7 +6072,9 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+Saqib,
+Mohammad
 
 Section 90 3.00 LEC W 05:30 PM
 08:20 
@@ -5801,7 +6086,9 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+Saqib,
+Mohammad
 
 MECH-8290 (-) Surface Engineering
 Section 92 3.00 LEC T 11:30 AM
@@ -5815,7 +6102,9 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+Bhattacharya
+,Sandeep
 
 MECH-8295 (-) MASc Graduate Seminar
 Section 1 3.00 LEC F 11:30 AM
@@ -5890,28 +6179,6 @@ Vesselin
 
 Faculty of Graduate Studies
 
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 26
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
-
 Faculty of Graduate Studies
 
 RESG-   8XXX (-) Ontario Grad Visitor
@@ -5929,9 +6196,31 @@ Faculty of Human Kinetics
 
 Faculty of Human Kinetics
 
-KINE-2100 (-) Human Performance
-Section 1 3.00 LEC MTWTH 10:00 AM
 
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 27
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
+
+KINE-2100 (-) Human Performance
+
+Section 1 3.00 LEC MTWTH 10:00 AM
 11:20 
 AM
 
@@ -5942,12 +6231,15 @@ AM
 08-10
 
 Online
+
 Horne,
 Sharon E
+Wiseman,
+Alexandra C
 
 KINE-2300 (-) Soci Sport & Physical Activity
-Section 1 3.00 LEC MTWTH 08:30 AM
 
+Section 1 3.00 LEC MTWTH 08:30 AM
 09:50 
 AM
 
@@ -5958,12 +6250,15 @@ AM
 06-21
 
 Online
+
 Horne,
 Sharon E
+Loughead,
+Krista L
 
 KINE-2850 (-) Human Growth & Development
 
-Section 1 3.00 LEC MTWTH 12:00 PM
+Section 1 Full 3.00 LEC MTWTH 12:00 PM
 01:20 
 PM
 
@@ -5978,8 +6273,8 @@ Sharon E
 Horton,Sean
 
 KINE-2990 (-) Co-op Work Experience I
-Section 1 3.00 LEC
 
+Section 1 3.00 LEC
 2021-
 05-10
 
@@ -5988,10 +6283,12 @@ Section 1 3.00 LEC
 
 Horne,
 Sharon E
+Milne,Marcia 
+I
 
 KINE-3500 (-) Organizational Behaviour
-Section 1 3.00 LEC MTWTH 08:30 AM
 
+Section 1 3.00 LEC MTWTH 08:30 AM
 09:50 
 AM
 
@@ -6002,12 +6299,13 @@ AM
 08-10
 
 Online
+Bates,Mike
 Horne,
 Sharon E
 
 KINE-3990 (-) Co-op Work Experience II
-Section 1 3.00 LEC
 
+Section 1 3.00 LEC
 2021-
 05-10
 
@@ -6016,6 +6314,8 @@ Section 1 3.00 LEC
 
 Horne,
 Sharon E
+Milne,Marcia 
+I
 
 KINE-4750 (-) Individual Studies
 Section 1 3.00 LEC
@@ -6054,8 +6354,8 @@ Paraschak,
 Victoria A
 
 KINE-4890 (-) E-Sport Management
-Section 1 3.00 LEC MTWTH 10:00 AM
 
+Section 1 3.00 LEC MTWTH 10:00 AM
 11:20 
 AM
 
@@ -6066,6 +6366,9 @@ AM
 06-21
 
 Online
+
+Barile,Giulia 
+M
 Horne,
 Sharon E
 
@@ -6081,15 +6384,33 @@ PM
 2021-
 08-10
 
-Online TBA
+Online
+Horne,
+Sharon E
+
+KINE-4900 (-) Race in Sport
+Section 2 3.00 LEC MTWTH 12:00 PM
+
+01:20 
+PM
+
+2021-
+06-28
+
+2021-
+08-10
+
+Online
+Horne,
+Sharon E
 
 
 
 InterSummer 2021 Course Offerings
-Monday, April 19, 2021
+Monday, May 17, 2021
 
-02:30:45 AM
-Page 27
+02:30:42 AM
+Page 28
 
 Course Section Credits Act Days Start 
 Time
@@ -6104,20 +6425,6 @@ End
 Date
 
 Bldg/Room Professor
-
-KINE-4900 (-) Race in Sport
-Section 2 3.00 LEC MTWTH 12:00 PM
-
-01:20 
-PM
-
-2021-
-06-28
-
-2021-
-08-10
-
-Online TBA
 
 KINE-4980 (-) Internship
 
@@ -6134,8 +6441,8 @@ Sutherland,
 Chad A
 
 KINE-4990 (-) Co-op Work Experience III
-Section 1 3.00 LEC
 
+Section 1 3.00 LEC
 2021-
 05-10
 
@@ -6144,6 +6451,8 @@ Section 1 3.00 LEC
 
 Horne,
 Sharon E
+Milne,Marcia 
+I
 
 KINE-8100 (-) Special Problems
 
@@ -6248,10 +6557,10 @@ Faculty of Law
 
 
 InterSummer 2021 Course Offerings
-Monday, April 19, 2021
+Monday, May 17, 2021
 
-02:30:45 AM
-Page 28
+02:30:42 AM
+Page 29
 
 Course Section Credits Act Days Start 
 Time
@@ -6297,6 +6606,8 @@ Face to
 Face-Talk to 
 Dept
 
+Dennison,
+Susan
 Seguin,
 Tracey M
 
@@ -6311,6 +6622,8 @@ Face to
 Face-Talk to 
 Dept
 
+Dennison,
+Susan
 Dobson,
 Kimberley A
 
@@ -6325,6 +6638,8 @@ Face to
 Face-Talk to 
 Dept
 
+Dennison,
+Susan
 Kopchek,
 Lauren E
 
@@ -6387,9 +6702,9 @@ Dept
 TBA
 
 NURS-3830 (-) Adult Health & Health Alt. III
-Section 1 Full 3.00 LEC TTH 08:30 AM
+Section 1 3.00 LEC TTH 08:30 AM
 
-11:50 
+11:20 
 AM
 
 2021-
@@ -6415,7 +6730,10 @@ Face to
 Face-Talk to 
 Dept
 
-TBA
+Bownes,
+Natalie
+Sweet,
+Heather
 
 Section 2 3.00 LEC
 2021-
@@ -6445,27 +6763,13 @@ Dept
 Rajaratnam,
 Jayne
 
-Section 4 3.00 LEC
-2021-
-05-10
-
-2021-
-05-23
-
-Face to 
-Face-Talk to 
-Dept
-
-Charron,
-Debra L.
-
 
 
 InterSummer 2021 Course Offerings
-Monday, April 19, 2021
+Monday, May 17, 2021
 
-02:30:45 AM
-Page 29
+02:30:42 AM
+Page 30
 
 Course Section Credits Act Days Start 
 Time
@@ -6480,6 +6784,20 @@ End
 Date
 
 Bldg/Room Professor
+
+Section 4 3.00 LEC
+2021-
+05-10
+
+2021-
+05-23
+
+Face to 
+Face-Talk to 
+Dept
+
+Charron,
+Debra L.
 
 Section 5 3.00 LEC
 2021-
@@ -6536,6 +6854,61 @@ Dept
 Kopchek,
 Lauren E
 
+Section 9 3.00 LEC
+2021-
+05-10
+
+2021-
+05-23
+
+Di Sabato,
+Christina M
+
+Section 10 3.00 LEC
+2021-
+05-10
+
+2021-
+05-23
+
+Bownes,
+Natalie
+Watson,
+Josie
+
+Section 11 3.00 LEC
+2021-
+05-10
+
+2021-
+05-23
+
+Bownes,
+Natalie
+Topcagic,
+Braco
+
+Section 12 3.00 LEC
+2021-
+05-10
+
+2021-
+05-23
+
+Bownes,
+Natalie
+Lanoue,Lisa
+
+Section 13 3.00 LEC
+2021-
+05-10
+
+2021-
+05-23
+
+Bownes,
+Natalie
+
 NURS-4902 (-) Indiv Clinical Nursing Exp.
 
 Section 1 6.00 LEC
@@ -6543,7 +6916,7 @@ Section 1 6.00 LEC
 05-10
 
 2021-
-08-11
+05-23
 
 Face to 
 Face-Talk to 
@@ -6552,12 +6925,12 @@ Dept
 Mclaughlin,
 Brenda E
 
-Section 2 Full 6.00 LEC
+Section 2 6.00 LEC
 2021-
 05-10
 
 2021-
-08-11
+05-23
 
 Face to 
 Face-Talk to 
@@ -6565,22 +6938,6 @@ Dept
 
 Mclaughlin,
 Brenda E
-
-NURS-8360 (-) Relatnl Prac./FamiliesOncology
-Section 1 3.00 LEC TH 01:00 PM
-
-02:30 
-PM
-
-2021-
-05-10
-
-2021-
-08-11
-
-Online
-Morrell,
-Sherry
 
 NURS-8370 (-) Sexual Hlth/Counselling Cancer
 Section 1 Full 3.00 LEC TTH 09:00 AM
@@ -6660,8 +7017,30 @@ De Witt,
 Lorna
 
 NURS-8830 (-) Research Methods in Nursing
-Section 1 3.00 LEC MW 09:00 AM
 
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 31
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
+
+Section 1 3.00 LEC MW 09:00 AM
 11:50 
 AM
 
@@ -6671,8 +7050,8 @@ AM
 2021-
 06-21
 
-Kane,Debbie
-J
+Mirza,
+Noeman
 
 NURS-8870 (-) Integratv Pract Prim Hlth Care
 Section 1 Full 12.00 LEC W 06:00 PM
@@ -6690,7 +7069,7 @@ Online
 Brothers,
 Lourdes
 
-Section 2 12.00 LEC W 06:00 PM
+Section 2 Full 12.00 LEC W 06:00 PM
 08:50 
 PM
 
@@ -6715,28 +7094,6 @@ Section 1 12.00 LEC
 
 Online Ralph,Jody
 
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 30
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
-
 NURS-9980 (-) Dissertation
 Section 1 12.00 LEC
 
@@ -6755,6 +7112,21 @@ Chemistry and Biochemistry
 BIOC-2010 (-) Organic Chem of Biomolecules
 
 Section 1 3.00 LEC TTH 08:30 AM
+11:20 
+AM
+
+2021-
+06-28
+
+2021-
+08-10
+
+Online
+Al-Nidawy,
+Nedhal
+Tong,Yufeng
+
+Section 2 3.00 LEC TTH 08:30 AM
 11:20 
 AM
 
@@ -6864,7 +7236,46 @@ Zareen
 
 CHEM-1103 (-) Topics in General Chemistry
 
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 32
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
+
 Section 1 3.00 LEC TTH 11:30 AM
+12:50 
+PM
+
+2021-
+05-10
+
+2021-
+08-11
+
+Online
+
+Al-Nidawy,
+Nedhal
+Taylor,Keith 
+E
+
+Section 2 Full 3.00 LEC TTH 11:30 AM
 12:50 
 PM
 
@@ -6933,28 +7344,6 @@ Online
 Al-Nidawy,
 Nedhal
 Wang,Zhuo
-
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 31
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
 
 Section 2 Full 3.00 LEC TTH 08:30 AM
 11:20 
@@ -7074,6 +7463,28 @@ Simon
 
 CHEM-9900 (-) The Research Proposal
 
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 33
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
+
 Section 91 LEC
 2021-
 05-10
@@ -7130,7 +7541,9 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+Jiang,
+Shaoquan
 
 Section 52 LAB TH 01:00 PM
 02:20 
@@ -7142,7 +7555,9 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+Jiang,
+Shaoquan
 
 Section 53 LAB T 02:30 PM
 03:50 
@@ -7154,29 +7569,9 @@ PM
 2021-
 08-11
 
-Online TBA
-
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 32
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
+Online
+Jiang,
+Shaoquan
 
 Section 54 LAB TH 02:30 PM
 03:50 
@@ -7188,7 +7583,9 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+Jiang,
+Shaoquan
 
 COMP-1047 (-) Computer Concepts - End-Users
 Section 91 3.00 LEC
@@ -7215,8 +7612,8 @@ AM
 06-21
 
 Online
-Ngom,
-Alioune
+Samet,
+Saeed
 
 COMP-1400 (-) Laboratory
 Section 51 LAB T 08:30 AM
@@ -7230,7 +7627,9 @@ AM
 2021-
 06-21
 
-Online TBA
+Online
+Samet,
+Saeed
 
 Section 52 LAB TH 08:30 AM
 11:20 
@@ -7242,7 +7641,9 @@ AM
 2021-
 06-21
 
-Online TBA
+Online
+Samet,
+Saeed
 
 Section 53 LAB M 11:30 AM
 02:20 
@@ -7254,7 +7655,9 @@ PM
 2021-
 06-21
 
-Online TBA
+Online
+Samet,
+Saeed
 
 Section 54 LAB W 11:30 AM
 02:20 
@@ -7266,7 +7669,9 @@ PM
 2021-
 06-21
 
-Online TBA
+Online
+Samet,
+Saeed
 
 COMP-1410 (-) Intro: Algorithms & Prog II
 
@@ -7286,8 +7691,8 @@ Ahmed,
 Sherif
 
 COMP-1410 (-) Laboratory
-Section 51 LAB M 01:00 PM
 
+Section 51 Full LAB M 01:00 PM
 03:50 
 PM
 
@@ -7297,7 +7702,10 @@ PM
 2021-
 08-10
 
-Online TBA
+Online
+Saad 
+Ahmed,
+Sherif
 
 Section 52 LAB W 01:00 PM
 03:50 
@@ -7309,7 +7717,10 @@ PM
 2021-
 08-10
 
-Online TBA
+Online
+Saad 
+Ahmed,
+Sherif
 
 Section 53 LAB M 05:30 PM
 08:20 
@@ -7321,7 +7732,32 @@ PM
 2021-
 08-10
 
-Online TBA
+Online
+Saad 
+Ahmed,
+Sherif
+
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 34
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
 
 Section 54 LAB W 05:30 PM
 08:20 
@@ -7333,7 +7769,10 @@ PM
 2021-
 08-10
 
-Online TBA
+Online
+Saad 
+Ahmed,
+Sherif
 
 COMP-2057 (-) Introduction to the Internet
 Section 91 3.00 LEC
@@ -7399,30 +7838,8 @@ Samet,
 Saeed
 
 COMP-2120 (-) Laboratory
+Section 51 Full LAB T 05:30 PM
 
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 33
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
-
-Section 51 LAB T 05:30 PM
 06:50 
 PM
 
@@ -7432,7 +7849,9 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+Samet,
+Saeed
 
 Section 52 LAB TH 05:30 PM
 06:50 
@@ -7444,7 +7863,9 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+Samet,
+Saeed
 
 Section 53 LAB T 07:00 PM
 08:20 
@@ -7456,7 +7877,9 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+Samet,
+Saeed
 
 Section 54 LAB TH 07:00 PM
 08:20 
@@ -7468,7 +7891,9 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+Samet,
+Saeed
 
 COMP-2540 (-) Data Structures & Algorithms
 Section 1 3.00 LEC MW 11:30 AM
@@ -7498,7 +7923,9 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+Mukhopadhy
+ay,Asish
 
 Section 52 LAB W 01:00 PM
 02:20 
@@ -7510,7 +7937,9 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+Mukhopadhy
+ay,Asish
 
 Section 53 LAB M 02:30 PM
 03:50 
@@ -7522,7 +7951,9 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+Mukhopadhy
+ay,Asish
 
 Section 54 LAB W 02:30 PM
 03:50 
@@ -7534,7 +7965,9 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+Mukhopadhy
+ay,Asish
 
 COMP-2560 (-) System Programming
 Section 1 3.00 LEC MW 04:00 PM
@@ -7562,7 +7995,7 @@ PM
 2021-
 08-11
 
-Online TBA
+Online Wu,Dan
 
 Section 52 LAB W 05:30 PM
 06:50 
@@ -7574,19 +8007,7 @@ PM
 2021-
 08-11
 
-Online TBA
-
-Section 53 LAB M 07:00 PM
-08:20 
-PM
-
-2021-
-05-10
-
-2021-
-08-11
-
-Online TBA
+Online Wu,Dan
 
 Section 54 LAB W 07:00 PM
 08:20 
@@ -7598,7 +8019,29 @@ PM
 2021-
 08-11
 
-Online TBA
+Online Wu,Dan
+
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 35
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
 
 COMP-2650 (-) Comp Architre I:Digital Design
 Section 1 3.00 LEC TTH 05:30 PM
@@ -7628,7 +8071,9 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+Alkhateeb,
+Abedalrhman
 
 Section 52 LAB TH 07:00 PM
 08:20 
@@ -7640,7 +8085,9 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+Alkhateeb,
+Abedalrhman
 
 Section 53 LAB F 11:30 AM
 12:50 
@@ -7652,7 +8099,9 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+Alkhateeb,
+Abedalrhman
 
 Section 54 LAB F 01:00 PM
 02:20 
@@ -7664,7 +8113,9 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+Alkhateeb,
+Abedalrhman
 
 COMP-2707 (-) Advanced Website Design
 
@@ -7688,29 +8139,7 @@ Section 1 3.00 LEC
 2021-
 08-11
 
-Online TBA
-
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 34
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
+Online Yuan,Xiaobu
 
 COMP-3057 (-) Cyber-Ethics
 Section 91 3.00 LEC
@@ -7765,7 +8194,7 @@ PM
 2021-
 08-11
 
-Online TBA
+Online Kobti,Ziad
 
 COMP-3670 (-) Computer Networks
 
@@ -7804,7 +8233,54 @@ Section 1 3.00 LEC
 2021-
 08-11
 
-Online TBA
+Online Yuan,Xiaobu
+
+COMP-4960A (-) Research Project
+Section 1 Full 3.00 LEC
+
+2021-
+05-10
+
+2021-
+08-11
+
+Online Tsin,Peter H
+
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 36
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
+
+COMP-4960B (-) Research Project
+Section 1 3.00 LEC F 10:00 AM
+
+12:50 
+PM
+
+2021-
+05-10
+
+2021-
+08-11
+
+Tsin,Peter H
 
 COMP-4970 (-) Co-op Work Term III
 Section 1 3.00 LEC
@@ -7838,7 +8314,7 @@ Section 2 3.00 LEC
 Online Yuan,Xiaobu
 
 COMP-4990B (-) Project Mgmt: Techniques&Tools
-Section 1 3.00 LEC
+Section 1 Full 3.00 LEC
 
 2021-
 05-10
@@ -7849,7 +8325,7 @@ Section 1 3.00 LEC
 Online Kobti,Ziad
 
 COMP-8010 (-) Work Term
-Section 1 3.00 LEC
+Section 1 Full 3.00 LEC
 
 2021-
 05-10
@@ -7861,7 +8337,7 @@ Online
 Ngom,
 Alioune
 
-Section 2 3.00 LEC
+Section 2 Full 3.00 LEC
 2021-
 05-10
 
@@ -7887,7 +8363,7 @@ PM
 Online Yuan,Xiaobu
 
 COMP-8117 (-) Advanced Software Eng. Topics
-Section 1 3.00 LEC M 11:30 AM
+Section 1 Full 3.00 LEC M 11:30 AM
 
 02:20 
 PM
@@ -7902,29 +8378,21 @@ Online
 Yacoub,
 Aznam
 
+Section 2 3.00 LEC W 08:30 AM
+11:20 
+AM
 
+2021-
+05-10
 
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
+2021-
+08-11
 
-02:30:45 AM
-Page 35
+Online
+Yacoub,
+Aznam
 
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
-
-Section 2 3.00 LEC W 11:30 AM
+Section 3 Full 3.00 LEC T 11:30 AM
 02:20 
 PM
 
@@ -7937,18 +8405,6 @@ PM
 Online
 Yacoub,
 Aznam
-
-Section 3 3.00 LEC T 11:30 AM
-02:20 
-PM
-
-2021-
-05-10
-
-2021-
-08-11
-
-Online TBA
 
 COMP-8157 (-) Advanced Database Topics
 Section 1 3.00 LEC M 08:30 AM
@@ -7966,7 +8422,7 @@ Online
 Selvarajah,
 Kalyani
 
-Section 2 3.00 LEC W 08:30 AM
+Section 2 Full 3.00 LEC W 08:30 AM
 11:20 
 AM
 
@@ -8012,7 +8468,7 @@ Online
 Al Mamoori,
 Saja K
 
-Section 2 3.00 LEC TH 01:00 PM
+Section 2 Full 3.00 LEC TH 01:00 PM
 03:50 
 PM
 
@@ -8043,8 +8499,30 @@ Boufama,
 Boubakeur
 
 COMP-8547 (-) Advanced Computing Concepts
-Section 1 3.00 LEC T 08:30 AM
 
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 37
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
+
+Section 1 Full 3.00 LEC T 08:30 AM
 11:20 
 AM
 
@@ -8054,9 +8532,11 @@ AM
 2021-
 08-11
 
-Online TBA
+Online
+Alkhateeb,
+Abedalrhman
 
-Section 2 3.00 LEC TH 08:30 AM
+Section 2 Full 3.00 LEC TH 08:30 AM
 11:20 
 AM
 
@@ -8066,10 +8546,12 @@ AM
 2021-
 08-11
 
-Online TBA
+Online
+Alkhateeb,
+Abedalrhman
 
-Section 3 3.00 LEC TH 11:30 AM
-02:20 
+Section 3 3.00 LEC M 02:30 PM
+05:20 
 PM
 
 2021-
@@ -8078,7 +8560,9 @@ PM
 2021-
 08-11
 
-Online TBA
+Online
+Alkhateeb,
+Abedalrhman
 
 COMP-8567 (-) Advanced Systems Programming
 Section 1 3.00 LEC T 08:30 AM
@@ -8096,7 +8580,7 @@ Online
 Boufama,
 Boubakeur
 
-Section 2 3.00 LEC TH 08:30 AM
+Section 2 Full 3.00 LEC TH 08:30 AM
 11:20 
 AM
 
@@ -8106,10 +8590,12 @@ AM
 2021-
 08-11
 
-Online TBA
+Online
+Boufama,
+Boubakeur
 
 COMP-8590 (-) Statistical Learning
-Section 1 Full 3.00 LEC F 08:30 AM
+Section 1 Full 3.00 LEC WF 08:30 AM
 
 11:20 
 AM
@@ -8118,8 +8604,9 @@ AM
 05-10
 
 2021-
-08-11
+06-21
 
+Online
 Ngom,
 Alioune
 
@@ -8139,7 +8626,7 @@ Online
 Jiang,
 Shaoquan
 
-Section 2 3.00 LEC W 01:00 PM
+Section 2 Full 3.00 LEC W 01:00 PM
 03:50 
 PM
 
@@ -8191,33 +8678,10 @@ Section 4 Full 3.00 LEC
 05-10
 
 2021-
-08-11
+06-21
 
-Online
 Rueda,Luis 
 G.
-
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 36
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
 
 Section 5 Full 3.00 LEC
 2021-
@@ -8240,6 +8704,30 @@ Section 6 Full 3.00 LEC
 Online
 Ngom,
 Alioune
+
+COMP-8900 (-) AutoML and Data Viz'n in CySec
+
+Section 7 Full 3.00 LEC
+2021-
+05-10
+
+2021-
+08-11
+
+Saad 
+Ahmed,
+Sherif
+
+COMP-8900 (-) Neural NL Understanding
+Section 8 Full 3.00 LEC
+
+2021-
+05-10
+
+2021-
+08-11
+
+Fani,Hossein
 
 COMP-8967 (-) Internship Project I
 Section 1 3.00 LEC F 08:30 AM
@@ -8282,8 +8770,30 @@ Section 3 3.00 LEC
 Online Wu,Dan
 
 COMP-9980 (-) Doctoral Dissertation Research
-Section 1 12.00 LEC
 
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 38
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
+
+Section 1 12.00 LEC
 2021-
 05-10
 
@@ -8407,30 +8917,8 @@ Section 91 3.00 LEC
 Jasra,
 Pardeep
 
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 37
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
-
 FRSC-3105 (-) Forensic Identification
-Section 1 3.00 LEC WF 09:30 AM
+Section 1 Full 3.00 LEC WF 09:30 AM
 
 12:20 
 PM
@@ -8457,6 +8945,17 @@ Section 91 3.00 LEC
 Cioppa,Maria
 T
 
+GLIE-9980 (-) Doctoral Dissertation
+Section 1 18.00 LEC
+
+2021-
+05-10
+
+2021-
+08-11
+
+Mckay,Mike
+
 SCIE-3800 (-) Service Learning
 Section 1 3.00 LEC
 
@@ -8470,8 +8969,30 @@ Bondy,
 Michelle E
 
 SCIE-3900 (-) Undergrad Research Experience
-Section 1 3.00 LEC
 
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 39
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
+
+Section 1 3.00 LEC
 2021-
 05-10
 
@@ -8505,8 +9026,8 @@ Section 1 3.00 LEC
 2021-
 08-11
 
-Barrette-Ng,
-Isabelle
+Smit Heath,
+Victoria L
 
 BIOL-2040 (-) Human Physiology I
 Section 91 3.00 LEC
@@ -8517,7 +9038,8 @@ Section 91 3.00 LEC
 2021-
 08-11
 
-TBA
+Lawrence,
+Terri
 
 BIOL-8018 (-) Techniques: Molecular Biology
 Section 91 3.00 LEC
@@ -8567,7 +9089,7 @@ PM
 2021-
 08-11
 
-Online TBA
+Online Merie,Ahmed
 
 ACSC-8070 (-) Short Term Actuarial Models
 Section 1 3.00 LEC TTH 02:30 PM
@@ -8581,7 +9103,7 @@ PM
 2021-
 08-11
 
-Online TBA
+Online Merie,Ahmed
 
 ACSC-8200 (-) Regression and Time Series
 Section 1 3.00 LEC W 10:00 AM
@@ -8598,28 +9120,6 @@ PM
 Online
 Mian,Rajibul 
 R
-
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 38
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
 
 MATH-1020 (-) Mathematical Foundations
 Section 1 3.00 LEC MW 02:30 PM
@@ -8678,8 +9178,30 @@ PM
 Online Wang,Jing
 
 MATH-1730 (-) Integral Calculus
-Section 1 3.00 LEC TTH 02:30 PM
 
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 40
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
+
+Section 1 3.00 LEC TTH 02:30 PM
 03:50 
 PM
 
@@ -8874,28 +9396,6 @@ Online
 Mian,Rajibul 
 R
 
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 39
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
-
 STAT-4410 (-) Stochastic Processes
 Section 1 Full 3.00 LEC
 
@@ -8935,8 +9435,30 @@ Borisov,
 Dennis
 
 STAT-9980 (-) Dissertation (Ph.D.)
-Section 1 12.00 LEC
 
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 41
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
+
+Section 1 12.00 LEC
 2021-
 05-10
 
@@ -8958,7 +9480,8 @@ Section 91 3.00 LEC
 2021-
 08-11
 
-TBA
+Lubrick,Mark
+A
 
 PHYS-1410 (-) Introductory Physics II
 Section 1 3.00 LEC MWF 11:30 AM
@@ -9026,7 +9549,7 @@ PM
 
 Online TBA
 
-Section 55 LAB W 08:30 AM
+Section 55 Full LAB W 08:30 AM
 11:20 
 AM
 
@@ -9083,30 +9606,8 @@ Section 91 6.00 LEC
 Online TBA
 
 PHYS-8970 (-) M.Sc. Thesis
-
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 40
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
-
 Section 91 12.00 LEC
+
 2021-
 05-10
 
@@ -9141,8 +9642,30 @@ Moscicki,
 Mark
 
 ESCI-1020 (-) Intro to Planetary Science
-Section 91 3.00 LEC
 
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 42
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
+
+Section 91 3.00 LEC
 2021-
 05-10
 
@@ -9275,28 +9798,6 @@ Section 91 3.00 LEC
 
 Polat,Ali
 
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 41
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
-
 ESCI-9980 (-) Doctoral Dissertation
 Section 91 12.00 LEC
 
@@ -9341,16 +9842,27 @@ Section 1 12.00 LEC
 
 Mckay,Mike
 
-GLIE-9980 (-) Doctoral Dissertation
-Section 1 18.00 LEC
 
-2021-
-05-10
 
-2021-
-08-11
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
 
-Mckay,Mike
+02:30:42 AM
+Page 43
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
 
 Odette School of Business
 
@@ -9402,7 +9914,7 @@ Shih,Michael
 S
 
 ACCT-2550 (-) Principles of Managerial Acctg
-Section 91 3.00 LEC M 07:00 PM
+Section 91 Full 3.00 LEC M 07:00 PM
 
 09:50 
 PM
@@ -9476,28 +9988,6 @@ PM
 
 Pathak,
 Jagdish P.
-
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 42
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
 
 ACCT-3610 (-) Taxation I
 Section 91 3.00 LEC TTH 07:00 PM
@@ -9577,6 +10067,28 @@ Online
 Jones,
 Donald
 
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 44
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
+
 ACCT-8070 (-) Integration and Team Building
 Section 91 3.00 LEC M 06:00 PM
 
@@ -9625,7 +10137,7 @@ Online
 Mcfadyen,
 Trevor
 
-Section 6 1.50 LEC W 06:00 PM
+Section 6 Full 1.50 LEC W 06:00 PM
 07:50 
 PM
 
@@ -9698,7 +10210,7 @@ Mohebshahe
 din,
 Mahmood
 
-Section 2 3.00 LEC TTH 02:00 PM
+Section 2 Full 3.00 LEC TTH 02:00 PM
 03:50 
 PM
 
@@ -9742,30 +10254,8 @@ Mougoue,
 Mbodja
 
 BSMM-8130 (-) Managing Employees
-
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 43
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
-
 Section 1 3.00 LEC TTH 10:00 AM
+
 11:50 
 AM
 
@@ -9779,7 +10269,7 @@ Online
 Song,Young 
 Ho
 
-Section 2 3.00 LEC MW 08:00 PM
+Section 2 Full 3.00 LEC MW 08:00 PM
 09:50 
 PM
 
@@ -9880,8 +10370,30 @@ Lee,
 Jonathan
 
 BSMM-8340 (-) Leadership and Organ Change
-Section 1 3.00 LEC MW 08:00 PM
 
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 45
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
+
+Section 1 3.00 LEC MW 08:00 PM
 09:50 
 PM
 
@@ -9940,10 +10452,10 @@ Mitra,
 Santanu
 
 BSMM-8370 (-) International Financial Mgmt
-Section 1 Full 3.00 LEC TTH 10:00 AM
+Section 1 Full 3.00 LEC MW 02:00 PM
 
-11:50 
-AM
+03:50 
+PM
 
 2021-
 05-25
@@ -10026,7 +10538,7 @@ Higginson,
 James K.
 
 BSMM-8560 (-) Quant Anal Logstcs/Sup Chn Mgt
-Section 1 3.00 LEC TTH 10:00 AM
+Section 1 Full 3.00 LEC MW 10:00 AM
 
 11:50 
 AM
@@ -10039,7 +10551,7 @@ AM
 
 Online Guo,Xiaolei
 
-Section 2 3.00 LEC TTH 12:00 PM
+Section 2 Full 3.00 LEC MW 12:00 PM
 01:50 
 PM
 
@@ -10067,33 +10579,11 @@ Online
 Jones,
 Donald
 
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 44
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
-
 BSMM-8630 (-) Corporate Governance
-Section 1 Full 3.00 LEC MW 02:00 PM
+Section 1 Full 3.00 LEC TTH 10:00 AM
 
-03:50 
-PM
+11:50 
+AM
 
 2021-
 05-25
@@ -10162,8 +10652,30 @@ PM
 Online Abdool,Imran
 
 BUSI-8673 (-) Special Topics in Business
-Section 91 3.00 LEC
 
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 46
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
+
+Section 91 3.00 LEC
 WTHFS
 A
 
@@ -10194,9 +10706,21 @@ Online
 Walker,Kent 
 R
 
+BUSR-4990B (-) Bus Research Seminar & Thesis
+Section 1 Full 3.00 LEC
+
+2021-
+05-10
+
+2021-
+08-11
+
+Reavley,
+Martha A
+
 FINA-2700 (-) Business Finance I
 
-Section 91 3.00 LEC
+Section 91 Full 3.00 LEC
 2021-
 05-10
 
@@ -10230,7 +10754,7 @@ AM
 05-10
 
 2021-
-06-21
+08-11
 
 An,Yunbi
 
@@ -10288,28 +10812,6 @@ PM
 08-11
 
 Online Sarkis,Diana
-
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 45
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
 
 MGMT-2400 (-) Mgmt and Organizational Life
 Section 91 3.00 LEC T 07:00 PM
@@ -10373,6 +10875,28 @@ PM
 Online
 Christmas,
 Jaimie
+
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 47
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
 
 MGMT-4410 (-) Training and Development
 Section 91 3.00 LEC W 07:00 PM
@@ -10493,9 +11017,9 @@ Pulcer,
 Marcin
 
 MSCI-2020 (-) Business Data Analysis
-Section 91 3.00 LEC MW 04:00 PM
+Section 91 3.00 LEC MW 05:30 PM
 
-05:20 
+06:20 
 PM
 
 2021-
@@ -10519,28 +11043,6 @@ PM
 08-11
 
 Shahi,Shashi
-
-
-
-InterSummer 2021 Course Offerings
-Monday, April 19, 2021
-
-02:30:45 AM
-Page 46
-
-Course Section Credits Act Days Start 
-Time
-
-Stop 
-Time
-
-Start 
-Date
-
-End 
-Date
-
-Bldg/Room Professor
 
 MSCI-2200 (-) Quantitative Decision Models I
 
@@ -10587,7 +11089,7 @@ PM
 2021-
 08-11
 
-Online TBA
+Online Mousa,Malek
 
 STEN-1000 (-) Introduction to Business
 Section 91 3.00 LEC T 07:00 PM
@@ -10605,6 +11107,28 @@ Online
 Abdulhussei
 n,Ali
 
+
+
+InterSummer 2021 Course Offerings
+Monday, May 17, 2021
+
+02:30:42 AM
+Page 48
+
+Course Section Credits Act Days Start 
+Time
+
+Stop 
+Time
+
+Start 
+Date
+
+End 
+Date
+
+Bldg/Room Professor
+
 STEN-2050 (-) B. Comm. Co-op Work Term I
 Section 1 Full 3.00 LEC
 
@@ -10617,7 +11141,7 @@ Section 1 Full 3.00 LEC
 Online Baki,Fazle F.
 
 STEN-2900 (-) Fundamentals of Entrepreneur
-Section 91 3.00 LEC
+Section 91 Full 3.00 LEC
 
 2021-
 05-10
@@ -10640,7 +11164,7 @@ Section 1 Full 3.00 LEC
 Online Baki,Fazle F.
 
 STEN-3930 (-) International Business
-Section 91 3.00 LEC
+Section 91 Full 3.00 LEC
 
 2021-
 05-10
@@ -10666,7 +11190,7 @@ PM
 Online Allen,Craig J.
 
 STEN-4050 (-) B. Comm. Co-op Work Term III
-Section 1 3.00 LEC
+Section 1 Full 3.00 LEC
 
 2021-
 05-10
