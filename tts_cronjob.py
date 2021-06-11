@@ -27,17 +27,22 @@ def get_newest_date():
         keys.append(key)
         vals.append(date)
     
+    print("keys", keys)
+    print("vals", vals)
     i = vals.index(max(vals))
+    print("keys[i]", keys[i])
     return keys[i] 
 
 # script_glue: combines all the python scripts to run via OS
 def script_glue():
-    date = get_newest_date()
-
     os.chdir('web-fetch')
     print("current working directory is: ", os.getcwd())
     os.system(f'python checkdate.py')
-    os.chdir('../pdf-mod')
+
+    os.chdir('..')
+    date = get_newest_date()
+
+    os.chdir('pdf-mod')
     os.system(f"python pdf2txt.py {date}.pdf > ../local-data/{date}.txt")
     os.chdir('../../backend/')
     os.system(f"python manage.py pdf-scrape --filename={date}")

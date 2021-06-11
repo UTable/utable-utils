@@ -92,7 +92,7 @@ for tag in p_tags:
     print("{0} : {1}".format(date_obj, type(date_obj)))
     print("--------------")
 
-if not stored_dates:
+if stored_dates:
     with open(FILENAME, "w") as fp:
         json.dump(dates, fp, indent=4)
     print(f"dates: {dates}")
